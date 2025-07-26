@@ -1,0 +1,839 @@
+{
+  "questions": [
+    {
+      "question": "Which is the largest continent by area?",
+      "options": ["Asia", "Africa", "North America", "Europe"],
+      "answer": "Asia"
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+      "answer": "Ottawa"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["Japan", "China", "Thailand", "South Korea"],
+      "answer": "Japan"
+    },
+    {
+      "question": "Which desert is the largest in the world?",
+      "options": ["Gobi", "Sahara", "Kalahari", "Arctic"],
+      "answer": "Sahara"
+    },
+    {
+      "question": "What is the official language of Brazil?",
+      "options": ["Spanish", "Portuguese", "English", "French"],
+      "answer": "Portuguese"
+    },
+    {
+      "question": "Which river is the longest in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "answer": "Nile"
+    },
+    {
+      "question": "Mount Everest lies between which two countries?",
+      "options": ["India and Nepal", "China and India", "Nepal and China", "Bhutan and Nepal"],
+      "answer": "Nepal and China"
+    },
+    {
+      "question": "Which country has the most number of islands?",
+      "options": ["Indonesia", "Philippines", "Sweden", "Japan"],
+      "answer": "Sweden"
+    },
+    {
+      "question": "Which is the smallest country in the world by area?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "answer": "Vatican City"
+    },
+    {
+      "question": "Which continent has the highest number of countries?",
+      "options": ["Asia", "Africa", "Europe", "South America"],
+      "answer": "Africa"
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+      "answer": "Canberra"
+    },
+    {
+      "question": "Which European country uses the currency 'Zloty'?",
+      "options": ["Poland", "Hungary", "Czech Republic", "Slovakia"],
+      "answer": "Poland"
+    },
+    {
+      "question": "Where is the headquarters of the United Nations located?",
+      "options": ["Geneva", "Paris", "New York", "London"],
+      "answer": "New York"
+    },
+    {
+      "question": "Which country has the most natural lakes?",
+      "options": ["Canada", "USA", "Russia", "Brazil"],
+      "answer": "Canada"
+    },
+    {
+      "question": "Which is the most spoken language in the world by native speakers?",
+      "options": ["English", "Mandarin Chinese", "Hindi", "Spanish"],
+      "answer": "Mandarin Chinese"
+    },
+    {
+      "question": "Which African country has the most pyramids?",
+      "options": ["Egypt", "Sudan", "Ethiopia", "Libya"],
+      "answer": "Sudan"
+    },
+    {
+      "question": "Which country has the longest coastline?",
+      "options": ["USA", "Russia", "Canada", "Australia"],
+      "answer": "Canada"
+    },
+    {
+      "question": "Which is the most densely populated country in the world?",
+      "options": ["Monaco", "Bangladesh", "Singapore", "India"],
+      "answer": "Monaco"
+    },
+    {
+      "question": "Which country was formerly known as Persia?",
+      "options": ["Iraq", "Iran", "Syria", "Turkey"],
+      "answer": "Iran"
+    },
+    {
+      "question": "Which city is known as the City of Canals?",
+      "options": ["Amsterdam", "Venice", "Bangkok", "Bruges"],
+      "answer": "Venice"
+    },
+    {
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "options": ["Brazil", "China", "UK", "Russia"],
+      "answer": "Brazil"
+    },
+    {
+      "question": "Which European country is famous for tulips and windmills?",
+      "options": ["Netherlands", "Belgium", "Denmark", "Germany"],
+      "answer": "Netherlands"
+    },
+    {
+      "question": "Which country is home to the Great Barrier Reef?",
+      "options": ["Australia", "USA", "India", "South Africa"],
+      "answer": "Australia"
+    },
+    {
+      "question": "Which mountain range separates Europe from Asia?",
+      "options": ["Andes", "Alps", "Himalayas", "Ural"],
+      "answer": "Ural"
+    },
+    {
+      "question": "Which country is famous for its fjords?",
+      "options": ["Sweden", "Iceland", "Norway", "Finland"],
+      "answer": "Norway"
+    },
+    {
+      "question": "In which country is the ancient city of Petra located?",
+      "options": ["Egypt", "Jordan", "Syria", "Iraq"],
+      "answer": "Jordan"
+    },
+    {
+      "question": "Which U.S. state is the Grand Canyon located in?",
+      "options": ["Nevada", "Arizona", "California", "Utah"],
+      "answer": "Arizona"
+    },
+    {
+      "question": "Which country is known for inventing pizza?",
+      "options": ["France", "Italy", "Greece", "Spain"],
+      "answer": "Italy"
+    },
+    {
+      "question": "Which city is known as the Silicon Valley of India?",
+      "options": ["Hyderabad", "Chennai", "Bangalore", "Pune"],
+      "answer": "Bangalore"
+    },
+    {
+      "question": "What is the largest island in the world?",
+      "options": ["Australia", "Greenland", "Borneo", "New Guinea"],
+      "answer": "Greenland"
+    },
+    {
+      "question": "Which river flows through Paris?",
+      "options": ["Seine", "Thames", "Danube", "Rhine"],
+      "answer": "Seine"
+    },
+    {
+      "question": "Which is the southernmost continent?",
+      "options": ["Africa", "South America", "Australia", "Antarctica"],
+      "answer": "Antarctica"
+    },
+    {
+      "question": "Which Asian country has the most population?",
+      "options": ["India", "China", "Indonesia", "Pakistan"],
+      "answer": "China"
+    },
+    {
+      "question": "Which country is known for the Eiffel Tower?",
+      "options": ["Italy", "Germany", "France", "Spain"],
+      "answer": "France"
+    },
+    {
+      "question": "Which Asian city is known for its skyscrapers and Victoria Harbour?",
+      "options": ["Tokyo", "Hong Kong", "Singapore", "Seoul"],
+      "answer": "Hong Kong"
+    },
+    {
+      "question": "Which country has a red flag with a white cross?",
+      "options": ["Switzerland", "Denmark", "England", "Norway"],
+      "answer": "Switzerland"
+    },
+    {
+      "question": "Which desert covers most of northern Africa?",
+      "options": ["Gobi", "Sahara", "Namib", "Thar"],
+      "answer": "Sahara"
+    },
+    {
+      "question": "Which is the most visited country in the world?",
+      "options": ["USA", "France", "Italy", "Spain"],
+      "answer": "France"
+    },
+    {
+      "question": "What is the name of the boundary between North Korea and South Korea?",
+      "options": ["Borderline", "Korean Wall", "DMZ", "38th Parallel"],
+      "answer": "DMZ"
+    },
+    {
+      "question": "Which country is the largest exporter of oil?",
+      "options": ["Russia", "USA", "Saudi Arabia", "Canada"],
+      "answer": "Saudi Arabia"
+    },
+    {
+      "question": "Which international organization works for global public health?",
+      "options": ["UNICEF", "WHO", "WTO", "UNESCO"],
+      "answer": "WHO"
+    },
+    {
+      "question": "Which African nation is the most populous?",
+      "options": ["Ethiopia", "Egypt", "South Africa", "Nigeria"],
+      "answer": "Nigeria"
+    },
+    {
+      "question": "Which country is home to the ancient Inca city Machu Picchu?",
+      "options": ["Bolivia", "Peru", "Mexico", "Chile"],
+      "answer": "Peru"
+    },
+    {
+      "question": "Which is the capital of South Korea?",
+      "options": ["Busan", "Incheon", "Seoul", "Daegu"],
+      "answer": "Seoul"
+    },
+    {
+      "question": "Which European country has both mountains and beaches and borders Spain?",
+      "options": ["Italy", "France", "Portugal", "Greece"],
+      "answer": "France"
+    },
+    {
+      "question": "Which river flows through the city of London?",
+      "options": ["Thames", "Seine", "Danube", "Clyde"],
+      "answer": "Thames"
+    },
+    {
+      "question": "Which city hosted the first modern Olympic Games in 1896?",
+      "options": ["Athens", "Rome", "Paris", "London"],
+      "answer": "Athens"
+    },
+    {
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "options": ["France", "Germany", "UK", "Italy"],
+      "answer": "France"
+    },
+    {
+      "question": "What is the currency of South Africa?",
+      "options": ["Rand", "Dollar", "Peso", "Dirham"],
+      "answer": "Rand"
+    },
+    {
+      "question": "Which is the largest volcano in the world?",
+      "options": ["Mount Fuji", "Mauna Loa", "Mount Etna", "Krakatoa"],
+      "answer": "Mauna Loa"
+    },
+    {
+      "question": "Which country has the highest number of time zones?",
+      "options": ["USA", "Russia", "France", "China"],
+      "answer": "France"
+    },
+    {
+      "question": "Which country is known for the historic city of Timbuktu?",
+      "options": ["Mali", "Nigeria", "Egypt", "Morocco"],
+      "answer": "Mali"
+    },
+    {
+      "question": "In which country would you find the city of Dubrovnik?",
+      "options": ["Croatia", "Serbia", "Montenegro", "Slovenia"],
+      "answer": "Croatia"
+    },
+    {
+      "question": "Which country is known for creating the famous dessert Baklava?",
+      "options": ["Greece", "Turkey", "Lebanon", "Egypt"],
+      "answer": "Turkey"
+    },
+    {
+      "question": "What is the tallest mountain in Africa?",
+      "options": ["Mount Kenya", "Mount Kilimanjaro", "Ras Dashen", "Mount Elgon"],
+      "answer": "Mount Kilimanjaro"
+    },
+    {
+      "question": "Which two countries share the longest international border?",
+      "options": ["USA and Mexico", "China and Russia", "USA and Canada", "India and China"],
+      "answer": "USA and Canada"
+    },
+    {
+      "question": "Which European capital city is built on 14 islands?",
+      "options": ["Stockholm", "Oslo", "Copenhagen", "Reykjavik"],
+      "answer": "Stockholm"
+    },
+    {
+      "question": "Which desert is located in Mongolia and China?",
+      "options": ["Gobi", "Sahara", "Karakum", "Kalahari"],
+      "answer": "Gobi"
+    },
+    {
+      "question": "Which city is famous for its historic Colosseum?",
+      "options": ["Athens", "Istanbul", "Rome", "Madrid"],
+      "answer": "Rome"
+    },
+    {
+      "question": "Which is the only country that is also a continent?",
+      "options": ["Greenland", "Australia", "Antarctica", "Iceland"],
+      "answer": "Australia"
+    },
+    {
+      "question": "Which African country is famous for its pyramids besides Egypt?",
+      "options": ["Sudan", "Ethiopia", "Libya", "Algeria"],
+      "answer": "Sudan"
+    },
+    {
+      "question": "Which city is known as the financial capital of the world?",
+      "options": ["London", "New York", "Hong Kong", "Tokyo"],
+      "answer": "New York"
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "options": ["Buenos Aires", "Lima", "Santiago", "Montevideo"],
+      "answer": "Buenos Aires"
+    },
+    {
+      "question": "Which country has a maple leaf on its flag?",
+      "options": ["USA", "Canada", "UK", "Australia"],
+      "answer": "Canada"
+    },
+    {
+      "question": "Which European country has the city of Bruges?",
+      "options": ["Belgium", "Netherlands", "Luxembourg", "France"],
+      "answer": "Belgium"
+    },
+    {
+      "question": "Which Middle Eastern country is famous for its cedar trees?",
+      "options": ["Jordan", "Lebanon", "Israel", "Iran"],
+      "answer": "Lebanon"
+    },
+    {
+      "question": "Which is the largest country in South America?",
+      "options": ["Argentina", "Colombia", "Brazil", "Chile"],
+      "answer": "Brazil"
+    },
+    {
+      "question": "Which international body handles world trade rules?",
+      "options": ["WTO", "UNESCO", "UN", "IMF"],
+      "answer": "WTO"
+    },
+    {
+      "question": "Which is the coldest place on Earth?",
+      "options": ["Alaska", "Greenland", "Antarctica", "Siberia"],
+      "answer": "Antarctica"
+    },
+    {
+      "question": "Which Asian country is an archipelago of over 7,000 islands?",
+      "options": ["Indonesia", "Philippines", "Japan", "Thailand"],
+      "answer": "Philippines"
+    },
+    {
+      "question": "Which international agreement aims to reduce climate change?",
+      "options": ["Paris Agreement", "Kyoto Protocol", "Geneva Convention", "Montreal Protocol"],
+      "answer": "Paris Agreement"
+    },
+    {
+      "question": "Which country is famous for its Samurai history?",
+      "options": ["China", "Japan", "South Korea", "Vietnam"],
+      "answer": "Japan"
+    },
+    {
+      "question": "Which city is known for Big Ben?",
+      "options": ["London", "Manchester", "Birmingham", "Liverpool"],
+      "answer": "London"
+    },
+    {
+      "question": "Which country has the most UNESCO World Heritage Sites?",
+      "options": ["China", "Italy", "France", "Spain"],
+      "answer": "Italy"
+    },
+    {
+      "question": "What is the capital of Kenya?",
+      "options": ["Nairobi", "Kampala", "Dar es Salaam", "Addis Ababa"],
+      "answer": "Nairobi"
+    },
+    {
+      "question": "Which famous wall was built to protect the northern border of China?",
+      "options": ["Berlin Wall", "Great Wall of China", "Hadrian's Wall", "Wall of Babylon"],
+      "answer": "Great Wall of China"
+    },
+    {
+      "question": "Which Caribbean country was the first to gain independence?",
+      "options": ["Jamaica", "Haiti", "Barbados", "Trinidad and Tobago"],
+      "answer": "Haiti"
+    },
+    {
+      "question": "Which European country is shaped like a boot?",
+      "options": ["France", "Italy", "Spain", "Portugal"],
+      "answer": "Italy"
+    },
+    {
+      "question": "What is the capital of Thailand?",
+      "options": ["Bangkok", "Phuket", "Chiang Mai", "Krabi"],
+      "answer": "Bangkok"
+    },
+    {
+      "question": "Which African river is the world's longest?",
+      "options": ["Zambezi", "Congo", "Nile", "Niger"],
+      "answer": "Nile"
+    },
+    {
+      "question": "Which Asian city hosted the 2020 Summer Olympics (held in 2021)?",
+      "options": ["Beijing", "Tokyo", "Seoul", "Bangkok"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "Which country is home to the Andes Mountains?",
+      "options": ["Brazil", "Argentina", "Peru", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the capital of Iceland?",
+      "options": ["Oslo", "Reykjavik", "Helsinki", "Stockholm"],
+      "answer": "Reykjavik"
+    },
+    {
+      "question": "What is the capital of Turkey?",
+      "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
+      "answer": "Ankara"
+    },
+    {
+      "question": "Which European country has the most volcanoes?",
+      "options": ["Italy", "Greece", "Iceland", "France"],
+      "answer": "Iceland"
+    },
+    {
+      "question": "Which international organization promotes education, science, and culture?",
+      "options": ["UNESCO", "UNICEF", "WHO", "WTO"],
+      "answer": "UNESCO"
+    },
+    {
+      "question": "Which mountain is known as the 'Savage Mountain'?",
+      "options": ["Mount Everest", "K2", "Kangchenjunga", "Makalu"],
+      "answer": "K2"
+    },
+    {
+      "question": "Which is the busiest airport in the world by passenger traffic?",
+      "options": ["Heathrow", "Dubai", "Hartsfield-Jackson Atlanta", "LAX"],
+      "answer": "Hartsfield-Jackson Atlanta"
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "options": ["Berlin", "Munich", "Frankfurt", "Hamburg"],
+      "answer": "Berlin"
+    },
+    {
+      "question": "Which two continents are located entirely in the Southern Hemisphere?",
+      "options": ["Australia and Antarctica", "Africa and South America", "South America and Australia", "Asia and Australia"],
+      "answer": "Australia and Antarctica"
+    },
+    {
+      "question": "What is the capital of Portugal?",
+      "options": ["Porto", "Lisbon", "Madrid", "Valencia"],
+      "answer": "Lisbon"
+    },
+    {
+      "question": "Which city is famous for its annual Carnival celebration?",
+      "options": ["Madrid", "Rio de Janeiro", "New Orleans", "Venice"],
+      "answer": "Rio de Janeiro"
+    },
+    {
+      "question": "Which Asian country has the capital city of Dhaka?",
+      "options": ["Bangladesh", "Pakistan", "Nepal", "Sri Lanka"],
+      "answer": "Bangladesh"
+    },
+    {
+      "question": "Which African country is located on the Horn of Africa?",
+      "options": ["Eritrea", "Somalia", "Djibouti", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Yuan", "Won", "Yen", "Baht"],
+      "answer": "Yen"
+    },
+    {
+      "question": "Which is the deepest ocean trench?",
+      "options": ["Mariana Trench", "Peru-Chile Trench", "Japan Trench", "Philippine Trench"],
+      "answer": "Mariana Trench"
+    },
+    {
+      "question": "Which country has the most active volcanoes?",
+      "options": ["Indonesia", "Japan", "Iceland", "Philippines"],
+      "answer": "Indonesia"
+    },
+    {
+      "question": "What is the smallest ocean in the world?",
+      "options": ["Arctic Ocean", "Indian Ocean", "Southern Ocean", "Atlantic Ocean"],
+      "answer": "Arctic Ocean"
+    },
+    {
+      "question": "Which country is known as the 'Land of Fire and Ice'?",
+      "options": ["Norway", "Iceland", "Finland", "Greenland"],
+      "answer": "Iceland"
+    },
+    {
+      "question": "Which city is the capital of Egypt?",
+      "options": ["Alexandria", "Cairo", "Luxor", "Aswan"],
+      "answer": "Cairo"
+    },
+    {
+      "question": "Which is the highest waterfall in the world?",
+      "options": ["Niagara Falls", "Angel Falls", "Victoria Falls", "Iguazu Falls"],
+      "answer": "Angel Falls"
+    },
+    {
+      "question": "Which country is completely surrounded by South Africa?",
+      "options": ["Botswana", "Lesotho", "Swaziland", "Zimbabwe"],
+      "answer": "Lesotho"
+    },
+    {
+      "question": "What is the capital of Morocco?",
+      "options": ["Casablanca", "Marrakech", "Rabat", "Fez"],
+      "answer": "Rabat"
+    },
+    {
+      "question": "Which strait separates Africa from Europe?",
+      "options": ["Strait of Gibraltar", "Strait of Hormuz", "Bering Strait", "Strait of Malacca"],
+      "answer": "Strait of Gibraltar"
+    },
+    {
+      "question": "Which is the largest lake in Africa?",
+      "options": ["Lake Tanganyika", "Lake Malawi", "Lake Victoria", "Lake Chad"],
+      "answer": "Lake Victoria"
+    },
+    {
+      "question": "Which country has the most neighbors?",
+      "options": ["Russia", "China", "Brazil", "Germany"],
+      "answer": "China"
+    },
+    {
+      "question": "What is the capital of Chile?",
+      "options": ["Santiago", "Valparaiso", "Concepcion", "La Serena"],
+      "answer": "Santiago"
+    },
+    {
+      "question": "Which is the driest place on Earth?",
+      "options": ["Sahara Desert", "Atacama Desert", "Death Valley", "Antarctic Dry Valleys"],
+      "answer": "Atacama Desert"
+    },
+    {
+      "question": "Which country is known for having no army?",
+      "options": ["Costa Rica", "Switzerland", "Luxembourg", "Monaco"],
+      "answer": "Costa Rica"
+    },
+    {
+      "question": "What is the largest sea in the world?",
+      "options": ["Mediterranean Sea", "Caribbean Sea", "South China Sea", "Arabian Sea"],
+      "answer": "South China Sea"
+    },
+    {
+      "question": "Which city is known as the 'Pearl of the Orient'?",
+      "options": ["Hong Kong", "Manila", "Singapore", "Bangkok"],
+      "answer": "Manila"
+    },
+    {
+      "question": "Which country has the most coral reefs?",
+      "options": ["Australia", "Philippines", "Indonesia", "Maldives"],
+      "answer": "Indonesia"
+    },
+    {
+      "question": "What is the capital of New Zealand?",
+      "options": ["Auckland", "Wellington", "Christchurch", "Hamilton"],
+      "answer": "Wellington"
+    },
+    {
+      "question": "Which is the largest peninsula in the world?",
+      "options": ["Arabian Peninsula", "Indian Peninsula", "Iberian Peninsula", "Scandinavian Peninsula"],
+      "answer": "Arabian Peninsula"
+    },
+    {
+      "question": "Which country is home to the world's largest salt flat?",
+      "options": ["Chile", "Bolivia", "Argentina", "Peru"],
+      "answer": "Bolivia"
+    },
+    {
+      "question": "What is the capital of Vietnam?",
+      "options": ["Ho Chi Minh City", "Hanoi", "Da Nang", "Hue"],
+      "answer": "Hanoi"
+    },
+    {
+      "question": "Which mountain range runs along the western coast of South America?",
+      "options": ["Rocky Mountains", "Andes", "Atlas Mountains", "Appalachian Mountains"],
+      "answer": "Andes"
+    },
+    {
+      "question": "Which country is known for the Terracotta Army?",
+      "options": ["Japan", "China", "Mongolia", "Korea"],
+      "answer": "China"
+    },
+    {
+      "question": "What is the capital of Malaysia?",
+      "options": ["Kuala Lumpur", "George Town", "Johor Bahru", "Ipoh"],
+      "answer": "Kuala Lumpur"
+    },
+    {
+      "question": "Which is the world's largest inland body of water?",
+      "options": ["Lake Superior", "Caspian Sea", "Lake Baikal", "Aral Sea"],
+      "answer": "Caspian Sea"
+    },
+    {
+      "question": "Which country is famous for Easter Island?",
+      "options": ["Ecuador", "Chile", "Peru", "Colombia"],
+      "answer": "Chile"
+    },
+    {
+      "question": "What is the capital of Saudi Arabia?",
+      "options": ["Riyadh", "Jeddah", "Mecca", "Medina"],
+      "answer": "Riyadh"
+    },
+    {
+      "question": "Which is the world's largest archipelago?",
+      "options": ["Philippines", "Indonesia", "Japan", "Greece"],
+      "answer": "Indonesia"
+    },
+    {
+      "question": "Which country is known as the 'Land of a Million Elephants'?",
+      "options": ["Thailand", "Laos", "Cambodia", "Myanmar"],
+      "answer": "Laos"
+    },
+    {
+      "question": "What is the capital of Nigeria?",
+      "options": ["Lagos", "Abuja", "Kano", "Ibadan"],
+      "answer": "Abuja"
+    },
+    {
+      "question": "Which is the world's largest hot desert?",
+      "options": ["Sahara", "Arabian", "Kalahari", "Thar"],
+      "answer": "Sahara"
+    },
+    {
+      "question": "Which country is famous for its Blue Lagoon geothermal spa?",
+      "options": ["Norway", "Iceland", "Finland", "Denmark"],
+      "answer": "Iceland"
+    },
+    {
+      "question": "What is the capital of Ethiopia?",
+      "options": ["Addis Ababa", "Dire Dawa", "Bahir Dar", "Awassa"],
+      "answer": "Addis Ababa"
+    },
+    {
+      "question": "Which sea is the world's saltiest?",
+      "options": ["Dead Sea", "Red Sea", "Great Salt Lake", "Salton Sea"],
+      "answer": "Dead Sea"
+    },
+    {
+      "question": "Which country is known for inventing the tango dance?",
+      "options": ["Spain", "Argentina", "Uruguay", "Brazil"],
+      "answer": "Argentina"
+    },
+    {
+      "question": "What is the capital of Peru?",
+      "options": ["Lima", "Cusco", "Arequipa", "Trujillo"],
+      "answer": "Lima"
+    },
+    {
+      "question": "Which is the world's longest mountain range?",
+      "options": ["Himalayas", "Rocky Mountains", "Andes", "Alps"],
+      "answer": "Andes"
+    },
+    {
+      "question": "Which country is famous for Angkor Wat?",
+      "options": ["Thailand", "Vietnam", "Cambodia", "Laos"],
+      "answer": "Cambodia"
+    },
+    {
+      "question": "What is the capital of Colombia?",
+      "options": ["Bogota", "Medellin", "Cali", "Cartagena"],
+      "answer": "Bogota"
+    },
+    {
+      "question": "Which is the world's largest freshwater lake by volume?",
+      "options": ["Lake Superior", "Lake Baikal", "Lake Tanganyika", "Caspian Sea"],
+      "answer": "Lake Baikal"
+    },
+    {
+      "question": "Which country is known for the Galápagos Islands?",
+      "options": ["Chile", "Peru", "Ecuador", "Colombia"],
+      "answer": "Ecuador"
+    },
+    {
+      "question": "What is the capital of Jordan?",
+      "options": ["Amman", "Aqaba", "Irbid", "Zarqa"],
+      "answer": "Amman"
+    },
+    {
+      "question": "Which is the world's highest plateau?",
+      "options": ["Tibetan Plateau", "Altiplano", "Deccan Plateau", "Colorado Plateau"],
+      "answer": "Tibetan Plateau"
+    },
+    {
+      "question": "Which country is famous for the Matterhorn mountain?",
+      "options": ["Austria", "Switzerland", "Italy", "France"],
+      "answer": "Switzerland"
+    },
+    {
+      "question": "What is the capital of Ghana?",
+      "options": ["Accra", "Kumasi", "Tamale", "Cape Coast"],
+      "answer": "Accra"
+    },
+    {
+      "question": "Which is the world's largest gulf?",
+      "options": ["Gulf of Mexico", "Persian Gulf", "Gulf of Alaska", "Hudson Bay"],
+      "answer": "Gulf of Mexico"
+    },
+    {
+      "question": "Which country is known for the ancient city of Carthage?",
+      "options": ["Libya", "Tunisia", "Algeria", "Morocco"],
+      "answer": "Tunisia"
+    },
+    {
+      "question": "What is the capital of Myanmar?",
+      "options": ["Yangon", "Naypyidaw", "Mandalay", "Bagan"],
+      "answer": "Naypyidaw"
+    },
+    {
+      "question": "Which is the world's most populous island?",
+      "options": ["Java", "Honshu", "Great Britain", "Luzon"],
+      "answer": "Java"
+    },
+    {
+      "question": "Which country is famous for the Leaning Tower of Pisa?",
+      "options": ["France", "Italy", "Spain", "Greece"],
+      "answer": "Italy"
+    },
+    {
+      "question": "What is the capital of Cuba?",
+      "options": ["Havana", "Santiago de Cuba", "Camaguey", "Santa Clara"],
+      "answer": "Havana"
+    },
+    {
+      "question": "Which is the world's largest river delta?",
+      "options": ["Nile Delta", "Ganges Delta", "Amazon Delta", "Mississippi Delta"],
+      "answer": "Ganges Delta"
+    },
+    {
+      "question": "Which country is known for the Maldives' atolls?",
+      "options": ["Sri Lanka", "Maldives", "Seychelles", "Mauritius"],
+      "answer": "Maldives"
+    },
+    {
+      "question": "What is the capital of Belarus?",
+      "options": ["Minsk", "Brest", "Gomel", "Vitebsk"],
+      "answer": "Minsk"
+    },
+    {
+      "question": "Which is the world's largest mangrove forest?",
+      "options": ["Sundarbans", "Everglades", "Kakadu", "Okavango"],
+      "answer": "Sundarbans"
+    },
+    {
+      "question": "Which country is famous for the Victoria Falls?",
+      "options": ["South Africa", "Botswana", "Zambia and Zimbabwe", "Namibia"],
+      "answer": "Zambia and Zimbabwe"
+    },
+    {
+      "question": "What is the capital of Uruguay?",
+      "options": ["Montevideo", "Salto", "Paysandu", "Las Piedras"],
+      "answer": "Montevideo"
+    },
+    {
+      "question": "Which is the world's largest cave system?",
+      "options": ["Mammoth Cave", "Carlsbad Caverns", "Lechuguilla Cave", "Wind Cave"],
+      "answer": "Mammoth Cave"
+    },
+    {
+      "question": "Which country is known for the Bagan temples?",
+      "options": ["Thailand", "Cambodia", "Myanmar", "Laos"],
+      "answer": "Myanmar"
+    },
+    {
+      "question": "What is the capital of Kazakhstan?",
+      "options": ["Almaty", "Nur-Sultan", "Shymkent", "Aktobe"],
+      "answer": "Nur-Sultan"
+    },
+    {
+      "question": "Which is the world's largest tropical rainforest?",
+      "options": ["Amazon", "Congo Basin", "Daintree", "Borneo"],
+      "answer": "Amazon"
+    },
+    {
+      "question": "Which country is famous for the Serengeti?",
+      "options": ["Kenya", "Tanzania", "Uganda", "Rwanda"],
+      "answer": "Tanzania"
+    },
+    {
+      "question": "What is the capital of Slovenia?",
+      "options": ["Ljubljana", "Maribor", "Celje", "Kranj"],
+      "answer": "Ljubljana"
+    },
+    {
+      "question": "Which is the world's largest geyser field?",
+      "options": ["Yellowstone", "Iceland", "Kamchatka", "Chile"],
+      "answer": "Yellowstone"
+    },
+    {
+      "question": "Which country is known for the Ring of Fire?",
+      "options": ["Japan", "Indonesia", "Philippines", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the capital of Estonia?",
+      "options": ["Tallinn", "Tartu", "Narva", "Parnu"],
+      "answer": "Tallinn"
+    },
+    {
+      "question": "Which is the world's largest sand island?",
+      "options": ["Fraser Island", "Kangaroo Island", "Moreton Island", "North Stradbroke Island"],
+      "answer": "Fraser Island"
+    },
+    {
+      "question": "Which country is famous for the Giants' Causeway?",
+      "options": ["Scotland", "Northern Ireland", "Ireland", "Wales"],
+      "answer": "Northern Ireland"
+    },
+    {
+      "question": "What is the capital of Latvia?",
+      "options": ["Riga", "Daugavpils", "Liepaja", "Jelgava"],
+      "answer": "Riga"
+    },
+    {
+      "question": "Which is the world's largest barrier reef system?",
+      "options": ["Great Barrier Reef", "Belize Barrier Reef", "Red Sea Coral Reef", "New Caledonia Barrier Reef"],
+      "answer": "Great Barrier Reef"
+    },
+    {
+      "question": "Which country is known for the Fjord regions?",
+      "options": ["Norway", "Iceland", "Greenland", "All of the above"],
+      "answer": "All of the above"
+    }
+  ]
+}

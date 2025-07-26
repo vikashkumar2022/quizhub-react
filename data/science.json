@@ -1,0 +1,934 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "NaCl", "O2"],
+      "answer": "H2O"
+    },
+    {
+      "question": "What is the speed of light in vacuum?",
+      "options": ["299,792,458 m/s", "300,000 km/s", "186,000 miles/s", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the atomic number of carbon?",
+      "options": ["4", "6", "8", "12"],
+      "answer": "6"
+    },
+    {
+      "question": "Who proposed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "What is the smallest unit of matter?",
+      "options": ["Molecule", "Atom", "Electron", "Proton"],
+      "answer": "Atom"
+    },
+    {
+      "question": "Which gas makes up about 78% of Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "What is the process by which plants make their food?",
+      "options": ["Respiration", "Photosynthesis", "Digestion", "Transpiration"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Quartz"],
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which scientist is famous for the laws of motion?",
+      "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Johannes Kepler"],
+      "answer": "Isaac Newton"
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+      "answer": "NaCl"
+    },
+    {
+      "question": "Which is the largest planet in our solar system?",
+      "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the study of earthquakes called?",
+      "options": ["Meteorology", "Seismology", "Volcanology", "Geology"],
+      "answer": "Seismology"
+    },
+    {
+      "question": "Which element has the chemical symbol 'Fe'?",
+      "options": ["Fluorine", "Iron", "Francium", "Fermium"],
+      "answer": "Iron"
+    },
+    {
+      "question": "What is the normal human body temperature in Celsius?",
+      "options": ["35°C", "36°C", "37°C", "38°C"],
+      "answer": "37°C"
+    },
+    {
+      "question": "Which scientist developed the periodic table?",
+      "options": ["Marie Curie", "Dmitri Mendeleev", "John Dalton", "Antoine Lavoisier"],
+      "answer": "Dmitri Mendeleev"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "Which is the closest star to Earth?",
+      "options": ["Proxima Centauri", "Alpha Centauri", "The Sun", "Sirius"],
+      "answer": "The Sun"
+    },
+    {
+      "question": "What does DNA stand for?",
+      "options": ["Deoxyribonucleic Acid", "Dinitric Acid", "Dynamic Nuclear Acid", "Double Nucleus Acid"],
+      "answer": "Deoxyribonucleic Acid"
+    },
+    {
+      "question": "Which organ in the human body produces insulin?",
+      "options": ["Liver", "Kidney", "Pancreas", "Heart"],
+      "answer": "Pancreas"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "answer": "Au"
+    },
+    {
+      "question": "Which scientist is known for discovering radioactivity?",
+      "options": ["Marie Curie", "Henri Becquerel", "Pierre Curie", "Ernest Rutherford"],
+      "answer": "Henri Becquerel"
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "options": ["90°C", "95°C", "100°C", "105°C"],
+      "answer": "100°C"
+    },
+    {
+      "question": "Which is the longest bone in the human body?",
+      "options": ["Tibia", "Femur", "Humerus", "Radius"],
+      "answer": "Femur"
+    },
+    {
+      "question": "What is the study of life called?",
+      "options": ["Chemistry", "Physics", "Biology", "Geology"],
+      "answer": "Biology"
+    },
+    {
+      "question": "Which element is most abundant in the Earth's crust?",
+      "options": ["Iron", "Oxygen", "Silicon", "Aluminum"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What is the force that keeps planets in orbit around the Sun?",
+      "options": ["Magnetic force", "Gravitational force", "Nuclear force", "Electric force"],
+      "answer": "Gravitational force"
+    },
+    {
+      "question": "Which vitamin is produced when skin is exposed to sunlight?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "What is the chemical symbol for oxygen?",
+      "options": ["O", "Ox", "O2", "Og"],
+      "answer": "O"
+    },
+    {
+      "question": "Which scientist proposed the theory of evolution?",
+      "options": ["Charles Darwin", "Gregor Mendel", "Alfred Wallace", "Jean-Baptiste Lamarck"],
+      "answer": "Charles Darwin"
+    },
+    {
+      "question": "What is the study of the weather called?",
+      "options": ["Geology", "Meteorology", "Astronomy", "Oceanography"],
+      "answer": "Meteorology"
+    },
+    {
+      "question": "Which is the smallest planet in our solar system?",
+      "options": ["Mars", "Venus", "Mercury", "Pluto"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the chemical formula for carbon dioxide?",
+      "options": ["CO", "CO2", "C2O", "C2O2"],
+      "answer": "CO2"
+    },
+    {
+      "question": "Which blood type is known as the universal donor?",
+      "options": ["A", "B", "AB", "O"],
+      "answer": "O"
+    },
+    {
+      "question": "What is the study of space called?",
+      "options": ["Geology", "Biology", "Astronomy", "Meteorology"],
+      "answer": "Astronomy"
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "options": ["Helium", "Hydrogen", "Lithium", "Carbon"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Liver", "Brain", "Skin", "Lungs"],
+      "answer": "Skin"
+    },
+    {
+      "question": "Which scientist discovered penicillin?",
+      "options": ["Louis Pasteur", "Alexander Fleming", "Robert Koch", "Joseph Lister"],
+      "answer": "Alexander Fleming"
+    },
+    {
+      "question": "What is the freezing point of water?",
+      "options": ["0°C", "32°C", "-10°C", "10°C"],
+      "answer": "0°C"
+    },
+    {
+      "question": "Which is the most abundant gas in the Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "What does pH measure?",
+      "options": ["Temperature", "Pressure", "Acidity or basicity", "Density"],
+      "answer": "Acidity or basicity"
+    },
+    {
+      "question": "Which planet has the most moons?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "What is the unit of electric current?",
+      "options": ["Volt", "Watt", "Ampere", "Ohm"],
+      "answer": "Ampere"
+    },
+    {
+      "question": "Which scientist formulated the laws of planetary motion?",
+      "options": ["Galileo Galilei", "Johannes Kepler", "Tycho Brahe", "Nicolaus Copernicus"],
+      "answer": "Johannes Kepler"
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "options": ["Si", "Ag", "Al", "Sr"],
+      "answer": "Ag"
+    },
+    {
+      "question": "Which organ filters blood in the human body?",
+      "options": ["Liver", "Heart", "Kidney", "Lungs"],
+      "answer": "Kidney"
+    },
+    {
+      "question": "What is the study of fossils called?",
+      "options": ["Archaeology", "Paleontology", "Anthropology", "Geology"],
+      "answer": "Paleontology"
+    },
+    {
+      "question": "Which is the hottest planet in our solar system?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "answer": "Venus"
+    },
+    {
+      "question": "What is the chemical formula for methane?",
+      "options": ["CH4", "C2H6", "C3H8", "C4H10"],
+      "answer": "CH4"
+    },
+    {
+      "question": "How many chambers does a human heart have?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the study of plants called?",
+      "options": ["Zoology", "Botany", "Ecology", "Genetics"],
+      "answer": "Botany"
+    },
+    {
+      "question": "Which element is essential for photosynthesis?",
+      "options": ["Nitrogen", "Phosphorus", "Magnesium", "Potassium"],
+      "answer": "Magnesium"
+    },
+    {
+      "question": "What is the unit of frequency?",
+      "options": ["Hertz", "Joule", "Newton", "Pascal"],
+      "answer": "Hertz"
+    },
+    {
+      "question": "Which scientist is known for the uncertainty principle?",
+      "options": ["Werner Heisenberg", "Erwin Schrödinger", "Max Planck", "Niels Bohr"],
+      "answer": "Werner Heisenberg"
+    },
+    {
+      "question": "What is the chemical symbol for lead?",
+      "options": ["Le", "Ld", "Pb", "Pl"],
+      "answer": "Pb"
+    },
+    {
+      "question": "Which blood vessels carry blood away from the heart?",
+      "options": ["Veins", "Arteries", "Capillaries", "Venules"],
+      "answer": "Arteries"
+    },
+    {
+      "question": "What is the study of insects called?",
+      "options": ["Entomology", "Ornithology", "Herpetology", "Ichthyology"],
+      "answer": "Entomology"
+    },
+    {
+      "question": "Which is the largest moon in our solar system?",
+      "options": ["Europa", "Titan", "Ganymede", "Callisto"],
+      "answer": "Ganymede"
+    },
+    {
+      "question": "What is the chemical formula for ammonia?",
+      "options": ["NH3", "NH4", "N2H4", "N2H6"],
+      "answer": "NH3"
+    },
+    {
+      "question": "Which type of blood cell helps fight infections?",
+      "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+      "answer": "White blood cells"
+    },
+    {
+      "question": "What is the study of heredity called?",
+      "options": ["Genetics", "Evolution", "Ecology", "Taxonomy"],
+      "answer": "Genetics"
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "options": ["Lead", "Mercury", "Tin", "Zinc"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the unit of energy?",
+      "options": ["Watt", "Joule", "Newton", "Pascal"],
+      "answer": "Joule"
+    },
+    {
+      "question": "Which scientist discovered the structure of DNA?",
+      "options": ["Rosalind Franklin", "James Watson", "Francis Crick", "Watson and Crick"],
+      "answer": "Watson and Crick"
+    },
+    {
+      "question": "What is the chemical symbol for copper?",
+      "options": ["Co", "Cu", "Cp", "Ce"],
+      "answer": "Cu"
+    },
+    {
+      "question": "Which part of the brain controls balance?",
+      "options": ["Cerebrum", "Cerebellum", "Brain stem", "Hypothalamus"],
+      "answer": "Cerebellum"
+    },
+    {
+      "question": "What is the study of birds called?",
+      "options": ["Ornithology", "Entomology", "Herpetology", "Mammalogy"],
+      "answer": "Ornithology"
+    },
+    {
+      "question": "Which planet has rings around it?",
+      "options": ["Mars", "Venus", "Saturn", "Mercury"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "What is the chemical formula for hydrogen peroxide?",
+      "options": ["H2O", "H2O2", "HO2", "H3O2"],
+      "answer": "H2O2"
+    },
+    {
+      "question": "Which vitamin deficiency causes scurvy?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "answer": "Vitamin C"
+    },
+    {
+      "question": "What is the study of earthquakes called?",
+      "options": ["Seismology", "Volcanology", "Meteorology", "Hydrology"],
+      "answer": "Seismology"
+    },
+    {
+      "question": "Which is the lightest element?",
+      "options": ["Helium", "Hydrogen", "Lithium", "Beryllium"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "What is the unit of pressure?",
+      "options": ["Newton", "Joule", "Pascal", "Watt"],
+      "answer": "Pascal"
+    },
+    {
+      "question": "Which scientist is known for the laws of electromagnetic induction?",
+      "options": ["Michael Faraday", "James Maxwell", "André-Marie Ampère", "Alessandro Volta"],
+      "answer": "Michael Faraday"
+    },
+    {
+      "question": "What is the chemical symbol for tin?",
+      "options": ["Ti", "Tn", "Sn", "Sb"],
+      "answer": "Sn"
+    },
+    {
+      "question": "Which gland produces growth hormone?",
+      "options": ["Thyroid", "Adrenal", "Pituitary", "Pancreas"],
+      "answer": "Pituitary"
+    },
+    {
+      "question": "What is the study of fish called?",
+      "options": ["Ichthyology", "Ornithology", "Herpetology", "Entomology"],
+      "answer": "Ichthyology"
+    },
+    {
+      "question": "Which planet is known as the Morning Star?",
+      "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+      "answer": "Venus"
+    },
+    {
+      "question": "What is the chemical formula for sulfuric acid?",
+      "options": ["H2SO4", "HCl", "HNO3", "H3PO4"],
+      "answer": "H2SO4"
+    },
+    {
+      "question": "Which process converts glucose into energy in cells?",
+      "options": ["Photosynthesis", "Cellular respiration", "Fermentation", "Glycolysis"],
+      "answer": "Cellular respiration"
+    },
+    {
+      "question": "What is the study of reptiles and amphibians called?",
+      "options": ["Herpetology", "Ichthyology", "Ornithology", "Entomology"],
+      "answer": "Herpetology"
+    },
+    {
+      "question": "Which is the densest planet in our solar system?",
+      "options": ["Earth", "Mercury", "Venus", "Mars"],
+      "answer": "Earth"
+    },
+    {
+      "question": "What is the unit of electric charge?",
+      "options": ["Ampere", "Volt", "Coulomb", "Ohm"],
+      "answer": "Coulomb"
+    },
+    {
+      "question": "Which scientist proposed the atomic theory?",
+      "options": ["John Dalton", "J.J. Thomson", "Ernest Rutherford", "Niels Bohr"],
+      "answer": "John Dalton"
+    },
+    {
+      "question": "What is the chemical symbol for potassium?",
+      "options": ["Po", "Pt", "K", "P"],
+      "answer": "K"
+    },
+    {
+      "question": "Which hormone regulates blood sugar levels?",
+      "options": ["Thyroxine", "Insulin", "Adrenaline", "Cortisol"],
+      "answer": "Insulin"
+    },
+    {
+      "question": "What is the study of fungi called?",
+      "options": ["Mycology", "Botany", "Zoology", "Virology"],
+      "answer": "Mycology"
+    },
+    {
+      "question": "Which moon is the largest in the solar system?",
+      "options": ["Titan", "Ganymede", "Europa", "Callisto"],
+      "answer": "Ganymede"
+    },
+    {
+      "question": "What is the chemical formula for ozone?",
+      "options": ["O2", "O3", "O4", "O"],
+      "answer": "O3"
+    },
+    {
+      "question": "Which part of the eye controls the amount of light entering?",
+      "options": ["Cornea", "Lens", "Iris", "Retina"],
+      "answer": "Iris"
+    },
+    {
+      "question": "What is the study of the ocean called?",
+      "options": ["Oceanography", "Hydrology", "Limnology", "Marine biology"],
+      "answer": "Oceanography"
+    },
+    {
+      "question": "Which element is used in nuclear reactors as fuel?",
+      "options": ["Plutonium", "Uranium", "Thorium", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the unit of magnetic field strength?",
+      "options": ["Tesla", "Weber", "Henry", "Gauss"],
+      "answer": "Tesla"
+    },
+    {
+      "question": "Which scientist is known for the photoelectric effect?",
+      "options": ["Albert Einstein", "Max Planck", "Niels Bohr", "Werner Heisenberg"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "What is the chemical symbol for mercury?",
+      "options": ["Me", "Mr", "Hg", "Mc"],
+      "answer": "Hg"
+    },
+    {
+      "question": "Which blood type is known as the universal recipient?",
+      "options": ["A", "B", "AB", "O"],
+      "answer": "AB"
+    },
+    {
+      "question": "What is the study of viruses called?",
+      "options": ["Virology", "Bacteriology", "Mycology", "Parasitology"],
+      "answer": "Virology"
+    },
+    {
+      "question": "Which planet rotates on its side?",
+      "options": ["Venus", "Mars", "Uranus", "Neptune"],
+      "answer": "Uranus"
+    },
+    {
+      "question": "What is the chemical formula for nitric acid?",
+      "options": ["HNO3", "HCl", "H2SO4", "H3PO4"],
+      "answer": "HNO3"
+    },
+    {
+      "question": "Which organelle is responsible for protein synthesis?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Endoplasmic reticulum"],
+      "answer": "Ribosome"
+    },
+    {
+      "question": "What is the study of bacteria called?",
+      "options": ["Bacteriology", "Virology", "Mycology", "Parasitology"],
+      "answer": "Bacteriology"
+    },
+    {
+      "question": "Which is the coldest planet in our solar system?",
+      "options": ["Neptune", "Uranus", "Pluto", "Mars"],
+      "answer": "Uranus"
+    },
+    {
+      "question": "What is the unit of radioactivity?",
+      "options": ["Becquerel", "Gray", "Sievert", "Roentgen"],
+      "answer": "Becquerel"
+    },
+    {
+      "question": "Which scientist discovered X-rays?",
+      "options": ["Wilhelm Röntgen", "Marie Curie", "Henri Becquerel", "Pierre Curie"],
+      "answer": "Wilhelm Röntgen"
+    },
+    {
+      "question": "What is the chemical symbol for sodium?",
+      "options": ["So", "Sd", "Na", "S"],
+      "answer": "Na"
+    },
+    {
+      "question": "Which enzyme breaks down starch into sugar?",
+      "options": ["Pepsin", "Trypsin", "Amylase", "Lipase"],
+      "answer": "Amylase"
+    },
+    {
+      "question": "What is the study of cells called?",
+      "options": ["Cytology", "Histology", "Anatomy", "Physiology"],
+      "answer": "Cytology"
+    },
+    {
+      "question": "Which planet has the Great Red Spot?",
+      "options": ["Mars", "Saturn", "Jupiter", "Neptune"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the chemical formula for phosphoric acid?",
+      "options": ["H3PO4", "HCl", "H2SO4", "HNO3"],
+      "answer": "H3PO4"
+    },
+    {
+      "question": "Which process produces oxygen as a byproduct?",
+      "options": ["Respiration", "Photosynthesis", "Fermentation", "Transpiration"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "What is the study of tissues called?",
+      "options": ["Cytology", "Histology", "Anatomy", "Physiology"],
+      "answer": "Histology"
+    },
+    {
+      "question": "Which is the brightest planet in our solar system?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "answer": "Venus"
+    },
+    {
+      "question": "What is the unit of capacitance?",
+      "options": ["Farad", "Henry", "Ohm", "Siemens"],
+      "answer": "Farad"
+    },
+    {
+      "question": "Which scientist is known for the quantum theory?",
+      "options": ["Max Planck", "Albert Einstein", "Niels Bohr", "Werner Heisenberg"],
+      "answer": "Max Planck"
+    },
+    {
+      "question": "What is the chemical symbol for chlorine?",
+      "options": ["Ch", "Cl", "C", "Cr"],
+      "answer": "Cl"
+    },
+    {
+      "question": "Which part of the blood carries oxygen?",
+      "options": ["Plasma", "White blood cells", "Red blood cells", "Platelets"],
+      "answer": "Red blood cells"
+    },
+    {
+      "question": "What is the study of drugs called?",
+      "options": ["Pharmacology", "Toxicology", "Pathology", "Physiology"],
+      "answer": "Pharmacology"
+    },
+    {
+      "question": "Which planet has the shortest day?",
+      "options": ["Mercury", "Venus", "Jupiter", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the chemical formula for hydrochloric acid?",
+      "options": ["HCl", "H2SO4", "HNO3", "H3PO4"],
+      "answer": "HCl"
+    },
+    {
+      "question": "Which process removes waste products from the blood?",
+      "options": ["Digestion", "Excretion", "Circulation", "Respiration"],
+      "answer": "Excretion"
+    },
+    {
+      "question": "What is the study of the nervous system called?",
+      "options": ["Neurology", "Psychology", "Psychiatry", "Neuroscience"],
+      "answer": "Neuroscience"
+    },
+    {
+      "question": "Which is the farthest planet from the Sun?",
+      "options": ["Uranus", "Neptune", "Pluto", "Saturn"],
+      "answer": "Neptune"
+    },
+    {
+      "question": "What is the unit of inductance?",
+      "options": ["Farad", "Henry", "Ohm", "Tesla"],
+      "answer": "Henry"
+    },
+    {
+      "question": "Which scientist is known for the double helix model of DNA?",
+      "options": ["Rosalind Franklin", "James Watson", "Francis Crick", "Watson and Crick"],
+      "answer": "Watson and Crick"
+    },
+    {
+      "question": "What is the chemical symbol for fluorine?",
+      "options": ["Fl", "F", "Fr", "Fe"],
+      "answer": "F"
+    },
+    {
+      "question": "Which hormone is produced by the thyroid gland?",
+      "options": ["Insulin", "Thyroxine", "Adrenaline", "Cortisol"],
+      "answer": "Thyroxine"
+    },
+    {
+      "question": "What is the study of disease called?",
+      "options": ["Pathology", "Physiology", "Anatomy", "Pharmacology"],
+      "answer": "Pathology"
+    },
+    {
+      "question": "Which planet has the most complex ring system?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "What is the chemical formula for glucose?",
+      "options": ["C6H12O6", "C12H22O11", "C2H6O", "C3H8O3"],
+      "answer": "C6H12O6"
+    },
+    {
+      "question": "Which process involves the breakdown of food molecules?",
+      "options": ["Anabolism", "Catabolism", "Metabolism", "Synthesis"],
+      "answer": "Catabolism"
+    },
+    {
+      "question": "What is the study of the structure of organisms called?",
+      "options": ["Anatomy", "Physiology", "Morphology", "Taxonomy"],
+      "answer": "Anatomy"
+    },
+    {
+      "question": "Which moon of Jupiter is known for its volcanic activity?",
+      "options": ["Europa", "Ganymede", "Io", "Callisto"],
+      "answer": "Io"
+    },
+    {
+      "question": "What is the unit of power?",
+      "options": ["Joule", "Watt", "Newton", "Pascal"],
+      "answer": "Watt"
+    },
+    {
+      "question": "Which scientist formulated the laws of electromagnetism?",
+      "options": ["James Maxwell", "Michael Faraday", "André-Marie Ampère", "Charles Coulomb"],
+      "answer": "James Maxwell"
+    },
+    {
+      "question": "What is the chemical symbol for calcium?",
+      "options": ["C", "Ca", "Cl", "Cr"],
+      "answer": "Ca"
+    },
+    {
+      "question": "Which part of the brain controls breathing?",
+      "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+      "answer": "Medulla oblongata"
+    },
+    {
+      "question": "What is the study of the functions of organisms called?",
+      "options": ["Anatomy", "Physiology", "Morphology", "Taxonomy"],
+      "answer": "Physiology"
+    },
+    {
+      "question": "Which planet has the most extreme temperature variations?",
+      "options": ["Mercury", "Venus", "Mars", "Neptune"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the chemical formula for ethanol?",
+      "options": ["C2H6O", "C2H4O", "C3H8O", "C4H10O"],
+      "answer": "C2H6O"
+    },
+    {
+      "question": "Which process involves the synthesis of complex molecules?",
+      "options": ["Anabolism", "Catabolism", "Digestion", "Excretion"],
+      "answer": "Anabolism"
+    },
+    {
+      "question": "What is the study of classification of organisms called?",
+      "options": ["Taxonomy", "Ecology", "Evolution", "Genetics"],
+      "answer": "Taxonomy"
+    },
+    {
+      "question": "Which is the largest asteroid in our solar system?",
+      "options": ["Vesta", "Pallas", "Ceres", "Hygiea"],
+      "answer": "Ceres"
+    },
+    {
+      "question": "What is the unit of electric resistance?",
+      "options": ["Ohm", "Ampere", "Volt", "Watt"],
+      "answer": "Ohm"
+    },
+    {
+      "question": "Which scientist is known for the principle of buoyancy?",
+      "options": ["Galileo Galilei", "Archimedes", "Isaac Newton", "Leonardo da Vinci"],
+      "answer": "Archimedes"
+    },
+    {
+      "question": "What is the chemical symbol for magnesium?",
+      "options": ["Ma", "Mg", "Mn", "Mo"],
+      "answer": "Mg"
+    },
+    {
+      "question": "Which vitamin is essential for blood clotting?",
+      "options": ["Vitamin A", "Vitamin D", "Vitamin K", "Vitamin E"],
+      "answer": "Vitamin K"
+    },
+    {
+      "question": "What is the study of relationships between organisms and their environment called?",
+      "options": ["Ecology", "Evolution", "Genetics", "Taxonomy"],
+      "answer": "Ecology"
+    },
+    {
+      "question": "Which comet is visible from Earth every 76 years?",
+      "options": ["Hale-Bopp", "Halley's Comet", "Hyakutake", "Encke"],
+      "answer": "Halley's Comet"
+    },
+    {
+      "question": "What is the chemical formula for sucrose?",
+      "options": ["C6H12O6", "C12H22O11", "C2H6O", "C3H8O3"],
+      "answer": "C12H22O11"
+    },
+    {
+      "question": "Which process converts atmospheric nitrogen into ammonia?",
+      "options": ["Nitrogen fixation", "Nitrification", "Denitrification", "Ammonification"],
+      "answer": "Nitrogen fixation"
+    },
+    {
+      "question": "What is the study of the origin and evolution of life called?",
+      "options": ["Evolution", "Paleontology", "Astrobiology", "Biochemistry"],
+      "answer": "Astrobiology"
+    },
+    {
+      "question": "Which galaxy contains our solar system?",
+      "options": ["Andromeda", "Milky Way", "Triangulum", "Whirlpool"],
+      "answer": "Milky Way"
+    },
+    {
+      "question": "What is the unit of luminous intensity?",
+      "options": ["Lumen", "Lux", "Candela", "Nit"],
+      "answer": "Candela"
+    },
+    {
+      "question": "Which scientist is known for the conservation of energy principle?",
+      "options": ["James Joule", "Rudolf Clausius", "Hermann von Helmholtz", "Lord Kelvin"],
+      "answer": "Hermann von Helmholtz"
+    },
+    {
+      "question": "What is the chemical symbol for zinc?",
+      "options": ["Z", "Zn", "Zi", "Zr"],
+      "answer": "Zn"
+    },
+    {
+      "question": "Which organ produces bile?",
+      "options": ["Pancreas", "Liver", "Gallbladder", "Stomach"],
+      "answer": "Liver"
+    },
+    {
+      "question": "What is the study of the behavior of organisms called?",
+      "options": ["Ethology", "Psychology", "Ecology", "Sociology"],
+      "answer": "Ethology"
+    },
+    {
+      "question": "Which is the nearest galaxy to the Milky Way?",
+      "options": ["Andromeda", "Triangulum", "Large Magellanic Cloud", "Small Magellanic Cloud"],
+      "answer": "Andromeda"
+    },
+    {
+      "question": "What is the chemical formula for acetic acid?",
+      "options": ["CH3COOH", "HCOOH", "C2H2O4", "C3H6O3"],
+      "answer": "CH3COOH"
+    },
+    {
+      "question": "Which process involves the movement of water through plants?",
+      "options": ["Transpiration", "Photosynthesis", "Respiration", "Osmosis"],
+      "answer": "Transpiration"
+    },
+    {
+      "question": "What is the study of the immune system called?",
+      "options": ["Immunology", "Hematology", "Pathology", "Microbiology"],
+      "answer": "Immunology"
+    },
+    {
+      "question": "Which star is closest to Earth besides the Sun?",
+      "options": ["Alpha Centauri A", "Proxima Centauri", "Barnard's Star", "Wolf 359"],
+      "answer": "Proxima Centauri"
+    },
+    {
+      "question": "What is the unit of electric potential?",
+      "options": ["Ampere", "Volt", "Ohm", "Watt"],
+      "answer": "Volt"
+    },
+    {
+      "question": "Which scientist is known for the wave-particle duality of light?",
+      "options": ["Albert Einstein", "Max Planck", "Louis de Broglie", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the chemical symbol for phosphorus?",
+      "options": ["Ph", "P", "Ps", "Po"],
+      "answer": "P"
+    },
+    {
+      "question": "Which process involves the conversion of light energy into chemical energy?",
+      "options": ["Photosynthesis", "Chemosynthesis", "Cellular respiration", "Fermentation"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "What is the study of mountains called?",
+      "options": ["Orology", "Geology", "Geomorphology", "Topography"],
+      "answer": "Orology"
+    },
+    {
+      "question": "Which type of star will our Sun eventually become?",
+      "options": ["Red giant", "White dwarf", "Neutron star", "Black hole"],
+      "answer": "White dwarf"
+    },
+    {
+      "question": "What is the chemical formula for formic acid?",
+      "options": ["HCOOH", "CH3COOH", "C2H2O4", "C3H6O3"],
+      "answer": "HCOOH"
+    },
+    {
+      "question": "Which process involves the breakdown of glucose without oxygen?",
+      "options": ["Aerobic respiration", "Anaerobic respiration", "Fermentation", "Glycolysis"],
+      "answer": "Fermentation"
+    },
+    {
+      "question": "What is the study of crystals called?",
+      "options": ["Crystallography", "Mineralogy", "Petrology", "Geology"],
+      "answer": "Crystallography"
+    },
+    {
+      "question": "Which planet has the longest year?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": "Neptune"
+    },
+    {
+      "question": "What is the unit of magnetic flux?",
+      "options": ["Tesla", "Weber", "Henry", "Gauss"],
+      "answer": "Weber"
+    },
+    {
+      "question": "Which scientist is known for the principle of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Max Planck"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "What is the chemical symbol for sulfur?",
+      "options": ["Su", "S", "Sl", "Sr"],
+      "answer": "S"
+    },
+    {
+      "question": "Which hormone regulates metabolism?",
+      "options": ["Insulin", "Thyroxine", "Adrenaline", "Cortisol"],
+      "answer": "Thyroxine"
+    },
+    {
+      "question": "What is the study of the atmosphere called?",
+      "options": ["Meteorology", "Climatology", "Atmospheric science", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which is the most massive planet in our solar system?",
+      "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the chemical formula for lactic acid?",
+      "options": ["C3H6O3", "C2H4O2", "C4H8O4", "C5H10O5"],
+      "answer": "C3H6O3"
+    },
+    {
+      "question": "Which process involves the production of gametes?",
+      "options": ["Mitosis", "Meiosis", "Binary fission", "Budding"],
+      "answer": "Meiosis"
+    },
+    {
+      "question": "What is the study of soil called?",
+      "options": ["Pedology", "Edaphology", "Soil science", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which moon of Saturn is known for its thick atmosphere?",
+      "options": ["Enceladus", "Titan", "Mimas", "Iapetus"],
+      "answer": "Titan"
+    },
+    {
+      "question": "What is the unit of dose equivalent for radiation?",
+      "options": ["Gray", "Sievert", "Becquerel", "Roentgen"],
+      "answer": "Sievert"
+    },
+    {
+      "question": "Which scientist is known for the kinetic theory of gases?",
+      "options": ["Rudolf Clausius", "James Maxwell", "Ludwig Boltzmann", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the chemical symbol for nitrogen?",
+      "options": ["Ni", "N", "No", "Ne"],
+      "answer": "N"
+    },
+    {
+      "question": "Which enzyme is responsible for DNA replication?",
+      "options": ["DNA polymerase", "RNA polymerase", "Helicase", "Ligase"],
+      "answer": "DNA polymerase"
+    }
+  ]
+}

@@ -1,0 +1,814 @@
+{
+  "questions": [
+    {
+      "question": "Who is the current President of the United States (as of 2024)?",
+      "options": ["Donald Trump", "Joe Biden", "Barack Obama", "Kamala Harris"],
+      "answer": "Joe Biden"
+    },
+    {
+      "question": "Which political party is traditionally represented by a donkey?",
+      "options": ["Republican Party", "Democratic Party", "Green Party", "Libertarian Party"],
+      "answer": "Democratic Party"
+    },
+    {
+      "question": "Who was the first female Prime Minister of the United Kingdom?",
+      "options": ["Margaret Thatcher", "Theresa May", "Elizabeth Truss", "Tony Blair"],
+      "answer": "Margaret Thatcher"
+    },
+    {
+      "question": "What is the minimum age to become President of the United States?",
+      "options": ["30", "35", "40", "45"],
+      "answer": "35"
+    },
+    {
+      "question": "Which country has a political system called 'apartheid' historically?",
+      "options": ["Zimbabwe", "South Africa", "Kenya", "Nigeria"],
+      "answer": "South Africa"
+    },
+    {
+      "question": "Who was the longest-serving U.S. President?",
+      "options": ["George Washington", "Thomas Jefferson", "Franklin D. Roosevelt", "Theodore Roosevelt"],
+      "answer": "Franklin D. Roosevelt"
+    },
+    {
+      "question": "What does NATO stand for?",
+      "options": ["North Atlantic Treaty Organization", "North American Trade Organization", "National Atlantic Treaty Office", "North Atlantic Transport Organization"],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "question": "Which leader introduced the policy of 'Glasnost'?",
+      "options": ["Vladimir Putin", "Boris Yeltsin", "Mikhail Gorbachev", "Leonid Brezhnev"],
+      "answer": "Mikhail Gorbachev"
+    },
+    {
+      "question": "Who was the first African American President of the United States?",
+      "options": ["Jesse Jackson", "Barack Obama", "Colin Powell", "Clarence Thomas"],
+      "answer": "Barack Obama"
+    },
+    {
+      "question": "What is the capital of the European Union?",
+      "options": ["Brussels", "Strasbourg", "Luxembourg", "Geneva"],
+      "answer": "Brussels"
+    },
+    {
+      "question": "Which political ideology advocates for a classless society?",
+      "options": ["Capitalism", "Socialism", "Communism", "Fascism"],
+      "answer": "Communism"
+    },
+    {
+      "question": "Who was the British Prime Minister during World War II?",
+      "options": ["Neville Chamberlain", "Winston Churchill", "Clement Attlee", "Anthony Eden"],
+      "answer": "Winston Churchill"
+    },
+    {
+      "question": "What is the term for a government ruled by religious leaders?",
+      "options": ["Democracy", "Theocracy", "Oligarchy", "Monarchy"],
+      "answer": "Theocracy"
+    },
+    {
+      "question": "Which amendment to the U.S. Constitution granted women the right to vote?",
+      "options": ["17th Amendment", "18th Amendment", "19th Amendment", "20th Amendment"],
+      "answer": "19th Amendment"
+    },
+    {
+      "question": "Who was the first President of Russia after the Soviet Union collapsed?",
+      "options": ["Vladimir Putin", "Boris Yeltsin", "Dmitry Medvedev", "Mikhail Gorbachev"],
+      "answer": "Boris Yeltsin"
+    },
+    {
+      "question": "What is the upper house of the U.S. Congress called?",
+      "options": ["House of Representatives", "Senate", "Supreme Court", "Cabinet"],
+      "answer": "Senate"
+    },
+    {
+      "question": "Which country is known for its 'One Country, Two Systems' policy?",
+      "options": ["Taiwan", "South Korea", "China", "Singapore"],
+      "answer": "China"
+    },
+    {
+      "question": "Who was the leader of Nazi Germany?",
+      "options": ["Heinrich Himmler", "Adolf Hitler", "Joseph Goebbels", "Hermann Göring"],
+      "answer": "Adolf Hitler"
+    },
+    {
+      "question": "What does the UN Security Council primarily deal with?",
+      "options": ["Economic development", "International peace and security", "Human rights", "Environmental issues"],
+      "answer": "International peace and security"
+    },
+    {
+      "question": "Which political party is traditionally represented by an elephant?",
+      "options": ["Democratic Party", "Republican Party", "Green Party", "Libertarian Party"],
+      "answer": "Republican Party"
+    },
+    {
+      "question": "Who was the first female Chancellor of Germany?",
+      "options": ["Angela Merkel", "Ursula von der Leyen", "Annegret Kramp-Karrenbauer", "Franziska Giffey"],
+      "answer": "Angela Merkel"
+    },
+    {
+      "question": "What is the term for the right of a legislative body to reject a presidential appointment?",
+      "options": ["Impeachment", "Confirmation", "Veto", "Filibuster"],
+      "answer": "Confirmation"
+    },
+    {
+      "question": "Which leader is known for the 'New Deal' policies?",
+      "options": ["Herbert Hoover", "Franklin D. Roosevelt", "Harry Truman", "Dwight Eisenhower"],
+      "answer": "Franklin D. Roosevelt"
+    },
+    {
+      "question": "What is the political system where power is divided between national and regional governments?",
+      "options": ["Unitary system", "Federal system", "Confederal system", "Parliamentary system"],
+      "answer": "Federal system"
+    },
+    {
+      "question": "Who was the first President of South Africa after apartheid ended?",
+      "options": ["F.W. de Klerk", "Nelson Mandela", "Thabo Mbeki", "Jacob Zuma"],
+      "answer": "Nelson Mandela"
+    },
+    {
+      "question": "What does GDP stand for in economic terms?",
+      "options": ["Government Development Program", "Gross Domestic Product", "Global Development Plan", "General Domestic Policy"],
+      "answer": "Gross Domestic Product"
+    },
+    {
+      "question": "Which international court is located in The Hague?",
+      "options": ["International Court of Justice", "European Court of Justice", "International Criminal Court", "Both A and C"],
+      "answer": "Both A and C"
+    },
+    {
+      "question": "Who was the youngest elected U.S. President?",
+      "options": ["Theodore Roosevelt", "John F. Kennedy", "Bill Clinton", "Barack Obama"],
+      "answer": "John F. Kennedy"
+    },
+    {
+      "question": "What is the term for a political system where citizens elect representatives?",
+      "options": ["Direct democracy", "Representative democracy", "Autocracy", "Oligarchy"],
+      "answer": "Representative democracy"
+    },
+    {
+      "question": "Which leader introduced the concept of 'Perestroika'?",
+      "options": ["Vladimir Putin", "Boris Yeltsin", "Mikhail Gorbachev", "Leonid Brezhnev"],
+      "answer": "Mikhail Gorbachev"
+    },
+    {
+      "question": "What is the maximum number of terms a U.S. President can serve?",
+      "options": ["1", "2", "3", "Unlimited"],
+      "answer": "2"
+    },
+    {
+      "question": "Which organization was established to maintain international peace after World War I?",
+      "options": ["United Nations", "League of Nations", "NATO", "UNICEF"],
+      "answer": "League of Nations"
+    },
+    {
+      "question": "Who was the first female President of a country?",
+      "options": ["Margaret Thatcher", "Golda Meir", "Vigdís Finnbogadóttir", "Isabel Perón"],
+      "answer": "Vigdís Finnbogadóttir"
+    },
+    {
+      "question": "What is the term for the formal process of removing a president from office?",
+      "options": ["Recall", "Impeachment", "Censure", "Vote of no confidence"],
+      "answer": "Impeachment"
+    },
+    {
+      "question": "Which country has the oldest written constitution still in effect?",
+      "options": ["United Kingdom", "United States", "France", "Greece"],
+      "answer": "United States"
+    },
+    {
+      "question": "Who was the first Secretary-General of the United Nations?",
+      "options": ["Dag Hammarskjöld", "U Thant", "Trygve Lie", "Kurt Waldheim"],
+      "answer": "Trygve Lie"
+    },
+    {
+      "question": "What does the term 'veto' mean in politics?",
+      "options": ["To approve", "To reject or forbid", "To modify", "To delay"],
+      "answer": "To reject or forbid"
+    },
+    {
+      "question": "Which political philosopher wrote 'The Prince'?",
+      "options": ["John Locke", "Thomas Hobbes", "Niccolò Machiavelli", "Jean-Jacques Rousseau"],
+      "answer": "Niccolò Machiavelli"
+    },
+    {
+      "question": "What is the term for government by the wealthy?",
+      "options": ["Democracy", "Plutocracy", "Aristocracy", "Meritocracy"],
+      "answer": "Plutocracy"
+    },
+    {
+      "question": "Who was the first woman to serve as U.S. Secretary of State?",
+      "options": ["Hillary Clinton", "Condoleezza Rice", "Madeleine Albright", "Janet Reno"],
+      "answer": "Madeleine Albright"
+    },
+    {
+      "question": "Which amendment to the U.S. Constitution established presidential term limits?",
+      "options": ["20th Amendment", "21st Amendment", "22nd Amendment", "23rd Amendment"],
+      "answer": "22nd Amendment"
+    },
+    {
+      "question": "What is the political term for the practice of drawing electoral districts to favor one party?",
+      "options": ["Gerrymandering", "Filibustering", "Lobbying", "Campaigning"],
+      "answer": "Gerrymandering"
+    },
+    {
+      "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+      "options": ["Joseph Stalin", "Leonid Brezhnev", "Nikita Khrushchev", "Mikhail Gorbachev"],
+      "answer": "Nikita Khrushchev"
+    },
+    {
+      "question": "What is the term for a political system ruled by a small group of people?",
+      "options": ["Democracy", "Monarchy", "Oligarchy", "Anarchy"],
+      "answer": "Oligarchy"
+    },
+    {
+      "question": "Which international organization promotes free trade?",
+      "options": ["WTO", "WHO", "UNESCO", "UNICEF"],
+      "answer": "WTO"
+    },
+    {
+      "question": "Who was the first African American to serve on the U.S. Supreme Court?",
+      "options": ["Clarence Thomas", "Thurgood Marshall", "Constance Baker Motley", "Barbara Jordan"],
+      "answer": "Thurgood Marshall"
+    },
+    {
+      "question": "What is the term for a political system where power is held by the people?",
+      "options": ["Autocracy", "Democracy", "Totalitarianism", "Authoritarianism"],
+      "answer": "Democracy"
+    },
+    {
+      "question": "Which leader was known as the 'Iron Curtain' speech giver?",
+      "options": ["Harry Truman", "Winston Churchill", "Joseph Stalin", "Franklin Roosevelt"],
+      "answer": "Winston Churchill"
+    },
+    {
+      "question": "What is the minimum age to serve in the U.S. House of Representatives?",
+      "options": ["21", "25", "30", "35"],
+      "answer": "25"
+    },
+    {
+      "question": "Which country was the first to grant women the right to vote?",
+      "options": ["United States", "United Kingdom", "New Zealand", "Australia"],
+      "answer": "New Zealand"
+    },
+    {
+      "question": "Who was the first President of the People's Republic of China?",
+      "options": ["Mao Zedong", "Zhou Enlai", "Deng Xiaoping", "Sun Yat-sen"],
+      "answer": "Mao Zedong"
+    },
+    {
+      "question": "What does the term 'checks and balances' refer to?",
+      "options": ["Financial auditing", "Separation of powers", "Electoral process", "Legislative procedure"],
+      "answer": "Separation of powers"
+    },
+    {
+      "question": "Which political philosopher wrote 'Two Treatises of Government'?",
+      "options": ["Thomas Hobbes", "John Locke", "Jean-Jacques Rousseau", "Montesquieu"],
+      "answer": "John Locke"
+    },
+    {
+      "question": "What is the term for rule by religious law?",
+      "options": ["Theocracy", "Technocracy", "Bureaucracy", "Autocracy"],
+      "answer": "Theocracy"
+    },
+    {
+      "question": "Who was the first woman elected as head of government in the Western Hemisphere?",
+      "options": ["Margaret Thatcher", "Golda Meir", "Isabel Perón", "Indira Gandhi"],
+      "answer": "Isabel Perón"
+    },
+    {
+      "question": "Which amendment to the U.S. Constitution prohibited alcohol?",
+      "options": ["16th Amendment", "17th Amendment", "18th Amendment", "19th Amendment"],
+      "answer": "18th Amendment"
+    },
+    {
+      "question": "What is the political term for extending a speech to delay legislative action?",
+      "options": ["Gerrymandering", "Filibuster", "Lobbying", "Campaigning"],
+      "answer": "Filibuster"
+    },
+    {
+      "question": "Who was the youngest person to serve as U.S. President?",
+      "options": ["John F. Kennedy", "Theodore Roosevelt", "Bill Clinton", "Barack Obama"],
+      "answer": "Theodore Roosevelt"
+    },
+    {
+      "question": "What is the term for government control of the economy?",
+      "options": ["Capitalism", "Socialism", "Mixed economy", "Laissez-faire"],
+      "answer": "Socialism"
+    },
+    {
+      "question": "Which leader was known for the 'Great Leap Forward'?",
+      "options": ["Deng Xiaoping", "Mao Zedong", "Zhou Enlai", "Xi Jinping"],
+      "answer": "Mao Zedong"
+    },
+    {
+      "question": "What is the minimum age to serve in the U.S. Senate?",
+      "options": ["25", "30", "35", "40"],
+      "answer": "30"
+    },
+    {
+      "question": "Which international organization deals with labor issues?",
+      "options": ["ILO", "WHO", "UNESCO", "UNICEF"],
+      "answer": "ILO"
+    },
+    {
+      "question": "Who was the first woman to run for President on a major party ticket in the U.S.?",
+      "options": ["Geraldine Ferraro", "Hillary Clinton", "Sarah Palin", "Elizabeth Warren"],
+      "answer": "Hillary Clinton"
+    },
+    {
+      "question": "What is the term for a political system where one person holds absolute power?",
+      "options": ["Democracy", "Republic", "Dictatorship", "Federation"],
+      "answer": "Dictatorship"
+    },
+    {
+      "question": "Which leader introduced the 'Open Door' policy?",
+      "options": ["Deng Xiaoping", "Mao Zedong", "John Hay", "Theodore Roosevelt"],
+      "answer": "John Hay"
+    },
+    {
+      "question": "What does the term 'sovereignty' mean in politics?",
+      "options": ["Economic independence", "Supreme political authority", "Military strength", "Cultural identity"],
+      "answer": "Supreme political authority"
+    },
+    {
+      "question": "Which political philosopher wrote 'The Social Contract'?",
+      "options": ["John Locke", "Thomas Hobbes", "Jean-Jacques Rousseau", "Montesquieu"],
+      "answer": "Jean-Jacques Rousseau"
+    },
+    {
+      "question": "What is the term for rule by experts or technocrats?",
+      "options": ["Democracy", "Technocracy", "Bureaucracy", "Meritocracy"],
+      "answer": "Technocracy"
+    },
+    {
+      "question": "Who was the first African leader to address the U.S. Congress?",
+      "options": ["Nelson Mandela", "Kwame Nkrumah", "Jomo Kenyatta", "Leopold Senghor"],
+      "answer": "Nelson Mandela"
+    },
+    {
+      "question": "Which amendment repealed Prohibition in the United States?",
+      "options": ["20th Amendment", "21st Amendment", "22nd Amendment", "23rd Amendment"],
+      "answer": "21st Amendment"
+    },
+    {
+      "question": "What is the political term for the influence of special interest groups?",
+      "options": ["Gerrymandering", "Filibustering", "Lobbying", "Campaigning"],
+      "answer": "Lobbying"
+    },
+    {
+      "question": "Who was the leader of the Bolsheviks during the Russian Revolution?",
+      "options": ["Leon Trotsky", "Vladimir Lenin", "Joseph Stalin", "Nikolai Bukharin"],
+      "answer": "Vladimir Lenin"
+    },
+    {
+      "question": "What is the term for a political system based on individual freedom and limited government?",
+      "options": ["Socialism", "Liberalism", "Conservatism", "Authoritarianism"],
+      "answer": "Liberalism"
+    },
+    {
+      "question": "Which leader was known for the 'Cultural Revolution'?",
+      "options": ["Deng Xiaoping", "Mao Zedong", "Zhou Enlai", "Liu Shaoqi"],
+      "answer": "Mao Zedong"
+    },
+    {
+      "question": "What is the term for citizenship by birth within a country's territory?",
+      "options": ["Jus sanguinis", "Jus soli", "Naturalization", "Denization"],
+      "answer": "Jus soli"
+    },
+    {
+      "question": "Which international organization promotes monetary cooperation?",
+      "options": ["World Bank", "IMF", "WTO", "OECD"],
+      "answer": "IMF"
+    },
+    {
+      "question": "Who was the first woman to serve as Vice President of the United States?",
+      "options": ["Geraldine Ferraro", "Sarah Palin", "Kamala Harris", "Hillary Clinton"],
+      "answer": "Kamala Harris"
+    },
+    {
+      "question": "What is the term for a political system where citizens vote directly on issues?",
+      "options": ["Representative democracy", "Direct democracy", "Constitutional republic", "Parliamentary system"],
+      "answer": "Direct democracy"
+    },
+    {
+      "question": "Which leader was known for the 'Marshall Plan'?",
+      "options": ["Harry Truman", "George Marshall", "Dwight Eisenhower", "Franklin Roosevelt"],
+      "answer": "George Marshall"
+    },
+    {
+      "question": "What does the term 'separation of powers' mean?",
+      "options": ["Division of government into branches", "Federal vs state authority", "Civilian vs military control", "Executive vs judicial power"],
+      "answer": "Division of government into branches"
+    },
+    {
+      "question": "Which political philosopher wrote 'Leviathan'?",
+      "options": ["John Locke", "Thomas Hobbes", "Jean-Jacques Rousseau", "Montesquieu"],
+      "answer": "Thomas Hobbes"
+    },
+    {
+      "question": "What is the term for rule by the best qualified citizens?",
+      "options": ["Democracy", "Aristocracy", "Meritocracy", "Oligarchy"],
+      "answer": "Meritocracy"
+    },
+    {
+      "question": "Who was the first woman to head a major political party in the United States?",
+      "options": ["Jeannette Rankin", "Shirley Chisholm", "Jean Westwood", "Frances Willard"],
+      "answer": "Jean Westwood"
+    },
+    {
+      "question": "Which amendment to the U.S. Constitution established the federal income tax?",
+      "options": ["14th Amendment", "15th Amendment", "16th Amendment", "17th Amendment"],
+      "answer": "16th Amendment"
+    },
+    {
+      "question": "What is the political term for redistribution of seats in a legislature?",
+      "options": ["Reapportionment", "Gerrymandering", "Redistricting", "Realignment"],
+      "answer": "Reapportionment"
+    },
+    {
+      "question": "Who was the leader of India's independence movement?",
+      "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhas Chandra Bose", "Sardar Patel"],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question": "What is the term for a political system that combines elements of different ideologies?",
+      "options": ["Pluralism", "Syncretism", "Pragmatism", "Eclecticism"],
+      "answer": "Pragmatism"
+    },
+    {
+      "question": "Which leader was known for the 'Fourteen Points'?",
+      "options": ["Theodore Roosevelt", "Woodrow Wilson", "Warren Harding", "Calvin Coolidge"],
+      "answer": "Woodrow Wilson"
+    },
+    {
+      "question": "What is the term for citizenship by descent from citizen parents?",
+      "options": ["Jus sanguinis", "Jus soli", "Naturalization", "Denization"],
+      "answer": "Jus sanguinis"
+    },
+    {
+      "question": "Which international organization deals with intellectual property?",
+      "options": ["WIPO", "WHO", "UNESCO", "UNICEF"],
+      "answer": "WIPO"
+    },
+    {
+      "question": "Who was the first woman to serve as a Cabinet member in the U.S.?",
+      "options": ["Frances Perkins", "Jeannette Rankin", "Eleanor Roosevelt", "Margaret Chase Smith"],
+      "answer": "Frances Perkins"
+    },
+    {
+      "question": "What is the term for a political system where power alternates between parties?",
+      "options": ["One-party system", "Two-party system", "Multi-party system", "Non-partisan system"],
+      "answer": "Two-party system"
+    },
+    {
+      "question": "Which leader was known for 'Détente' with the Soviet Union?",
+      "options": ["John Kennedy", "Lyndon Johnson", "Richard Nixon", "Gerald Ford"],
+      "answer": "Richard Nixon"
+    },
+    {
+      "question": "What does the term 'executive privilege' refer to?",
+      "options": ["Presidential immunity", "Right to withhold information", "Power to pardon", "Veto authority"],
+      "answer": "Right to withhold information"
+    },
+    {
+      "question": "Which political philosopher wrote 'The Spirit of the Laws'?",
+      "options": ["John Locke", "Thomas Hobbes", "Jean-Jacques Rousseau", "Montesquieu"],
+      "answer": "Montesquieu"
+    },
+    {
+      "question": "What is the term for rule by a king or queen?",
+      "options": ["Democracy", "Republic", "Monarchy", "Oligarchy"],
+      "answer": "Monarchy"
+    },
+    {
+      "question": "Who was the first African American woman elected to Congress?",
+      "options": ["Barbara Jordan", "Shirley Chisholm", "Maxine Waters", "Carol Moseley Braun"],
+      "answer": "Shirley Chisholm"
+    },
+    {
+      "question": "Which amendment to the U.S. Constitution provided for direct election of senators?",
+      "options": ["15th Amendment", "16th Amendment", "17th Amendment", "18th Amendment"],
+      "answer": "17th Amendment"
+    },
+    {
+      "question": "What is the political term for the redrawing of electoral district boundaries?",
+      "options": ["Reapportionment", "Gerrymandering", "Redistricting", "Realignment"],
+      "answer": "Redistricting"
+    },
+    {
+      "question": "Who was the leader of the Chinese Communist Party during the Long March?",
+      "options": ["Deng Xiaoping", "Mao Zedong", "Zhou Enlai", "Liu Shaoqi"],
+      "answer": "Mao Zedong"
+    },
+    {
+      "question": "What is the term for a political coalition of different groups?",
+      "options": ["Alliance", "Coalition", "Bloc", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which leader was known for the 'Truman Doctrine'?",
+      "options": ["Franklin Roosevelt", "Harry Truman", "Dwight Eisenhower", "John Kennedy"],
+      "answer": "Harry Truman"
+    },
+    {
+      "question": "What is the term for the process of becoming a citizen?",
+      "options": ["Immigration", "Naturalization", "Denization", "Assimilation"],
+      "answer": "Naturalization"
+    },
+    {
+      "question": "Which international organization promotes nuclear non-proliferation?",
+      "options": ["IAEA", "WHO", "UNESCO", "UNICEF"],
+      "answer": "IAEA"
+    },
+    {
+      "question": "Who was the first woman to receive the Nobel Peace Prize?",
+      "options": ["Jane Addams", "Bertha von Suttner", "Emily Greene Balch", "Alva Myrdal"],
+      "answer": "Bertha von Suttner"
+    },
+    {
+      "question": "What is the term for a political system where multiple parties compete?",
+      "options": ["One-party system", "Two-party system", "Multi-party system", "Non-partisan system"],
+      "answer": "Multi-party system"
+    },
+    {
+      "question": "Which leader was known for the 'Reagan Doctrine'?",
+      "options": ["Jimmy Carter", "Ronald Reagan", "George Bush", "Bill Clinton"],
+      "answer": "Ronald Reagan"
+    },
+    {
+      "question": "What does the term 'judicial review' refer to?",
+      "options": ["Court oversight of elections", "Review of judicial appointments", "Power to declare laws unconstitutional", "Appeal process"],
+      "answer": "Power to declare laws unconstitutional"
+    },
+    {
+      "question": "Which political philosopher wrote 'A Theory of Justice'?",
+      "options": ["John Rawls", "Robert Nozick", "Isaiah Berlin", "John Stuart Mill"],
+      "answer": "John Rawls"
+    },
+    {
+      "question": "What is the term for rule by religious leaders?",
+      "options": ["Democracy", "Theocracy", "Oligarchy", "Monarchy"],
+      "answer": "Theocracy"
+    },
+    {
+      "question": "Who was the first Hispanic woman elected to Congress?",
+      "options": ["Ileana Ros-Lehtinen", "Nydia Velázquez", "Lucille Roybal-Allard", "Gloria Molina"],
+      "answer": "Ileana Ros-Lehtinen"
+    },
+    {
+      "question": "Which amendment to the U.S. Constitution prohibited poll taxes?",
+      "options": ["22nd Amendment", "23rd Amendment", "24th Amendment", "25th Amendment"],
+      "answer": "24th Amendment"
+    },
+    {
+      "question": "What is the political term for a significant change in party control?",
+      "options": ["Realignment", "Redistricting", "Reapportionment", "Reform"],
+      "answer": "Realignment"
+    },
+    {
+      "question": "Who was the leader of the Free French during World War II?",
+      "options": ["Philippe Pétain", "Charles de Gaulle", "Pierre Laval", "Henri Giraud"],
+      "answer": "Charles de Gaulle"
+    },
+    {
+      "question": "What is the term for a political system that emphasizes tradition?",
+      "options": ["Liberalism", "Conservatism", "Socialism", "Radicalism"],
+      "answer": "Conservatism"
+    },
+    {
+      "question": "Which leader was known for the 'Bush Doctrine'?",
+      "options": ["George H.W. Bush", "George W. Bush", "Ronald Reagan", "Bill Clinton"],
+      "answer": "George W. Bush"
+    },
+    {
+      "question": "What is the term for government by the people's representatives?",
+      "options": ["Direct democracy", "Representative democracy", "Autocracy", "Oligarchy"],
+      "answer": "Representative democracy"
+    },
+    {
+      "question": "Which international organization deals with aviation standards?",
+      "options": ["ICAO", "WHO", "UNESCO", "UNICEF"],
+      "answer": "ICAO"
+    },
+    {
+      "question": "Who was the first Native American woman elected to Congress?",
+      "options": ["Sharice Davids", "Deb Haaland", "Ada Deer", "LaDonna Harris"],
+      "answer": "Sharice Davids"
+    },
+    {
+      "question": "What is the term for a political system where no government exists?",
+      "options": ["Democracy", "Anarchy", "Oligarchy", "Monarchy"],
+      "answer": "Anarchy"
+    },
+    {
+      "question": "Which leader was known for the 'Monroe Doctrine'?",
+      "options": ["Thomas Jefferson", "James Madison", "James Monroe", "John Quincy Adams"],
+      "answer": "James Monroe"
+    },
+    {
+      "question": "What does the term 'bicameral' mean in politics?",
+      "options": ["Two-party system", "Two-chamber legislature", "Two-term limit", "Two-candidate election"],
+      "answer": "Two-chamber legislature"
+    },
+    {
+      "question": "Which political philosopher wrote 'On Liberty'?",
+      "options": ["John Stuart Mill", "Jeremy Bentham", "Isaiah Berlin", "John Rawls"],
+      "answer": "John Stuart Mill"
+    },
+    {
+      "question": "What is the term for rule by a few wealthy individuals?",
+      "options": ["Democracy", "Plutocracy", "Aristocracy", "Oligarchy"],
+      "answer": "Plutocracy"
+    },
+    {
+      "question": "Who was the first Asian American woman elected to Congress?",
+      "options": ["Patsy Mink", "Judy Chu", "Doris Matsui", "Grace Meng"],
+      "answer": "Patsy Mink"
+    },
+    {
+      "question": "Which amendment to the U.S. Constitution deals with presidential succession?",
+      "options": ["23rd Amendment", "24th Amendment", "25th Amendment", "26th Amendment"],
+      "answer": "25th Amendment"
+    },
+    {
+      "question": "What is the political term for the practice of vote trading?",
+      "options": ["Logrolling", "Gerrymandering", "Filibustering", "Lobbying"],
+      "answer": "Logrolling"
+    },
+    {
+      "question": "Who was the leader of the African National Congress?",
+      "options": ["Steve Biko", "Nelson Mandela", "Oliver Tambo", "Walter Sisulu"],
+      "answer": "Nelson Mandela"
+    },
+    {
+      "question": "What is the term for a political system that promotes equality?",
+      "options": ["Liberalism", "Conservatism", "Egalitarianism", "Libertarianism"],
+      "answer": "Egalitarianism"
+    },
+    {
+      "question": "Which leader was known for the 'Clinton Doctrine'?",
+      "options": ["George Bush", "Bill Clinton", "Al Gore", "Jimmy Carter"],
+      "answer": "Bill Clinton"
+    },
+    {
+      "question": "What is the term for government by military officers?",
+      "options": ["Democracy", "Autocracy", "Military junta", "Oligarchy"],
+      "answer": "Military junta"
+    },
+    {
+      "question": "Which international organization deals with maritime law?",
+      "options": ["IMO", "WHO", "UNESCO", "UNICEF"],
+      "answer": "IMO"
+    },
+    {
+      "question": "Who was the first Muslim woman elected to Congress?",
+      "options": ["Ilhan Omar", "Rashida Tlaib", "Both A and B", "Neither"],
+      "answer": "Both A and B"
+    },
+    {
+      "question": "What is the term for a political system based on merit?",
+      "options": ["Democracy", "Aristocracy", "Meritocracy", "Technocracy"],
+      "answer": "Meritocracy"
+    },
+    {
+      "question": "Which leader was known for the 'Eisenhower Doctrine'?",
+      "options": ["Harry Truman", "Dwight Eisenhower", "John Kennedy", "Lyndon Johnson"],
+      "answer": "Dwight Eisenhower"
+    },
+    {
+      "question": "What does the term 'unicameral' mean in politics?",
+      "options": ["One-party system", "One-chamber legislature", "One-term limit", "One-candidate election"],
+      "answer": "One-chamber legislature"
+    },
+    {
+      "question": "Which political philosopher wrote 'The Communist Manifesto'?",
+      "options": ["Vladimir Lenin", "Karl Marx", "Friedrich Engels", "Both B and C"],
+      "answer": "Both B and C"
+    },
+    {
+      "question": "What is the term for rule by the elderly?",
+      "options": ["Democracy", "Gerontocracy", "Oligarchy", "Monarchy"],
+      "answer": "Gerontocracy"
+    },
+    {
+      "question": "Who was the first woman of color elected to the U.S. Senate?",
+      "options": ["Carol Moseley Braun", "Kamala Harris", "Both A and B", "Neither"],
+      "answer": "Carol Moseley Braun"
+    },
+    {
+      "question": "Which amendment to the U.S. Constitution lowered the voting age to 18?",
+      "options": ["24th Amendment", "25th Amendment", "26th Amendment", "27th Amendment"],
+      "answer": "26th Amendment"
+    },
+    {
+      "question": "What is the political term for the practice of delaying legislation?",
+      "options": ["Obstruction", "Filibuster", "Procedural delay", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Who was the leader of the Indian National Congress?",
+      "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the term for a political system that promotes individual rights?",
+      "options": ["Liberalism", "Authoritarianism", "Collectivism", "Socialism"],
+      "answer": "Liberalism"
+    },
+    {
+      "question": "Which leader was known for the 'Obama Doctrine'?",
+      "options": ["Bill Clinton", "George W. Bush", "Barack Obama", "Joe Biden"],
+      "answer": "Barack Obama"
+    },
+    {
+      "question": "What is the term for government by a single ruler?",
+      "options": ["Democracy", "Autocracy", "Oligarchy", "Republic"],
+      "answer": "Autocracy"
+    },
+    {
+      "question": "Which international organization deals with postal services?",
+      "options": ["UPU", "WHO", "UNESCO", "UNICEF"],
+      "answer": "UPU"
+    },
+    {
+      "question": "Who was the first openly gay person elected to Congress?",
+      "options": ["Gerry Studds", "Barney Frank", "Tammy Baldwin", "Jared Polis"],
+      "answer": "Gerry Studds"
+    },
+    {
+      "question": "What is the term for a political system where power is shared?",
+      "options": ["Federalism", "Unitarism", "Confederalism", "Centralism"],
+      "answer": "Federalism"
+    },
+    {
+      "question": "Which leader was known for the 'Carter Doctrine'?",
+      "options": ["Gerald Ford", "Jimmy Carter", "Ronald Reagan", "George Bush"],
+      "answer": "Jimmy Carter"
+    },
+    {
+      "question": "What does the term 'proportional representation' mean?",
+      "options": ["Equal voting power", "Seats allocated by vote share", "Geographic representation", "Population-based districts"],
+      "answer": "Seats allocated by vote share"
+    },
+    {
+      "question": "Which political philosopher wrote 'The Federalist Papers'?",
+      "options": ["Alexander Hamilton", "James Madison", "John Jay", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the term for rule by scholars or intellectuals?",
+      "options": ["Democracy", "Meritocracy", "Technocracy", "Intellectocracy"],
+      "answer": "Intellectocracy"
+    },
+    {
+      "question": "Who was the first transgender person elected to state legislature?",
+      "options": ["Althea Garrison", "Stu Rasmussen", "Danica Roem", "Sarah McBride"],
+      "answer": "Althea Garrison"
+    },
+    {
+      "question": "Which amendment to the U.S. Constitution deals with congressional pay?",
+      "options": ["25th Amendment", "26th Amendment", "27th Amendment", "28th Amendment"],
+      "answer": "27th Amendment"
+    },
+    {
+      "question": "What is the political term for the practice of cross-party cooperation?",
+      "options": ["Bipartisanship", "Coalition", "Alliance", "Compromise"],
+      "answer": "Bipartisanship"
+    },
+    {
+      "question": "Who was the leader of the Palestine Liberation Organization?",
+      "options": ["Yasser Arafat", "Mahmoud Abbas", "George Habash", "Khalil al-Wazir"],
+      "answer": "Yasser Arafat"
+    },
+    {
+      "question": "What is the term for a political system that values freedom?",
+      "options": ["Authoritarianism", "Libertarianism", "Totalitarianism", "Collectivism"],
+      "answer": "Libertarianism"
+    },
+    {
+      "question": "Which leader was known for the 'Biden Doctrine'?",
+      "options": ["Barack Obama", "Joe Biden", "Kamala Harris", "Hillary Clinton"],
+      "answer": "Joe Biden"
+    },
+    {
+      "question": "What is the term for government by bureaucrats?",
+      "options": ["Democracy", "Technocracy", "Bureaucracy", "Meritocracy"],
+      "answer": "Bureaucracy"
+    },
+    {
+      "question": "Which international organization deals with telecommunications?",
+      "options": ["ITU", "WHO", "UNESCO", "UNICEF"],
+      "answer": "ITU"
+    },
+    {
+      "question": "Who was the first person with a disability elected to Congress?",
+      "options": ["Franklin D. Roosevelt", "Max Cleland", "Tammy Duckworth", "Tom Harkin"],
+      "answer": "Franklin D. Roosevelt"
+    },
+    {
+      "question": "What is the term for a political system where regions have autonomy?",
+      "options": ["Federalism", "Devolution", "Decentralization", "All of the above"],
+      "answer": "All of the above"
+    }
+  ]
+}

@@ -1,0 +1,989 @@
+{
+  "questions": [
+    {
+      "question": "Who wrote the novel 'Pride and Prejudice'?",
+      "options": ["Charlotte Brontë", "Jane Austen", "Emily Dickinson", "Virginia Woolf"],
+      "answer": "Jane Austen"
+    },
+    {
+      "question": "Which Shakespeare play features the character Hamlet?",
+      "options": ["Macbeth", "Romeo and Juliet", "Hamlet", "King Lear"],
+      "answer": "Hamlet"
+    },
+    {
+      "question": "Who wrote '1984'?",
+      "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Kurt Vonnegut"],
+      "answer": "George Orwell"
+    },
+    {
+      "question": "What is the first book in the Harry Potter series?",
+      "options": ["Chamber of Secrets", "Prisoner of Azkaban", "Philosopher's Stone", "Goblet of Fire"],
+      "answer": "Philosopher's Stone"
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "Toni Morrison", "Maya Angelou", "Zora Neale Hurston"],
+      "answer": "Harper Lee"
+    },
+    {
+      "question": "Which poet wrote 'The Road Not Taken'?",
+      "options": ["Robert Frost", "Walt Whitman", "Emily Dickinson", "Edgar Allan Poe"],
+      "answer": "Robert Frost"
+    },
+    {
+      "question": "Who authored 'The Great Gatsby'?",
+      "options": ["Ernest Hemingway", "F. Scott Fitzgerald", "John Steinbeck", "William Faulkner"],
+      "answer": "F. Scott Fitzgerald"
+    },
+    {
+      "question": "What is the opening line of Charles Dickens' 'A Tale of Two Cities'?",
+      "options": ["It was the best of times", "Call me Ishmael", "In a hole in the ground", "It is a truth universally acknowledged"],
+      "answer": "It was the best of times"
+    },
+    {
+      "question": "Who wrote 'The Catcher in the Rye'?",
+      "options": ["J.D. Salinger", "Jack Kerouac", "Allen Ginsberg", "William S. Burroughs"],
+      "answer": "J.D. Salinger"
+    },
+    {
+      "question": "Which novel begins with 'Call me Ishmael'?",
+      "options": ["The Old Man and the Sea", "Moby Dick", "The Sun Also Rises", "For Whom the Bell Tolls"],
+      "answer": "Moby Dick"
+    },
+    {
+      "question": "Who wrote 'One Hundred Years of Solitude'?",
+      "options": ["Jorge Luis Borges", "Gabriel García Márquez", "Mario Vargas Llosa", "Octavio Paz"],
+      "answer": "Gabriel García Márquez"
+    },
+    {
+      "question": "What is the last book in the Chronicles of Narnia series?",
+      "options": ["The Lion, the Witch and the Wardrobe", "Prince Caspian", "The Last Battle", "The Silver Chair"],
+      "answer": "The Last Battle"
+    },
+    {
+      "question": "Who wrote 'Brave New World'?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Philip K. Dick"],
+      "answer": "Aldous Huxley"
+    },
+    {
+      "question": "Which poet wrote 'The Waste Land'?",
+      "options": ["T.S. Eliot", "Ezra Pound", "W.H. Auden", "William Butler Yeats"],
+      "answer": "T.S. Eliot"
+    },
+    {
+      "question": "Who authored 'The Lord of the Rings' trilogy?",
+      "options": ["C.S. Lewis", "J.R.R. Tolkien", "George R.R. Martin", "Terry Pratchett"],
+      "answer": "J.R.R. Tolkien"
+    },
+    {
+      "question": "What is the first line of Jane Austen's 'Pride and Prejudice'?",
+      "options": ["It is a truth universally acknowledged", "Call me Ishmael", "It was the best of times", "In a hole in the ground"],
+      "answer": "It is a truth universally acknowledged"
+    },
+    {
+      "question": "Who wrote 'The Grapes of Wrath'?",
+      "options": ["John Steinbeck", "William Faulkner", "Ernest Hemingway", "F. Scott Fitzgerald"],
+      "answer": "John Steinbeck"
+    },
+    {
+      "question": "Which Shakespeare play features the characters Romeo and Juliet?",
+      "options": ["Hamlet", "Macbeth", "Romeo and Juliet", "Othello"],
+      "answer": "Romeo and Juliet"
+    },
+    {
+      "question": "Who wrote 'Wuthering Heights'?",
+      "options": ["Charlotte Brontë", "Emily Brontë", "Anne Brontë", "Jane Austen"],
+      "answer": "Emily Brontë"
+    },
+    {
+      "question": "What is the name of Sherlock Holmes' assistant?",
+      "options": ["Dr. Watson", "Inspector Lestrade", "Mrs. Hudson", "Professor Moriarty"],
+      "answer": "Dr. Watson"
+    },
+    {
+      "question": "Who wrote 'The Picture of Dorian Gray'?",
+      "options": ["Oscar Wilde", "Bram Stoker", "Arthur Conan Doyle", "Robert Louis Stevenson"],
+      "answer": "Oscar Wilde"
+    },
+    {
+      "question": "Which novel features the character Atticus Finch?",
+      "options": ["The Great Gatsby", "To Kill a Mockingbird", "Of Mice and Men", "The Grapes of Wrath"],
+      "answer": "To Kill a Mockingbird"
+    },
+    {
+      "question": "Who wrote 'The Odyssey'?",
+      "options": ["Homer", "Virgil", "Sophocles", "Euripides"],
+      "answer": "Homer"
+    },
+    {
+      "question": "What is the first book in 'The Hunger Games' trilogy?",
+      "options": ["Catching Fire", "Mockingjay", "The Hunger Games", "The Ballad of Songbirds and Snakes"],
+      "answer": "The Hunger Games"
+    },
+    {
+      "question": "Who wrote 'Frankenstein'?",
+      "options": ["Mary Shelley", "Bram Stoker", "Edgar Allan Poe", "Washington Irving"],
+      "answer": "Mary Shelley"
+    },
+    {
+      "question": "Which poet wrote 'Because I could not stop for Death'?",
+      "options": ["Emily Dickinson", "Maya Angelou", "Sylvia Plath", "Anne Sexton"],
+      "answer": "Emily Dickinson"
+    },
+    {
+      "question": "Who authored 'The Hobbit'?",
+      "options": ["C.S. Lewis", "J.R.R. Tolkien", "George R.R. Martin", "Terry Pratchett"],
+      "answer": "J.R.R. Tolkien"
+    },
+    {
+      "question": "What is the setting of Harper Lee's 'To Kill a Mockingbird'?",
+      "options": ["Mississippi", "Alabama", "Georgia", "South Carolina"],
+      "answer": "Alabama"
+    },
+    {
+      "question": "Who wrote 'The Canterbury Tales'?",
+      "options": ["Geoffrey Chaucer", "William Shakespeare", "Christopher Marlowe", "Edmund Spenser"],
+      "answer": "Geoffrey Chaucer"
+    },
+    {
+      "question": "Which novel begins with 'In a hole in the ground there lived a hobbit'?",
+      "options": ["The Lord of the Rings", "The Hobbit", "The Silmarillion", "The Chronicles of Narnia"],
+      "answer": "The Hobbit"
+    },
+    {
+      "question": "Who wrote 'Slaughterhouse-Five'?",
+      "options": ["Kurt Vonnegut", "Joseph Heller", "Jack Kerouac", "Ken Kesey"],
+      "answer": "Kurt Vonnegut"
+    },
+    {
+      "question": "What is the name of the estate in Jane Eyre?",
+      "options": ["Thornfield Hall", "Pemberley", "Wuthering Heights", "Mansfield Park"],
+      "answer": "Thornfield Hall"
+    },
+    {
+      "question": "Who wrote 'The Sun Also Rises'?",
+      "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "William Faulkner"],
+      "answer": "Ernest Hemingway"
+    },
+    {
+      "question": "Which Shakespeare play features the character Lady Macbeth?",
+      "options": ["Hamlet", "Othello", "Macbeth", "King Lear"],
+      "answer": "Macbeth"
+    },
+    {
+      "question": "Who wrote 'Little Women'?",
+      "options": ["Louisa May Alcott", "Charlotte Perkins Gilman", "Kate Chopin", "Edith Wharton"],
+      "answer": "Louisa May Alcott"
+    },
+    {
+      "question": "What is the first book in the 'A Song of Ice and Fire' series?",
+      "options": ["A Clash of Kings", "A Game of Thrones", "A Storm of Swords", "A Feast for Crows"],
+      "answer": "A Game of Thrones"
+    },
+    {
+      "question": "Who wrote 'The Bell Jar'?",
+      "options": ["Sylvia Plath", "Anne Sexton", "Adrienne Rich", "Gwendolyn Brooks"],
+      "answer": "Sylvia Plath"
+    },
+    {
+      "question": "Which poet wrote 'Howl'?",
+      "options": ["Jack Kerouac", "Allen Ginsberg", "William S. Burroughs", "Gary Snyder"],
+      "answer": "Allen Ginsberg"
+    },
+    {
+      "question": "Who authored 'Catch-22'?",
+      "options": ["Joseph Heller", "Kurt Vonnegut", "Philip Roth", "Saul Bellow"],
+      "answer": "Joseph Heller"
+    },
+    {
+      "question": "What is the name of the protagonist in 'The Great Gatsby'?",
+      "options": ["Jay Gatsby", "Nick Carraway", "Tom Buchanan", "George Wilson"],
+      "answer": "Nick Carraway"
+    },
+    {
+      "question": "Who wrote 'Invisible Man'?",
+      "options": ["Ralph Ellison", "James Baldwin", "Richard Wright", "Langston Hughes"],
+      "answer": "Ralph Ellison"
+    },
+    {
+      "question": "Which novel features the character Jean Valjean?",
+      "options": ["The Count of Monte Cristo", "Les Misérables", "The Three Musketeers", "Madame Bovary"],
+      "answer": "Les Misérables"
+    },
+    {
+      "question": "Who wrote 'The Color Purple'?",
+      "options": ["Alice Walker", "Toni Morrison", "Maya Angelou", "Zora Neale Hurston"],
+      "answer": "Alice Walker"
+    },
+    {
+      "question": "What is the setting of George Orwell's '1984'?",
+      "options": ["Oceania", "Eurasia", "Eastasia", "Airstrip One"],
+      "answer": "Oceania"
+    },
+    {
+      "question": "Who wrote 'On the Road'?",
+      "options": ["Jack Kerouac", "Allen Ginsberg", "William S. Burroughs", "Gary Snyder"],
+      "answer": "Jack Kerouac"
+    },
+    {
+      "question": "Which Shakespeare sonnet begins with 'Shall I compare thee to a summer's day'?",
+      "options": ["Sonnet 18", "Sonnet 130", "Sonnet 116", "Sonnet 73"],
+      "answer": "Sonnet 18"
+    },
+    {
+      "question": "Who wrote 'The Handmaid's Tale'?",
+      "options": ["Margaret Atwood", "Ursula K. Le Guin", "Doris Lessing", "Joyce Carol Oates"],
+      "answer": "Margaret Atwood"
+    },
+    {
+      "question": "What is the name of the narrator in 'The Great Gatsby'?",
+      "options": ["Jay Gatsby", "Nick Carraway", "Tom Buchanan", "George Wilson"],
+      "answer": "Nick Carraway"
+    },
+    {
+      "question": "Who wrote 'Beloved'?",
+      "options": ["Toni Morrison", "Alice Walker", "Maya Angelou", "Zora Neale Hurston"],
+      "answer": "Toni Morrison"
+    },
+    {
+      "question": "Which novel features the character Elizabeth Bennet?",
+      "options": ["Emma", "Sense and Sensibility", "Pride and Prejudice", "Mansfield Park"],
+      "answer": "Pride and Prejudice"
+    },
+    {
+      "question": "Who wrote 'The Stranger'?",
+      "options": ["Jean-Paul Sartre", "Albert Camus", "Simone de Beauvoir", "André Gide"],
+      "answer": "Albert Camus"
+    },
+    {
+      "question": "What is the first book in the 'Twilight' series?",
+      "options": ["New Moon", "Eclipse", "Breaking Dawn", "Twilight"],
+      "answer": "Twilight"
+    },
+    {
+      "question": "Who wrote 'The Things They Carried'?",
+      "options": ["Tim O'Brien", "Philip Caputo", "Michael Herr", "Tobias Wolff"],
+      "answer": "Tim O'Brien"
+    },
+    {
+      "question": "Which poet wrote 'The Love Song of J. Alfred Prufrock'?",
+      "options": ["T.S. Eliot", "Ezra Pound", "Robert Frost", "Wallace Stevens"],
+      "answer": "T.S. Eliot"
+    },
+    {
+      "question": "Who authored 'The Kite Runner'?",
+      "options": ["Khaled Hosseini", "Amin Maalouf", "Orhan Pamuk", "Naguib Mahfouz"],
+      "answer": "Khaled Hosseini"
+    },
+    {
+      "question": "What is the name of the coffee shop in 'Friends'?",
+      "options": ["Central Perk", "The Coffee House", "Café Central", "Bean There"],
+      "answer": "Central Perk"
+    },
+    {
+      "question": "Who wrote 'The Metamorphosis'?",
+      "options": ["Franz Kafka", "Thomas Mann", "Hermann Hesse", "Robert Musil"],
+      "answer": "Franz Kafka"
+    },
+    {
+      "question": "Which novel begins with 'Happy families are all alike'?",
+      "options": ["War and Peace", "Anna Karenina", "The Brothers Karamazov", "Crime and Punishment"],
+      "answer": "Anna Karenina"
+    },
+    {
+      "question": "Who wrote 'The Old Man and the Sea'?",
+      "options": ["William Faulkner", "Ernest Hemingway", "John Steinbeck", "F. Scott Fitzgerald"],
+      "answer": "Ernest Hemingway"
+    },
+    {
+      "question": "What is the first book in the 'Divergent' series?",
+      "options": ["Insurgent", "Allegiant", "Divergent", "Four"],
+      "answer": "Divergent"
+    },
+    {
+      "question": "Who wrote 'The Crucible'?",
+      "options": ["Tennessee Williams", "Arthur Miller", "Eugene O'Neill", "Edward Albee"],
+      "answer": "Arthur Miller"
+    },
+    {
+      "question": "Which novel features the character Holden Caulfield?",
+      "options": ["On the Road", "The Catcher in the Rye", "Franny and Zooey", "Nine Stories"],
+      "answer": "The Catcher in the Rye"
+    },
+    {
+      "question": "Who wrote 'Fahrenheit 451'?",
+      "options": ["Ray Bradbury", "Philip K. Dick", "Isaac Asimov", "Ursula K. Le Guin"],
+      "answer": "Ray Bradbury"
+    },
+    {
+      "question": "What is the setting of William Faulkner's novels?",
+      "options": ["Yoknapatawpha County", "Jefferson County", "Madison County", "Beauregard Parish"],
+      "answer": "Yoknapatawpha County"
+    },
+    {
+      "question": "Who wrote 'A Streetcar Named Desire'?",
+      "options": ["Arthur Miller", "Tennessee Williams", "Eugene O'Neill", "Edward Albee"],
+      "answer": "Tennessee Williams"
+    },
+    {
+      "question": "Which poet wrote 'Do not go gentle into that good night'?",
+      "options": ["Dylan Thomas", "W.H. Auden", "Philip Larkin", "Ted Hughes"],
+      "answer": "Dylan Thomas"
+    },
+    {
+      "question": "Who authored 'The Book Thief'?",
+      "options": ["Markus Zusak", "John Boyne", "Art Spiegelman", "Elie Wiesel"],
+      "answer": "Markus Zusak"
+    },
+    {
+      "question": "What is the name of the protagonist in 'Jane Eyre'?",
+      "options": ["Jane Eyre", "Rochester", "Bertha Mason", "St. John Rivers"],
+      "answer": "Jane Eyre"
+    },
+    {
+      "question": "Who wrote 'The Glass Menagerie'?",
+      "options": ["Arthur Miller", "Tennessee Williams", "Eugene O'Neill", "Edward Albee"],
+      "answer": "Tennessee Williams"
+    },
+    {
+      "question": "Which novel features the character Pip?",
+      "options": ["Oliver Twist", "Great Expectations", "David Copperfield", "A Christmas Carol"],
+      "answer": "Great Expectations"
+    },
+    {
+      "question": "Who wrote 'One Flew Over the Cuckoo's Nest'?",
+      "options": ["Ken Kesey", "Jack Kerouac", "Allen Ginsberg", "William S. Burroughs"],
+      "answer": "Ken Kesey"
+    },
+    {
+      "question": "What is the first book in the 'Percy Jackson' series?",
+      "options": ["The Sea of Monsters", "The Titan's Curse", "The Lightning Thief", "The Battle of the Labyrinth"],
+      "answer": "The Lightning Thief"
+    },
+    {
+      "question": "Who wrote 'Their Eyes Were Watching God'?",
+      "options": ["Zora Neale Hurston", "Langston Hughes", "Claude McKay", "Countee Cullen"],
+      "answer": "Zora Neale Hurston"
+    },
+    {
+      "question": "Which Shakespeare play features the character Iago?",
+      "options": ["Hamlet", "Macbeth", "Othello", "King Lear"],
+      "answer": "Othello"
+    },
+    {
+      "question": "Who wrote 'The Joy Luck Club'?",
+      "options": ["Amy Tan", "Maxine Hong Kingston", "Lisa See", "Gish Jen"],
+      "answer": "Amy Tan"
+    },
+    {
+      "question": "What is the name of the boarding school in 'Harry Potter'?",
+      "options": ["Hogwarts", "Durmstrang", "Beauxbatons", "Ilvermorny"],
+      "answer": "Hogwarts"
+    },
+    {
+      "question": "Who wrote 'The Poisonwood Bible'?",
+      "options": ["Barbara Kingsolver", "Anne Tyler", "Sue Monk Kidd", "Elizabeth Gilbert"],
+      "answer": "Barbara Kingsolver"
+    },
+    {
+      "question": "Which novel begins with 'It was a bright cold day in April'?",
+      "options": ["Animal Farm", "1984", "Brave New World", "Fahrenheit 451"],
+      "answer": "1984"
+    },
+    {
+      "question": "Who wrote 'The Secret Garden'?",
+      "options": ["Frances Hodgson Burnett", "L.M. Montgomery", "Louisa May Alcott", "Edith Nesbit"],
+      "answer": "Frances Hodgson Burnett"
+    },
+    {
+      "question": "What is the first book in the 'His Dark Materials' trilogy?",
+      "options": ["The Subtle Knife", "The Amber Spyglass", "Northern Lights/The Golden Compass", "Once Upon a Time in the North"],
+      "answer": "Northern Lights/The Golden Compass"
+    },
+    {
+      "question": "Who wrote 'The Lovely Bones'?",
+      "options": ["Alice Sebold", "Jodi Picoult", "Anita Shreve", "Sue Miller"],
+      "answer": "Alice Sebold"
+    },
+    {
+      "question": "Which poet wrote 'I Know Why the Caged Bird Sings'?",
+      "options": ["Maya Angelou", "Nikki Giovanni", "Gwendolyn Brooks", "Rita Dove"],
+      "answer": "Maya Angelou"
+    },
+    {
+      "question": "Who authored 'The Giver'?",
+      "options": ["Lois Lowry", "Suzanne Collins", "Veronica Roth", "Scott Westerfeld"],
+      "answer": "Lois Lowry"
+    },
+    {
+      "question": "What is the name of the protagonist in 'Moby Dick'?",
+      "options": ["Captain Ahab", "Ishmael", "Queequeg", "Starbuck"],
+      "answer": "Ishmael"
+    },
+    {
+      "question": "Who wrote 'The Fault in Our Stars'?",
+      "options": ["John Green", "Rainbow Rowell", "David Levithan", "Ned Vizzini"],
+      "answer": "John Green"
+    },
+    {
+      "question": "Which novel features the character Scout Finch?",
+      "options": ["The Great Gatsby", "To Kill a Mockingbird", "Of Mice and Men", "The Grapes of Wrath"],
+      "answer": "To Kill a Mockingbird"
+    },
+    {
+      "question": "Who wrote 'Middlesex'?",
+      "options": ["Jeffrey Eugenides", "Jonathan Franzen", "Dave Eggers", "Michael Chabon"],
+      "answer": "Jeffrey Eugenides"
+    },
+    {
+      "question": "What is the first book in the 'Maze Runner' series?",
+      "options": ["The Scorch Trials", "The Death Cure", "The Maze Runner", "The Kill Order"],
+      "answer": "The Maze Runner"
+    },
+    {
+      "question": "Who wrote 'The Curious Incident of the Dog in the Night-Time'?",
+      "options": ["Mark Haddon", "Nick Hornby", "Ian McEwan", "Kazuo Ishiguro"],
+      "answer": "Mark Haddon"
+    },
+    {
+      "question": "Which Shakespeare play features the character Portia?",
+      "options": ["The Merchant of Venice", "Much Ado About Nothing", "As You Like It", "Twelfth Night"],
+      "answer": "The Merchant of Venice"
+    },
+    {
+      "question": "Who wrote 'The Life of Pi'?",
+      "options": ["Yann Martel", "Salman Rushdie", "Arundhati Roy", "Vikram Seth"],
+      "answer": "Yann Martel"
+    },
+    {
+      "question": "What is the name of the protagonist in 'The Hunger Games'?",
+      "options": ["Katniss Everdeen", "Peeta Mellark", "Gale Hawthorne", "Primrose Everdeen"],
+      "answer": "Katniss Everdeen"
+    },
+    {
+      "question": "Who wrote 'The Alchemist'?",
+      "options": ["Paulo Coelho", "Isabel Allende", "Gabriel García Márquez", "Mario Vargas Llosa"],
+      "answer": "Paulo Coelho"
+    },
+    {
+      "question": "Which novel begins with 'Last night I dreamt I went to Manderley again'?",
+      "options": ["Jane Eyre", "Rebecca", "Wuthering Heights", "The Turn of the Screw"],
+      "answer": "Rebecca"
+    },
+    {
+      "question": "Who wrote 'The Time Traveler's Wife'?",
+      "options": ["Audrey Niffenegger", "Kate Atkinson", "Jess Walter", "Jennifer Egan"],
+      "answer": "Audrey Niffenegger"
+    },
+    {
+      "question": "What is the first book in the 'Outlander' series?",
+      "options": ["Dragonfly in Amber", "Voyager", "Outlander", "Drums of Autumn"],
+      "answer": "Outlander"
+    },
+    {
+      "question": "Who wrote 'The Kite Runner'?",
+      "options": ["Khaled Hosseini", "Amin Maalouf", "Orhan Pamuk", "Naguib Mahfouz"],
+      "answer": "Khaled Hosseini"
+    },
+    {
+      "question": "Which poet wrote 'The Raven'?",
+      "options": ["Edgar Allan Poe", "Walt Whitman", "Henry Wadsworth Longfellow", "Ralph Waldo Emerson"],
+      "answer": "Edgar Allan Poe"
+    },
+    {
+      "question": "Who authored 'The Help'?",
+      "options": ["Kathryn Stockett", "Sue Monk Kidd", "Anita Diamant", "Sarah Orne Jewett"],
+      "answer": "Kathryn Stockett"
+    },
+    {
+      "question": "What is the name of the protagonist in 'Pride and Prejudice'?",
+      "options": ["Elizabeth Bennet", "Jane Bennet", "Mary Bennet", "Lydia Bennet"],
+      "answer": "Elizabeth Bennet"
+    },
+    {
+      "question": "Who wrote 'The Perks of Being a Wallflower'?",
+      "options": ["Stephen Chbosky", "John Green", "Rainbow Rowell", "David Levithan"],
+      "answer": "Stephen Chbosky"
+    },
+    {
+      "question": "Which novel features the character Jay Gatsby?",
+      "options": ["The Sun Also Rises", "The Great Gatsby", "Tender Is the Night", "This Side of Paradise"],
+      "answer": "The Great Gatsby"
+    },
+    {
+      "question": "Who wrote 'Wild'?",
+      "options": ["Cheryl Strayed", "Elizabeth Gilbert", "Jeannette Walls", "Mary Karr"],
+      "answer": "Cheryl Strayed"
+    },
+    {
+      "question": "What is the first book in the 'Artemis Fowl' series?",
+      "options": ["The Arctic Incident", "The Eternity Code", "Artemis Fowl", "The Opal Deception"],
+      "answer": "Artemis Fowl"
+    },
+    {
+      "question": "Who wrote 'The Girl with the Dragon Tattoo'?",
+      "options": ["Stieg Larsson", "Henning Mankell", "Camilla Läckberg", "Åsa Larsson"],
+      "answer": "Stieg Larsson"
+    },
+    {
+      "question": "Which Shakespeare play features the character Benedick?",
+      "options": ["Much Ado About Nothing", "As You Like It", "Twelfth Night", "The Taming of the Shrew"],
+      "answer": "Much Ado About Nothing"
+    },
+    {
+      "question": "Who wrote 'The Glass Castle'?",
+      "options": ["Jeannette Walls", "Mary Karr", "Tobias Wolff", "Frank McCourt"],
+      "answer": "Jeannette Walls"
+    },
+    {
+      "question": "What is the name of the protagonist in 'Wuthering Heights'?",
+      "options": ["Heathcliff", "Catherine Earnshaw", "Edgar Linton", "Hindley Earnshaw"],
+      "answer": "Catherine Earnshaw"
+    },
+    {
+      "question": "Who wrote 'Me Before You'?",
+      "options": ["Jojo Moyes", "Nicholas Sparks", "Cecelia Ahern", "Sophie Kinsella"],
+      "answer": "Jojo Moyes"
+    },
+    {
+      "question": "Which novel begins with 'All children, except one, grow up'?",
+      "options": ["Alice's Adventures in Wonderland", "The Secret Garden", "Peter Pan", "Charlie and the Chocolate Factory"],
+      "answer": "Peter Pan"
+    },
+    {
+      "question": "Who wrote 'The Night Circus'?",
+      "options": ["Erin Morgenstern", "Sarah J. Maas", "V.E. Schwab", "Leigh Bardugo"],
+      "answer": "Erin Morgenstern"
+    },
+    {
+      "question": "What is the first book in the 'Fifty Shades' series?",
+      "options": ["Fifty Shades Darker", "Fifty Shades Freed", "Fifty Shades of Grey", "Grey"],
+      "answer": "Fifty Shades of Grey"
+    },
+    {
+      "question": "Who wrote 'The Goldfinch'?",
+      "options": ["Donna Tartt", "Jennifer Egan", "Claire Vaye Watkins", "Karen Russell"],
+      "answer": "Donna Tartt"
+    },
+    {
+      "question": "Which poet wrote 'Still I Rise'?",
+      "options": ["Maya Angelou", "Nikki Giovanni", "Gwendolyn Brooks", "Rita Dove"],
+      "answer": "Maya Angelou"
+    },
+    {
+      "question": "Who authored 'The Martian'?",
+      "options": ["Andy Weir", "Kim Stanley Robinson", "Ursula K. Le Guin", "Isaac Asimov"],
+      "answer": "Andy Weir"
+    },
+    {
+      "question": "What is the name of the protagonist in 'The Catcher in the Rye'?",
+      "options": ["Holden Caulfield", "Phoebe Caulfield", "D.B. Caulfield", "Allie Caulfield"],
+      "answer": "Holden Caulfield"
+    },
+    {
+      "question": "Who wrote 'Gone Girl'?",
+      "options": ["Gillian Flynn", "Paula Hawkins", "Tana French", "Laura Lippman"],
+      "answer": "Gillian Flynn"
+    },
+    {
+      "question": "Which novel features the character Winston Smith?",
+      "options": ["Animal Farm", "1984", "Brave New World", "We"],
+      "answer": "1984"
+    },
+    {
+      "question": "Who wrote 'The Hate U Give'?",
+      "options": ["Angie Thomas", "Jacqueline Woodson", "Jason Reynolds", "Nic Stone"],
+      "answer": "Angie Thomas"
+    },
+    {
+      "question": "What is the first book in the 'Game of Thrones' TV adaptation?",
+      "options": ["A Clash of Kings", "A Game of Thrones", "A Storm of Swords", "A Feast for Crows"],
+      "answer": "A Game of Thrones"
+    },
+    {
+      "question": "Who wrote 'The Outsiders'?",
+      "options": ["S.E. Hinton", "Robert Cormier", "Judy Blume", "Katherine Paterson"],
+      "answer": "S.E. Hinton"
+    },
+    {
+      "question": "Which Shakespeare play features the character Cordelia?",
+      "options": ["King Lear", "Hamlet", "Macbeth", "Othello"],
+      "answer": "King Lear"
+    },
+    {
+      "question": "Who wrote 'The Seven Husbands of Evelyn Hugo'?",
+      "options": ["Taylor Jenkins Reid", "Christina Lauren", "Emily Henry", "Sally Rooney"],
+      "answer": "Taylor Jenkins Reid"
+    },
+    {
+      "question": "What is the name of the protagonist in 'The Lord of the Rings'?",
+      "options": ["Aragorn", "Gandalf", "Frodo Baggins", "Samwise Gamgee"],
+      "answer": "Frodo Baggins"
+    },
+    {
+      "question": "Who wrote 'Where the Crawdads Sing'?",
+      "options": ["Delia Owens", "Barbara Kingsolver", "Sue Monk Kidd", "Sarah Orne Jewett"],
+      "answer": "Delia Owens"
+    },
+    {
+      "question": "Which novel begins with 'When he was nearly forty years old'?",
+      "options": ["The Great Gatsby", "Lolita", "On the Road", "Catch-22"],
+      "answer": "Lolita"
+    },
+    {
+      "question": "Who wrote 'Educated'?",
+      "options": ["Tara Westover", "Jeannette Walls", "Mary Karr", "Cheryl Strayed"],
+      "answer": "Tara Westover"
+    },
+    {
+      "question": "What is the first book in the 'Dune' series?",
+      "options": ["Dune Messiah", "Children of Dune", "Dune", "God Emperor of Dune"],
+      "answer": "Dune"
+    },
+    {
+      "question": "Who wrote 'The Handmaid's Tale'?",
+      "options": ["Margaret Atwood", "Ursula K. Le Guin", "Doris Lessing", "Joyce Carol Oates"],
+      "answer": "Margaret Atwood"
+    },
+    {
+      "question": "Which poet wrote 'Leaves of Grass'?",
+      "options": ["Walt Whitman", "Ralph Waldo Emerson", "Henry David Thoreau", "Emily Dickinson"],
+      "answer": "Walt Whitman"
+    },
+    {
+      "question": "Who authored 'Big Little Lies'?",
+      "options": ["Liane Moriarty", "Jojo Moyes", "Sophie Kinsella", "Cecelia Ahern"],
+      "answer": "Liane Moriarty"
+    },
+    {
+      "question": "What is the name of the protagonist in 'Anna Karenina'?",
+      "options": ["Anna Karenina", "Kitty Levin", "Dolly Oblonsky", "Vronsky"],
+      "answer": "Anna Karenina"
+    },
+    {
+      "question": "Who wrote 'The Silent Patient'?",
+      "options": ["Alex Michaelides", "Ruth Ware", "Clare Mackintosh", "Shari Lapena"],
+      "answer": "Alex Michaelides"
+    },
+    {
+      "question": "Which novel features the character Hermione Granger?",
+      "options": ["The Chronicles of Narnia", "Harry Potter series", "Percy Jackson series", "The Hunger Games"],
+      "answer": "Harry Potter series"
+    },
+    {
+      "question": "Who wrote 'Becoming'?",
+      "options": ["Michelle Obama", "Hillary Clinton", "Oprah Winfrey", "Maya Angelou"],
+      "answer": "Michelle Obama"
+    },
+    {
+      "question": "What is the first book in the 'Foundation' series?",
+      "options": ["Foundation and Empire", "Second Foundation", "Foundation", "Prelude to Foundation"],
+      "answer": "Foundation"
+    },
+    {
+      "question": "Who wrote 'The Underground Railroad'?",
+      "options": ["Colson Whitehead", "Ta-Nehisi Coates", "Jesmyn Ward", "N.K. Jemisin"],
+      "answer": "Colson Whitehead"
+    },
+    {
+      "question": "Which Shakespeare play features the character Desdemona?",
+      "options": ["Hamlet", "Macbeth", "Othello", "King Lear"],
+      "answer": "Othello"
+    },
+    {
+      "question": "Who wrote 'Normal People'?",
+      "options": ["Sally Rooney", "Emma Straub", "Curtis Sittenfeld", "Zadie Smith"],
+      "answer": "Sally Rooney"
+    },
+    {
+      "question": "What is the name of the protagonist in 'Beloved'?",
+      "options": ["Sethe", "Denver", "Paul D", "Baby Suggs"],
+      "answer": "Sethe"
+    },
+    {
+      "question": "Who wrote 'The Testaments'?",
+      "options": ["Margaret Atwood", "Ursula K. Le Guin", "Doris Lessing", "Joyce Carol Oates"],
+      "answer": "Margaret Atwood"
+    },
+    {
+      "question": "Which novel begins with 'If you really want to hear about it'?",
+      "options": ["On the Road", "The Catcher in the Rye", "Franny and Zooey", "Nine Stories"],
+      "answer": "The Catcher in the Rye"
+    },
+    {
+      "question": "Who wrote 'The Institute'?",
+      "options": ["Stephen King", "Dean Koontz", "Peter Straub", "Clive Barker"],
+      "answer": "Stephen King"
+    },
+    {
+      "question": "What is the first book in the 'Red Queen' series?",
+      "options": ["Glass Sword", "King's Cage", "Red Queen", "War Storm"],
+      "answer": "Red Queen"
+    },
+    {
+      "question": "Who wrote 'Little Fires Everywhere'?",
+      "options": ["Celeste Ng", "Jess Walter", "Jennifer Egan", "Claire Vaye Watkins"],
+      "answer": "Celeste Ng"
+    },
+    {
+      "question": "Which poet wrote 'Annabel Lee'?",
+      "options": ["Edgar Allan Poe", "Henry Wadsworth Longfellow", "Ralph Waldo Emerson", "Walt Whitman"],
+      "answer": "Edgar Allan Poe"
+    },
+    {
+      "question": "Who authored 'The Woman in the Window'?",
+      "options": ["A.J. Finn", "Ruth Ware", "Clare Mackintosh", "Shari Lapena"],
+      "answer": "A.J. Finn"
+    },
+    {
+      "question": "What is the name of the protagonist in 'The Handmaid's Tale'?",
+      "options": ["Offred", "Serena Joy", "Aunt Lydia", "Moira"],
+      "answer": "Offred"
+    },
+    {
+      "question": "Who wrote 'Circe'?",
+      "options": ["Madeline Miller", "Jennifer Saint", "Pat Barker", "Colm Tóibín"],
+      "answer": "Madeline Miller"
+    },
+    {
+      "question": "Which novel features the character Captain Ahab?",
+      "options": ["The Old Man and the Sea", "Moby Dick", "Twenty Thousand Leagues Under the Sea", "Robinson Crusoe"],
+      "answer": "Moby Dick"
+    },
+    {
+      "question": "Who wrote 'Daisy Jones & The Six'?",
+      "options": ["Taylor Jenkins Reid", "Christina Lauren", "Emily Henry", "Sally Rooney"],
+      "answer": "Taylor Jenkins Reid"
+    },
+    {
+      "question": "What is the first book in the 'Throne of Glass' series?",
+      "options": ["Crown of Midnight", "Heir of Fire", "Throne of Glass", "Queen of Shadows"],
+      "answer": "Throne of Glass"
+    },
+    {
+      "question": "Who wrote 'The Nickel Boys'?",
+      "options": ["Colson Whitehead", "Ta-Nehisi Coates", "Jesmyn Ward", "N.K. Jemisin"],
+      "answer": "Colson Whitehead"
+    },
+    {
+      "question": "Which Shakespeare play features the character Miranda?",
+      "options": ["The Tempest", "A Midsummer Night's Dream", "As You Like It", "The Winter's Tale"],
+      "answer": "The Tempest"
+    },
+    {
+      "question": "Who wrote 'Such a Fun Age'?",
+      "options": ["Kiley Reid", "Brit Bennett", "Tayari Jones", "Jess Walter"],
+      "answer": "Kiley Reid"
+    },
+    {
+      "question": "What is the name of the protagonist in 'The Color Purple'?",
+      "options": ["Celie", "Sofia", "Shug Avery", "Nettie"],
+      "answer": "Celie"
+    },
+    {
+      "question": "Who wrote 'The Dutch House'?",
+      "options": ["Ann Patchett", "Elizabeth Strout", "Marilynne Robinson", "Anne Tyler"],
+      "answer": "Ann Patchett"
+    },
+    {
+      "question": "Which novel begins with 'Mr. and Mrs. Dursley of number four, Privet Drive'?",
+      "options": ["Harry Potter and the Chamber of Secrets", "Harry Potter and the Philosopher's Stone", "Harry Potter and the Prisoner of Azkaban", "Harry Potter and the Goblet of Fire"],
+      "answer": "Harry Potter and the Philosopher's Stone"
+    },
+    {
+      "question": "Who wrote 'The Ten Thousand Doors of January'?",
+      "options": ["Alix E. Harrow", "V.E. Schwab", "Leigh Bardugo", "Erin Morgenstern"],
+      "answer": "Alix E. Harrow"
+    },
+    {
+      "question": "What is the first book in the 'Shades of Magic' series?",
+      "options": ["A Gathering of Shadows", "A Conjuring of Light", "A Darker Shade of Magic", "A Fragile Enchantment"],
+      "answer": "A Darker Shade of Magic"
+    },
+    {
+      "question": "Who wrote 'The Vanishing Half'?",
+      "options": ["Brit Bennett", "Kiley Reid", "Tayari Jones", "Jess Walter"],
+      "answer": "Brit Bennett"
+    },
+    {
+      "question": "Which poet wrote 'The New Colossus' (Statue of Liberty poem)?",
+      "options": ["Emma Lazarus", "Julia Ward Howe", "Frances Willard", "Lucretia Mott"],
+      "answer": "Emma Lazarus"
+    },
+    {
+      "question": "Who authored 'The Thursday Murder Club'?",
+      "options": ["Richard Osman", "Louise Penny", "Agatha Christie", "Ruth Rendell"],
+      "answer": "Richard Osman"
+    },
+    {
+      "question": "What is the name of the protagonist in 'The Alchemist'?",
+      "options": ["Santiago", "Melchizedek", "The Alchemist", "Fatima"],
+      "answer": "Santiago"
+    },
+    {
+      "question": "Who wrote 'Klara and the Sun'?",
+      "options": ["Kazuo Ishiguro", "Ian McEwan", "Julian Barnes", "Martin Amis"],
+      "answer": "Kazuo Ishiguro"
+    },
+    {
+      "question": "Which novel features the character Atticus Finch?",
+      "options": ["The Great Gatsby", "To Kill a Mockingbird", "Of Mice and Men", "The Grapes of Wrath"],
+      "answer": "To Kill a Mockingbird"
+    },
+    {
+      "question": "Who wrote 'The Midnight Library'?",
+      "options": ["Matt Haig", "Jojo Moyes", "Nick Hornby", "David Nicholls"],
+      "answer": "Matt Haig"
+    },
+    {
+      "question": "What is the first book in the 'Bridgerton' series?",
+      "options": ["The Viscount Who Loved Me", "An Offer From a Gentleman", "The Duke and I", "Romancing Mister Bridgerton"],
+      "answer": "The Duke and I"
+    },
+    {
+      "question": "Who wrote 'Project Hail Mary'?",
+      "options": ["Andy Weir", "Kim Stanley Robinson", "Becky Chambers", "Martha Wells"],
+      "answer": "Andy Weir"
+    },
+    {
+      "question": "Which Shakespeare play features the character Beatrice?",
+      "options": ["Much Ado About Nothing", "As You Like It", "Twelfth Night", "The Taming of the Shrew"],
+      "answer": "Much Ado About Nothing"
+    },
+    {
+      "question": "Who wrote 'The Song of Achilles'?",
+      "options": ["Madeline Miller", "Jennifer Saint", "Pat Barker", "Colm Tóibín"],
+      "answer": "Madeline Miller"
+    },
+    {
+      "question": "What is the name of the protagonist in 'The Kite Runner'?",
+      "options": ["Amir", "Hassan", "Baba", "Rahim Khan"],
+      "answer": "Amir"
+    },
+    {
+      "question": "Who wrote 'The Four Winds'?",
+      "options": ["Kristin Hannah", "Jodi Picoult", "Anita Shreve", "Sue Miller"],
+      "answer": "Kristin Hannah"
+    },
+    {
+      "question": "Which novel begins with 'When I stepped out into the bright sunlight'?",
+      "options": ["The Outsiders", "That Was Then, This Is Now", "Rumble Fish", "Tex"],
+      "answer": "The Outsiders"
+    },
+    {
+      "question": "Who wrote 'The Sanatorium'?",
+      "options": ["Sarah Pearse", "Ruth Ware", "Clare Mackintosh", "Shari Lapena"],
+      "answer": "Sarah Pearse"
+    },
+    {
+      "question": "What is the first book in the 'Court of Thorns and Roses' series?",
+      "options": ["A Court of Mist and Fury", "A Court of Wings and Ruin", "A Court of Thorns and Roses", "A Court of Silver Flames"],
+      "answer": "A Court of Thorns and Roses"
+    },
+    {
+      "question": "Who wrote 'Hamnet'?",
+      "options": ["Maggie O'Farrell", "Hilary Mantel", "Sarah Waters", "Ali Smith"],
+      "answer": "Maggie O'Farrell"
+    },
+    {
+      "question": "Which poet wrote 'If—'?",
+      "options": ["Rudyard Kipling", "Alfred Lord Tennyson", "Robert Browning", "William Butler Yeats"],
+      "answer": "Rudyard Kipling"
+    },
+    {
+      "question": "Who authored 'The Guest List'?",
+      "options": ["Lucy Foley", "Ruth Ware", "Clare Mackintosh", "Shari Lapena"],
+      "answer": "Lucy Foley"
+    },
+    {
+      "question": "What is the name of the protagonist in 'The Life of Pi'?",
+      "options": ["Piscine Patel", "Richard Parker", "The Cook", "The Sailor"],
+      "answer": "Piscine Patel"
+    },
+    {
+      "question": "Who wrote 'The Invisible Bridge'?",
+      "options": ["Julie Orringer", "Nicole Krauss", "Jonathan Safran Foer", "Nathan Englander"],
+      "answer": "Julie Orringer"
+    },
+    {
+      "question": "Which novel features the character Gandalf?",
+      "options": ["The Chronicles of Narnia", "The Lord of the Rings", "A Song of Ice and Fire", "The Wheel of Time"],
+      "answer": "The Lord of the Rings"
+    },
+    {
+      "question": "Who wrote 'The Push'?",
+      "options": ["Ashley Audrain", "Gillian Flynn", "Paula Hawkins", "Tana French"],
+      "answer": "Ashley Audrain"
+    },
+    {
+      "question": "What is the first book in the 'Expanse' series?",
+      "options": ["Caliban's War", "Abaddon's Gate", "Leviathan Wakes", "Cibola Burn"],
+      "answer": "Leviathan Wakes"
+    },
+    {
+      "question": "Who wrote 'The Invisible Life of Addie LaRue'?",
+      "options": ["V.E. Schwab", "Leigh Bardugo", "Sarah J. Maas", "Erin Morgenstern"],
+      "answer": "V.E. Schwab"
+    },
+    {
+      "question": "Which Shakespeare play features the character Viola?",
+      "options": ["Twelfth Night", "As You Like It", "Much Ado About Nothing", "The Taming of the Shrew"],
+      "answer": "Twelfth Night"
+    },
+    {
+      "question": "Who wrote 'The Seven Moons of Maali Almeida'?",
+      "options": ["Shehan Karunatilaka", "Amitav Ghosh", "Aravind Adiga", "Vikram Seth"],
+      "answer": "Shehan Karunatilaka"
+    },
+    {
+      "question": "What is the name of the protagonist in 'Educated'?",
+      "options": ["Tara Westover", "Gene Westover", "Faye Westover", "Shawn Westover"],
+      "answer": "Tara Westover"
+    },
+    {
+      "question": "Who wrote 'Book Lovers'?",
+      "options": ["Emily Henry", "Christina Lauren", "Taylor Jenkins Reid", "Sally Rooney"],
+      "answer": "Emily Henry"
+    },
+    {
+      "question": "Which novel begins with 'There was once a boy named Milo'?",
+      "options": ["The Phantom Tollbooth", "The Giving Tree", "Where the Wild Things Are", "Charlotte's Web"],
+      "answer": "The Phantom Tollbooth"
+    },
+    {
+      "question": "Who wrote 'The Atlas Six'?",
+      "options": ["Olivie Blake", "V.E. Schwab", "Leigh Bardugo", "Sarah J. Maas"],
+      "answer": "Olivie Blake"
+    },
+    {
+      "question": "What is the first book in the 'Witcher' series?",
+      "options": ["Sword of Destiny", "Blood of Elves", "The Last Wish", "Time of Contempt"],
+      "answer": "The Last Wish"
+    },
+    {
+      "question": "Who wrote 'The School for Good Mothers'?",
+      "options": ["Jessamine Chan", "Kiley Reid", "Brit Bennett", "Tayari Jones"],
+      "answer": "Jessamine Chan"
+    },
+    {
+      "question": "Which poet wrote 'Hope is the thing with feathers'?",
+      "options": ["Emily Dickinson", "Maya Angelou", "Sylvia Plath", "Anne Sexton"],
+      "answer": "Emily Dickinson"
+    },
+    {
+      "question": "Who authored 'The It Girl'?",
+      "options": ["Ruth Ware", "Lucy Foley", "Clare Mackintosh", "Shari Lapena"],
+      "answer": "Ruth Ware"
+    },
+    {
+      "question": "What is the name of the protagonist in 'Where the Crawdads Sing'?",
+      "options": ["Kya Clark", "Tate Walker", "Chase Andrews", "Jodie Clark"],
+      "answer": "Kya Clark"
+    },
+    {
+      "question": "Who wrote 'The Cartographers'?",
+      "options": ["Peng Shepherd", "Rebecca Ross", "Adrienne Young", "Stephanie Meyer"],
+      "answer": "Peng Shepherd"
+    }
+  ]
+}
