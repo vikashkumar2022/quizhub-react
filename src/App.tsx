@@ -177,10 +177,13 @@ const AnimatedBackground = () => {
 };
 
 function App() {
+  // Set basename for GitHub Pages deployment
+  const basename = process.env.NODE_ENV === 'production' ? '/quizhub-react' : '';
+  
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Router basename="/quizhub-react">
+      <Router basename={basename}>
         <AnimatedBackground />
         <Box sx={{ minHeight: '100vh', position: 'relative' }}>
           <Header />
