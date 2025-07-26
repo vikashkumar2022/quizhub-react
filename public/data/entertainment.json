@@ -1,0 +1,949 @@
+{
+  "questions": [
+    {
+      "question": "Which movie won the Academy Award for Best Picture in 2023?",
+      "options": ["Top Gun: Maverick", "Everything Everywhere All at Once", "The Banshees of Inisherin", "Avatar: The Way of Water"],
+      "answer": "Everything Everywhere All at Once"
+    },
+    {
+      "question": "Who directed the movie 'Inception'?",
+      "options": ["Steven Spielberg", "Christopher Nolan", "Martin Scorsese", "Quentin Tarantino"],
+      "answer": "Christopher Nolan"
+    },
+    {
+      "question": "Which streaming platform produced 'Stranger Things'?",
+      "options": ["Amazon Prime", "Hulu", "Netflix", "Disney+"],
+      "answer": "Netflix"
+    },
+    {
+      "question": "Who played Iron Man in the Marvel Cinematic Universe?",
+      "options": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"],
+      "answer": "Robert Downey Jr."
+    },
+    {
+      "question": "Which artist performed 'Bad Guy' that became a global hit?",
+      "options": ["Ariana Grande", "Taylor Swift", "Billie Eilish", "Dua Lipa"],
+      "answer": "Billie Eilish"
+    },
+    {
+      "question": "What is the highest-grossing movie of all time?",
+      "options": ["Avengers: Endgame", "Avatar", "Titanic", "Star Wars: The Force Awakens"],
+      "answer": "Avatar"
+    },
+    {
+      "question": "Who is known as the 'King of Pop'?",
+      "options": ["Elvis Presley", "Michael Jackson", "Prince", "Madonna"],
+      "answer": "Michael Jackson"
+    },
+    {
+      "question": "Which TV series features the character Walter White?",
+      "options": ["The Sopranos", "Breaking Bad", "Better Call Saul", "Ozark"],
+      "answer": "Breaking Bad"
+    },
+    {
+      "question": "Who wrote the 'Harry Potter' book series?",
+      "options": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "Stephen King"],
+      "answer": "J.K. Rowling"
+    },
+    {
+      "question": "Which band performed the song 'Bohemian Rhapsody'?",
+      "options": ["The Beatles", "Led Zeppelin", "Queen", "The Rolling Stones"],
+      "answer": "Queen"
+    },
+    {
+      "question": "Who directed 'The Dark Knight' trilogy?",
+      "options": ["Zack Snyder", "Christopher Nolan", "Tim Burton", "Sam Raimi"],
+      "answer": "Christopher Nolan"
+    },
+    {
+      "question": "Which actress starred in 'La La Land'?",
+      "options": ["Emma Stone", "Jennifer Lawrence", "Scarlett Johansson", "Amy Adams"],
+      "answer": "Emma Stone"
+    },
+    {
+      "question": "What is the name of the coffee shop in the TV series 'Friends'?",
+      "options": ["Central Perk", "Monk's Cafe", "The Max", "Luke's Diner"],
+      "answer": "Central Perk"
+    },
+    {
+      "question": "Who composed the music for 'Star Wars'?",
+      "options": ["Hans Zimmer", "John Williams", "Danny Elfman", "James Horner"],
+      "answer": "John Williams"
+    },
+    {
+      "question": "Which movie features the character Jack Sparrow?",
+      "options": ["Treasure Island", "Pirates of the Caribbean", "Master and Commander", "The Pirate Movie"],
+      "answer": "Pirates of the Caribbean"
+    },
+    {
+      "question": "Who is the creator of 'Game of Thrones' TV series (author of the books)?",
+      "options": ["J.R.R. Tolkien", "George R.R. Martin", "Brandon Sanderson", "Robin Hobb"],
+      "answer": "George R.R. Martin"
+    },
+    {
+      "question": "Which artist released the album '1989'?",
+      "options": ["Katy Perry", "Taylor Swift", "Lady Gaga", "Selena Gomez"],
+      "answer": "Taylor Swift"
+    },
+    {
+      "question": "Who played the title character in 'Wonder Woman'?",
+      "options": ["Scarlett Johansson", "Brie Larson", "Gal Gadot", "Margot Robbie"],
+      "answer": "Gal Gadot"
+    },
+    {
+      "question": "Which animated movie features the song 'Let It Go'?",
+      "options": ["Moana", "Frozen", "Tangled", "The Little Mermaid"],
+      "answer": "Frozen"
+    },
+    {
+      "question": "Who hosts 'The Tonight Show' currently?",
+      "options": ["Conan O'Brien", "Jimmy Fallon", "Stephen Colbert", "Jimmy Kimmel"],
+      "answer": "Jimmy Fallon"
+    },
+    {
+      "question": "Which rapper released the album 'DAMN.'?",
+      "options": ["Drake", "Kendrick Lamar", "J. Cole", "Travis Scott"],
+      "answer": "Kendrick Lamar"
+    },
+    {
+      "question": "Who directed the movie 'Pulp Fiction'?",
+      "options": ["Martin Scorsese", "Quentin Tarantino", "Steven Spielberg", "Francis Ford Coppola"],
+      "answer": "Quentin Tarantino"
+    },
+    {
+      "question": "Which TV series is set in the fictional town of Hawkins?",
+      "options": ["Twin Peaks", "Stranger Things", "Dark", "The X-Files"],
+      "answer": "Stranger Things"
+    },
+    {
+      "question": "Who played Hermione Granger in the Harry Potter movies?",
+      "options": ["Emma Watson", "Emma Stone", "Saoirse Ronan", "Anya Taylor-Joy"],
+      "answer": "Emma Watson"
+    },
+    {
+      "question": "Which band released the album 'Abbey Road'?",
+      "options": ["The Rolling Stones", "The Beatles", "Led Zeppelin", "Pink Floyd"],
+      "answer": "The Beatles"
+    },
+    {
+      "question": "Who is the lead actor in 'John Wick' movies?",
+      "options": ["Tom Cruise", "Keanu Reeves", "Liam Neeson", "Jason Statham"],
+      "answer": "Keanu Reeves"
+    },
+    {
+      "question": "Which actress won an Oscar for 'Black Swan'?",
+      "options": ["Natalie Portman", "Mila Kunis", "Anne Hathaway", "Jennifer Lawrence"],
+      "answer": "Natalie Portman"
+    },
+    {
+      "question": "What is the name of the HBO series about dragons and kingdoms?",
+      "options": ["The Witcher", "Game of Thrones", "House of the Dragon", "The Lord of the Rings"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Who sang 'Rolling in the Deep'?",
+      "options": ["Amy Winehouse", "Adele", "Alicia Keys", "Beyoncé"],
+      "answer": "Adele"
+    },
+    {
+      "question": "Which movie features the character Forrest Gump?",
+      "options": ["Cast Away", "Philadelphia", "Forrest Gump", "The Green Mile"],
+      "answer": "Forrest Gump"
+    },
+    {
+      "question": "Who is the voice of Woody in 'Toy Story'?",
+      "options": ["Tom Hanks", "Tim Allen", "Billy Crystal", "John Goodman"],
+      "answer": "Tom Hanks"
+    },
+    {
+      "question": "Which artist performed at the 2020 Super Bowl halftime show?",
+      "options": ["Shakira and Jennifer Lopez", "Lady Gaga", "The Weeknd", "Justin Timberlake"],
+      "answer": "Shakira and Jennifer Lopez"
+    },
+    {
+      "question": "Who directed 'Avatar'?",
+      "options": ["Steven Spielberg", "James Cameron", "Peter Jackson", "George Lucas"],
+      "answer": "James Cameron"
+    },
+    {
+      "question": "Which TV series features Tyrion Lannister?",
+      "options": ["The Witcher", "Game of Thrones", "Vikings", "The Last Kingdom"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Who played Captain Jack Sparrow?",
+      "options": ["Orlando Bloom", "Johnny Depp", "Geoffrey Rush", "Keira Knightley"],
+      "answer": "Johnny Depp"
+    },
+    {
+      "question": "Which artist released 'Shape of You'?",
+      "options": ["Ed Sheeran", "Sam Smith", "John Legend", "Bruno Mars"],
+      "answer": "Ed Sheeran"
+    },
+    {
+      "question": "Who starred as Neo in 'The Matrix'?",
+      "options": ["Will Smith", "Keanu Reeves", "Tom Cruise", "Leonardo DiCaprio"],
+      "answer": "Keanu Reeves"
+    },
+    {
+      "question": "Which animated studio created 'Finding Nemo'?",
+      "options": ["DreamWorks", "Pixar", "Disney", "Illumination"],
+      "answer": "Pixar"
+    },
+    {
+      "question": "Who is the lead singer of Coldplay?",
+      "options": ["Chris Martin", "Jonny Buckland", "Guy Berryman", "Will Champion"],
+      "answer": "Chris Martin"
+    },
+    {
+      "question": "Which movie won Best Picture in 2020?",
+      "options": ["1917", "Joker", "Parasite", "Once Upon a Time in Hollywood"],
+      "answer": "Parasite"
+    },
+    {
+      "question": "Who plays Eleven in 'Stranger Things'?",
+      "options": ["Sadie Sink", "Millie Bobby Brown", "Winona Ryder", "Natalia Dyer"],
+      "answer": "Millie Bobby Brown"
+    },
+    {
+      "question": "Which rapper is known for 'Lose Yourself'?",
+      "options": ["50 Cent", "Eminem", "Dr. Dre", "Snoop Dogg"],
+      "answer": "Eminem"
+    },
+    {
+      "question": "Who directed 'Jaws'?",
+      "options": ["George Lucas", "Steven Spielberg", "Francis Ford Coppola", "Martin Scorsese"],
+      "answer": "Steven Spielberg"
+    },
+    {
+      "question": "Which actress played Rey in the latest Star Wars trilogy?",
+      "options": ["Daisy Ridley", "Felicity Jones", "Emilia Clarke", "Alicia Vikander"],
+      "answer": "Daisy Ridley"
+    },
+    {
+      "question": "Who sang 'Someone Like You'?",
+      "options": ["Amy Winehouse", "Adele", "Sam Smith", "John Legend"],
+      "answer": "Adele"
+    },
+    {
+      "question": "Which TV series features the character Sheldon Cooper?",
+      "options": ["Friends", "How I Met Your Mother", "The Big Bang Theory", "Two and a Half Men"],
+      "answer": "The Big Bang Theory"
+    },
+    {
+      "question": "Who played Thor in the Marvel movies?",
+      "options": ["Chris Evans", "Chris Hemsworth", "Chris Pratt", "Chris Pine"],
+      "answer": "Chris Hemsworth"
+    },
+    {
+      "question": "Which artist released the album 'Lemonade'?",
+      "options": ["Rihanna", "Beyoncé", "Ariana Grande", "Lady Gaga"],
+      "answer": "Beyoncé"
+    },
+    {
+      "question": "Who directed 'The Godfather'?",
+      "options": ["Martin Scorsese", "Francis Ford Coppola", "Robert De Niro", "Al Pacino"],
+      "answer": "Francis Ford Coppola"
+    },
+    {
+      "question": "Which movie features the character Katniss Everdeen?",
+      "options": ["Divergent", "The Hunger Games", "The Maze Runner", "The Giver"],
+      "answer": "The Hunger Games"
+    },
+    {
+      "question": "Who is the voice of Elsa in 'Frozen'?",
+      "options": ["Kristen Bell", "Idina Menzel", "Mandy Moore", "Kristen Chenoweth"],
+      "answer": "Idina Menzel"
+    },
+    {
+      "question": "Which band performed 'Sweet Child O' Mine'?",
+      "options": ["Guns N' Roses", "Metallica", "AC/DC", "Aerosmith"],
+      "answer": "Guns N' Roses"
+    },
+    {
+      "question": "Who starred in 'The Devil Wears Prada'?",
+      "options": ["Sandra Bullock", "Meryl Streep", "Julia Roberts", "Nicole Kidman"],
+      "answer": "Meryl Streep"
+    },
+    {
+      "question": "Which TV series is known for the phrase 'Winter is Coming'?",
+      "options": ["Vikings", "Game of Thrones", "The Witcher", "The Last Kingdom"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Who sang 'Uptown Funk'?",
+      "options": ["Bruno Mars", "Justin Timberlake", "Pharrell Williams", "The Weeknd"],
+      "answer": "Bruno Mars"
+    },
+    {
+      "question": "Which actor played Spider-Man in the recent MCU movies?",
+      "options": ["Tobey Maguire", "Andrew Garfield", "Tom Holland", "Jake Gyllenhaal"],
+      "answer": "Tom Holland"
+    },
+    {
+      "question": "Who created the TV series 'The Office' (US version)?",
+      "options": ["Greg Daniels", "Michael Schur", "Ricky Gervais", "Steve Carell"],
+      "answer": "Greg Daniels"
+    },
+    {
+      "question": "Which movie features the song 'My Heart Will Go On'?",
+      "options": ["The Notebook", "Titanic", "Ghost", "Dirty Dancing"],
+      "answer": "Titanic"
+    },
+    {
+      "question": "Who played Captain America in the MCU?",
+      "options": ["Chris Evans", "Chris Hemsworth", "Chris Pratt", "Chris Pine"],
+      "answer": "Chris Evans"
+    },
+    {
+      "question": "Which artist released 'Hello'?",
+      "options": ["Amy Winehouse", "Adele", "Sam Smith", "John Legend"],
+      "answer": "Adele"
+    },
+    {
+      "question": "Who directed 'E.T. the Extra-Terrestrial'?",
+      "options": ["George Lucas", "Steven Spielberg", "James Cameron", "Ridley Scott"],
+      "answer": "Steven Spielberg"
+    },
+    {
+      "question": "Which TV series features the character Daenerys Targaryen?",
+      "options": ["The Witcher", "Game of Thrones", "Vikings", "Outlander"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Who sang 'Roar'?",
+      "options": ["Taylor Swift", "Katy Perry", "Ariana Grande", "Selena Gomez"],
+      "answer": "Katy Perry"
+    },
+    {
+      "question": "Which movie won the first ever Academy Award for Best Picture?",
+      "options": ["Wings", "Sunrise", "The Jazz Singer", "The Circus"],
+      "answer": "Wings"
+    },
+    {
+      "question": "Who played the Joker in 'The Dark Knight'?",
+      "options": ["Jared Leto", "Joaquin Phoenix", "Heath Ledger", "Jack Nicholson"],
+      "answer": "Heath Ledger"
+    },
+    {
+      "question": "Which artist released 'Thriller'?",
+      "options": ["Prince", "Michael Jackson", "Whitney Houston", "Madonna"],
+      "answer": "Michael Jackson"
+    },
+    {
+      "question": "Who starred in 'Pretty Woman'?",
+      "options": ["Sandra Bullock", "Julia Roberts", "Meg Ryan", "Drew Barrymore"],
+      "answer": "Julia Roberts"
+    },
+    {
+      "question": "Which TV series features the character Tony Soprano?",
+      "options": ["The Sopranos", "Breaking Bad", "Mad Men", "The Wire"],
+      "answer": "The Sopranos"
+    },
+    {
+      "question": "Who sang 'I Will Always Love You'?",
+      "options": ["Celine Dion", "Whitney Houston", "Mariah Carey", "Dolly Parton"],
+      "answer": "Whitney Houston"
+    },
+    {
+      "question": "Which movie features the character Luke Skywalker?",
+      "options": ["Star Trek", "Star Wars", "Guardians of the Galaxy", "Interstellar"],
+      "answer": "Star Wars"
+    },
+    {
+      "question": "Who is the lead vocalist of U2?",
+      "options": ["Bono", "The Edge", "Adam Clayton", "Larry Mullen Jr."],
+      "answer": "Bono"
+    },
+    {
+      "question": "Which actress won an Oscar for 'Silver Linings Playbook'?",
+      "options": ["Jennifer Lawrence", "Amy Adams", "Jessica Chastain", "Naomi Watts"],
+      "answer": "Jennifer Lawrence"
+    },
+    {
+      "question": "Who directed 'Goodfellas'?",
+      "options": ["Francis Ford Coppola", "Martin Scorsese", "Brian De Palma", "Sidney Lumet"],
+      "answer": "Martin Scorsese"
+    },
+    {
+      "question": "Which TV series features the character Don Draper?",
+      "options": ["Mad Men", "The Sopranos", "Breaking Bad", "Boardwalk Empire"],
+      "answer": "Mad Men"
+    },
+    {
+      "question": "Who sang 'Like a Virgin'?",
+      "options": ["Cyndi Lauper", "Madonna", "Pat Benatar", "Joan Jett"],
+      "answer": "Madonna"
+    },
+    {
+      "question": "Which movie features the character Ellen Ripley?",
+      "options": ["Blade Runner", "Alien", "Terminator", "The Matrix"],
+      "answer": "Alien"
+    },
+    {
+      "question": "Who played Rose in 'Titanic'?",
+      "options": ["Kate Winslet", "Gwyneth Paltrow", "Nicole Kidman", "Cate Blanchett"],
+      "answer": "Kate Winslet"
+    },
+    {
+      "question": "Which artist released 'Purple Rain'?",
+      "options": ["Michael Jackson", "Prince", "David Bowie", "George Michael"],
+      "answer": "Prince"
+    },
+    {
+      "question": "Who starred in 'Dirty Dancing'?",
+      "options": ["Jennifer Grey", "Molly Ringwald", "Demi Moore", "Michelle Pfeiffer"],
+      "answer": "Jennifer Grey"
+    },
+    {
+      "question": "Which TV series features the character Tyrion Lannister?",
+      "options": ["Vikings", "Game of Thrones", "The Witcher", "The Last Kingdom"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Who sang 'Billie Jean'?",
+      "options": ["Prince", "Michael Jackson", "Stevie Wonder", "Lionel Richie"],
+      "answer": "Michael Jackson"
+    },
+    {
+      "question": "Which movie won Best Picture in 2019?",
+      "options": ["Green Book", "Roma", "Black Panther", "A Star Is Born"],
+      "answer": "Green Book"
+    },
+    {
+      "question": "Who played the title character in 'Legally Blonde'?",
+      "options": ["Reese Witherspoon", "Sarah Michelle Gellar", "Cameron Diaz", "Drew Barrymore"],
+      "answer": "Reese Witherspoon"
+    },
+    {
+      "question": "Which band performed 'Stairway to Heaven'?",
+      "options": ["The Beatles", "Led Zeppelin", "Pink Floyd", "The Rolling Stones"],
+      "answer": "Led Zeppelin"
+    },
+    {
+      "question": "Who directed 'Casablanca'?",
+      "options": ["Billy Wilder", "Michael Curtiz", "John Huston", "Howard Hawks"],
+      "answer": "Michael Curtiz"
+    },
+    {
+      "question": "Which TV series features the character Olivia Pope?",
+      "options": ["Grey's Anatomy", "Scandal", "How to Get Away with Murder", "Private Practice"],
+      "answer": "Scandal"
+    },
+    {
+      "question": "Who sang 'Total Eclipse of the Heart'?",
+      "options": ["Pat Benatar", "Bonnie Tyler", "Cyndi Lauper", "Joan Jett"],
+      "answer": "Bonnie Tyler"
+    },
+    {
+      "question": "Which movie features the character Vito Corleone?",
+      "options": ["Scarface", "The Godfather", "Goodfellas", "Casino"],
+      "answer": "The Godfather"
+    },
+    {
+      "question": "Who played the title character in 'Erin Brockovich'?",
+      "options": ["Sandra Bullock", "Julia Roberts", "Meg Ryan", "Sharon Stone"],
+      "answer": "Julia Roberts"
+    },
+    {
+      "question": "Which artist released 'Like a Prayer'?",
+      "options": ["Cyndi Lauper", "Madonna", "Whitney Houston", "Janet Jackson"],
+      "answer": "Madonna"
+    },
+    {
+      "question": "Who starred in 'Top Gun'?",
+      "options": ["Tom Cruise", "Val Kilmer", "Anthony Edwards", "Kelly McGillis"],
+      "answer": "Tom Cruise"
+    },
+    {
+      "question": "Which TV series features the character Carrie Bradshaw?",
+      "options": ["Friends", "Sex and the City", "Ally McBeal", "Will & Grace"],
+      "answer": "Sex and the City"
+    },
+    {
+      "question": "Who sang 'Don't Stop Believin''?",
+      "options": ["Boston", "Journey", "Foreigner", "REO Speedwagon"],
+      "answer": "Journey"
+    },
+    {
+      "question": "Which movie features the character Rocky Balboa?",
+      "options": ["The Karate Kid", "Rocky", "Raging Bull", "The Fighter"],
+      "answer": "Rocky"
+    },
+    {
+      "question": "Who played the title character in 'Forrest Gump'?",
+      "options": ["Kevin Costner", "Tom Hanks", "Robin Williams", "Dustin Hoffman"],
+      "answer": "Tom Hanks"
+    },
+    {
+      "question": "Which artist released 'Crazy in Love'?",
+      "options": ["Whitney Houston", "Beyoncé", "Mariah Carey", "Alicia Keys"],
+      "answer": "Beyoncé"
+    },
+    {
+      "question": "Who directed 'The Shawshank Redemption'?",
+      "options": ["Frank Darabont", "Rob Reiner", "Stephen King", "Castle Rock"],
+      "answer": "Frank Darabont"
+    },
+    {
+      "question": "Which TV series features the character Meredith Grey?",
+      "options": ["Private Practice", "Grey's Anatomy", "Scandal", "How to Get Away with Murder"],
+      "answer": "Grey's Anatomy"
+    },
+    {
+      "question": "Who sang 'Imagine'?",
+      "options": ["Paul McCartney", "John Lennon", "George Harrison", "Ringo Starr"],
+      "answer": "John Lennon"
+    },
+    {
+      "question": "Which movie features the character Andy Dufresne?",
+      "options": ["The Green Mile", "The Shawshank Redemption", "Stand by Me", "Misery"],
+      "answer": "The Shawshank Redemption"
+    },
+    {
+      "question": "Who played the title character in 'Jerry Maguire'?",
+      "options": ["Kevin Costner", "Tom Cruise", "Brad Pitt", "Will Smith"],
+      "answer": "Tom Cruise"
+    },
+    {
+      "question": "Which artist released 'Halo'?",
+      "options": ["Alicia Keys", "Beyoncé", "Rihanna", "Christina Aguilera"],
+      "answer": "Beyoncé"
+    },
+    {
+      "question": "Who starred in 'Ghost'?",
+      "options": ["Patrick Swayze", "Kevin Costner", "Richard Gere", "Tom Cruise"],
+      "answer": "Patrick Swayze"
+    },
+    {
+      "question": "Which TV series features the character Tyrion Lannister?",
+      "options": ["The Witcher", "Game of Thrones", "Vikings", "Outlander"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Who sang 'Eye of the Tiger'?",
+      "options": ["Bon Jovi", "Survivor", "Journey", "Foreigner"],
+      "answer": "Survivor"
+    },
+    {
+      "question": "Which movie won Best Picture in 2021?",
+      "options": ["Nomadland", "Minari", "The Trial of the Chicago 7", "Sound of Metal"],
+      "answer": "Nomadland"
+    },
+    {
+      "question": "Who played the title character in 'The Mask'?",
+      "options": ["Robin Williams", "Jim Carrey", "Eddie Murphy", "Steve Martin"],
+      "answer": "Jim Carrey"
+    },
+    {
+      "question": "Which artist released 'Poker Face'?",
+      "options": ["Katy Perry", "Lady Gaga", "Kesha", "P!nk"],
+      "answer": "Lady Gaga"
+    },
+    {
+      "question": "Who directed 'Schindler's List'?",
+      "options": ["Martin Scorsese", "Steven Spielberg", "Francis Ford Coppola", "Ridley Scott"],
+      "answer": "Steven Spielberg"
+    },
+    {
+      "question": "Which TV series features the character Dexter Morgan?",
+      "options": ["Breaking Bad", "Dexter", "The Sopranos", "Hannibal"],
+      "answer": "Dexter"
+    },
+    {
+      "question": "Who sang 'Sweet Caroline'?",
+      "options": ["Elton John", "Neil Diamond", "Billy Joel", "Paul Simon"],
+      "answer": "Neil Diamond"
+    },
+    {
+      "question": "Which movie features the character Sarah Connor?",
+      "options": ["Alien", "Terminator", "Blade Runner", "RoboCop"],
+      "answer": "Terminator"
+    },
+    {
+      "question": "Who played the title character in 'Amélie'?",
+      "options": ["Marion Cotillard", "Audrey Tautou", "Léa Seydoux", "Eva Green"],
+      "answer": "Audrey Tautou"
+    },
+    {
+      "question": "Which artist released 'Umbrella'?",
+      "options": ["Beyoncé", "Rihanna", "Alicia Keys", "Christina Aguilera"],
+      "answer": "Rihanna"
+    },
+    {
+      "question": "Who starred in 'The Silence of the Lambs'?",
+      "options": ["Meryl Streep", "Jodie Foster", "Glenn Close", "Michelle Pfeiffer"],
+      "answer": "Jodie Foster"
+    },
+    {
+      "question": "Which TV series features the character Rick Grimes?",
+      "options": ["Fear the Walking Dead", "The Walking Dead", "Z Nation", "Black Summer"],
+      "answer": "The Walking Dead"
+    },
+    {
+      "question": "Who sang 'Livin' on a Prayer'?",
+      "options": ["Def Leppard", "Bon Jovi", "Whitesnake", "Guns N' Roses"],
+      "answer": "Bon Jovi"
+    },
+    {
+      "question": "Which movie features the character Dorothy?",
+      "options": ["Alice in Wonderland", "The Wizard of Oz", "Peter Pan", "Cinderella"],
+      "answer": "The Wizard of Oz"
+    },
+    {
+      "question": "Who played the title character in 'Rain Man'?",
+      "options": ["Tom Cruise", "Dustin Hoffman", "Robert De Niro", "Al Pacino"],
+      "answer": "Dustin Hoffman"
+    },
+    {
+      "question": "Which artist released 'Single Ladies'?",
+      "options": ["Rihanna", "Beyoncé", "Alicia Keys", "Christina Aguilera"],
+      "answer": "Beyoncé"
+    },
+    {
+      "question": "Who directed 'One Flew Over the Cuckoo's Nest'?",
+      "options": ["Francis Ford Coppola", "Milos Forman", "Sidney Lumet", "Robert Altman"],
+      "answer": "Milos Forman"
+    },
+    {
+      "question": "Which TV series features the character Hannibal Lecter?",
+      "options": ["Dexter", "Hannibal", "Criminal Minds", "Mindhunter"],
+      "answer": "Hannibal"
+    },
+    {
+      "question": "Who sang 'Yesterday'?",
+      "options": ["The Rolling Stones", "The Beatles", "Led Zeppelin", "The Who"],
+      "answer": "The Beatles"
+    },
+    {
+      "question": "Which movie features the character Indiana Jones?",
+      "options": ["National Treasure", "The Mummy", "Raiders of the Lost Ark", "Tomb Raider"],
+      "answer": "Raiders of the Lost Ark"
+    },
+    {
+      "question": "Who played the title character in 'The Truman Show'?",
+      "options": ["Robin Williams", "Jim Carrey", "Tom Hanks", "Kevin Costner"],
+      "answer": "Jim Carrey"
+    },
+    {
+      "question": "Which artist released 'Vogue'?",
+      "options": ["Whitney Houston", "Madonna", "Janet Jackson", "Mariah Carey"],
+      "answer": "Madonna"
+    },
+    {
+      "question": "Who starred in 'When Harry Met Sally'?",
+      "options": ["Julia Roberts", "Meg Ryan", "Sandra Bullock", "Drew Barrymore"],
+      "answer": "Meg Ryan"
+    },
+    {
+      "question": "Which TV series features the character Saul Goodman?",
+      "options": ["Breaking Bad", "Better Call Saul", "Ozark", "Suits"],
+      "answer": "Better Call Saul"
+    },
+    {
+      "question": "Who sang 'Hotel California'?",
+      "options": ["Fleetwood Mac", "Eagles", "America", "Crosby, Stills & Nash"],
+      "answer": "Eagles"
+    },
+    {
+      "question": "Which movie won Best Picture in 2022?",
+      "options": ["Dune", "West Side Story", "CODA", "King Richard"],
+      "answer": "CODA"
+    },
+    {
+      "question": "Who played the title character in 'Braveheart'?",
+      "options": ["Russell Crowe", "Mel Gibson", "Kevin Costner", "Harrison Ford"],
+      "answer": "Mel Gibson"
+    },
+    {
+      "question": "Which artist released 'Toxic'?",
+      "options": ["Christina Aguilera", "Britney Spears", "Jessica Simpson", "Mandy Moore"],
+      "answer": "Britney Spears"
+    },
+    {
+      "question": "Who directed 'The Departed'?",
+      "options": ["Francis Ford Coppola", "Martin Scorsese", "Brian De Palma", "Sidney Lumet"],
+      "answer": "Martin Scorsese"
+    },
+    {
+      "question": "Which TV series features the character Tyrion Lannister?",
+      "options": ["House of the Dragon", "Game of Thrones", "The Witcher", "Vikings"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Who sang 'Wonderwall'?",
+      "options": ["Blur", "Oasis", "Radiohead", "Coldplay"],
+      "answer": "Oasis"
+    },
+    {
+      "question": "Which movie features the character Maximus?",
+      "options": ["Troy", "Gladiator", "300", "Alexander"],
+      "answer": "Gladiator"
+    },
+    {
+      "question": "Who played the title character in 'Scarface'?",
+      "options": ["Robert De Niro", "Al Pacino", "Joe Pesci", "James Caan"],
+      "answer": "Al Pacino"
+    },
+    {
+      "question": "Which artist released 'Californication'?",
+      "options": ["Nirvana", "Red Hot Chili Peppers", "Pearl Jam", "Soundgarden"],
+      "answer": "Red Hot Chili Peppers"
+    },
+    {
+      "question": "Who starred in 'The Princess Bride'?",
+      "options": ["Robin Wright", "Helena Bonham Carter", "Winona Ryder", "Cary Elwes"],
+      "answer": "Robin Wright"
+    },
+    {
+      "question": "Which TV series features the character Frank Underwood?",
+      "options": ["Scandal", "House of Cards", "Designated Survivor", "The West Wing"],
+      "answer": "House of Cards"
+    },
+    {
+      "question": "Who sang 'Smells Like Teen Spirit'?",
+      "options": ["Pearl Jam", "Nirvana", "Soundgarden", "Alice in Chains"],
+      "answer": "Nirvana"
+    },
+    {
+      "question": "Which movie won Best Animated Feature in 2020?",
+      "options": ["Onward", "Soul", "Toy Story 4", "Klaus"],
+      "answer": "Soul"
+    },
+    {
+      "question": "Who played the title character in 'Gladiator'?",
+      "options": ["Brad Pitt", "Russell Crowe", "Mel Gibson", "Kevin Costner"],
+      "answer": "Russell Crowe"
+    },
+    {
+      "question": "Which artist released 'Bad Romance'?",
+      "options": ["Katy Perry", "Lady Gaga", "P!nk", "Kesha"],
+      "answer": "Lady Gaga"
+    },
+    {
+      "question": "Who directed 'Saving Private Ryan'?",
+      "options": ["Ridley Scott", "Steven Spielberg", "Oliver Stone", "Michael Bay"],
+      "answer": "Steven Spielberg"
+    },
+    {
+      "question": "Which TV series features the character Tyrion Lannister?",
+      "options": ["The Crown", "Game of Thrones", "Outlander", "The Tudors"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Who sang 'Creep'?",
+      "options": ["Oasis", "Radiohead", "Blur", "Coldplay"],
+      "answer": "Radiohead"
+    },
+    {
+      "question": "Which movie features the character Clarice Starling?",
+      "options": ["Seven", "The Silence of the Lambs", "Zodiac", "Hannibal"],
+      "answer": "The Silence of the Lambs"
+    },
+    {
+      "question": "Who played the title character in 'Taxi Driver'?",
+      "options": ["Al Pacino", "Robert De Niro", "Dustin Hoffman", "Jack Nicholson"],
+      "answer": "Robert De Niro"
+    },
+    {
+      "question": "Which artist released 'Rehab'?",
+      "options": ["Alicia Keys", "Amy Winehouse", "Adele", "Lauryn Hill"],
+      "answer": "Amy Winehouse"
+    },
+    {
+      "question": "Who starred in 'Basic Instinct'?",
+      "options": ["Demi Moore", "Sharon Stone", "Michelle Pfeiffer", "Glenn Close"],
+      "answer": "Sharon Stone"
+    },
+    {
+      "question": "Which TV series features the character Jesse Pinkman?",
+      "options": ["Better Call Saul", "Breaking Bad", "Ozark", "Narcos"],
+      "answer": "Breaking Bad"
+    },
+    {
+      "question": "Who sang 'Respect'?",
+      "options": ["Diana Ross", "Aretha Franklin", "Tina Turner", "Whitney Houston"],
+      "answer": "Aretha Franklin"
+    },
+    {
+      "question": "Which movie won Best Picture in 2018?",
+      "options": ["Three Billboards Outside Ebbing, Missouri", "The Shape of Water", "Lady Bird", "Get Out"],
+      "answer": "The Shape of Water"
+    },
+    {
+      "question": "Who played the title character in 'Amadeus'?",
+      "options": ["F. Murray Abraham", "Tom Hulce", "Jeffrey Jones", "Simon Callow"],
+      "answer": "Tom Hulce"
+    },
+    {
+      "question": "Which artist released 'Genie in a Bottle'?",
+      "options": ["Britney Spears", "Christina Aguilera", "Jessica Simpson", "Mandy Moore"],
+      "answer": "Christina Aguilera"
+    },
+    {
+      "question": "Who directed 'Apocalypse Now'?",
+      "options": ["Martin Scorsese", "Francis Ford Coppola", "Oliver Stone", "Stanley Kubrick"],
+      "answer": "Francis Ford Coppola"
+    },
+    {
+      "question": "Which TV series features the character Omar Little?",
+      "options": ["The Sopranos", "The Wire", "Oz", "Homicide: Life on the Street"],
+      "answer": "The Wire"
+    },
+    {
+      "question": "Who sang 'Purple Haze'?",
+      "options": ["Led Zeppelin", "Jimi Hendrix", "The Doors", "Cream"],
+      "answer": "Jimi Hendrix"
+    },
+    {
+      "question": "Which movie features the character T-800?",
+      "options": ["RoboCop", "Terminator", "Blade Runner", "Total Recall"],
+      "answer": "Terminator"
+    },
+    {
+      "question": "Who played the title character in 'Raging Bull'?",
+      "options": ["Al Pacino", "Robert De Niro", "Joe Pesci", "Harvey Keitel"],
+      "answer": "Robert De Niro"
+    },
+    {
+      "question": "Which artist released 'Firework'?",
+      "options": ["Taylor Swift", "Katy Perry", "Lady Gaga", "P!nk"],
+      "answer": "Katy Perry"
+    },
+    {
+      "question": "Who starred in 'Fatal Attraction'?",
+      "options": ["Meryl Streep", "Glenn Close", "Michelle Pfeiffer", "Jessica Lange"],
+      "answer": "Glenn Close"
+    },
+    {
+      "question": "Which TV series features the character Tyrion Lannister?",
+      "options": ["Rome", "Game of Thrones", "Spartacus", "Marco Polo"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Who sang 'What's Going On'?",
+      "options": ["Stevie Wonder", "Marvin Gaye", "Al Green", "Curtis Mayfield"],
+      "answer": "Marvin Gaye"
+    },
+    {
+      "question": "Which movie won Best Picture in 2017?",
+      "options": ["La La Land", "Moonlight", "Manchester by the Sea", "Arrival"],
+      "answer": "Moonlight"
+    },
+    {
+      "question": "Who played the title character in 'Gandhi'?",
+      "options": ["Om Puri", "Ben Kingsley", "Naseeruddin Shah", "Roshan Seth"],
+      "answer": "Ben Kingsley"
+    },
+    {
+      "question": "Which artist released 'Tik Tok'?",
+      "options": ["Lady Gaga", "Kesha", "Katy Perry", "P!nk"],
+      "answer": "Kesha"
+    },
+    {
+      "question": "Who directed 'Citizen Kane'?",
+      "options": ["John Ford", "Orson Welles", "Howard Hawks", "Billy Wilder"],
+      "answer": "Orson Welles"
+    },
+    {
+      "question": "Which TV series features the character Tyrion Lannister?",
+      "options": ["The Borgias", "Game of Thrones", "The Tudors", "Versailles"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Who sang 'Stand by Me'?",
+      "options": ["Sam Cooke", "Ben E. King", "Otis Redding", "Wilson Pickett"],
+      "answer": "Ben E. King"
+    },
+    {
+      "question": "Which movie features the character Hannibal Lecter?",
+      "options": ["Seven", "The Silence of the Lambs", "Zodiac", "Red Dragon"],
+      "answer": "The Silence of the Lambs"
+    },
+    {
+      "question": "Who played the title character in 'There Will Be Blood'?",
+      "options": ["Tommy Lee Jones", "Daniel Day-Lewis", "Jeff Bridges", "Philip Seymour Hoffman"],
+      "answer": "Daniel Day-Lewis"
+    },
+    {
+      "question": "Which artist released 'Since U Been Gone'?",
+      "options": ["P!nk", "Kelly Clarkson", "Avril Lavigne", "Michelle Branch"],
+      "answer": "Kelly Clarkson"
+    },
+    {
+      "question": "Who starred in 'Thelma & Louise'?",
+      "options": ["Susan Sarandon", "Julia Roberts", "Michelle Pfeiffer", "Jodie Foster"],
+      "answer": "Susan Sarandon"
+    },
+    {
+      "question": "Which TV series features the character Tyrion Lannister?",
+      "options": ["Merlin", "Game of Thrones", "The Witcher", "Camelot"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Who sang 'My Way'?",
+      "options": ["Dean Martin", "Frank Sinatra", "Tony Bennett", "Sammy Davis Jr."],
+      "answer": "Frank Sinatra"
+    },
+    {
+      "question": "Which movie won Best Picture in 2016?",
+      "options": ["The Revenant", "Spotlight", "The Big Short", "Mad Max: Fury Road"],
+      "answer": "Spotlight"
+    },
+    {
+      "question": "Who played the title character in 'My Left Foot'?",
+      "options": ["Gary Oldman", "Daniel Day-Lewis", "Ralph Fiennes", "Kenneth Branagh"],
+      "answer": "Daniel Day-Lewis"
+    },
+    {
+      "question": "Which artist released 'Stronger'?",
+      "options": ["Britney Spears", "Kelly Clarkson", "P!nk", "Christina Aguilera"],
+      "answer": "Kelly Clarkson"
+    },
+    {
+      "question": "Who directed 'Vertigo'?",
+      "options": ["Billy Wilder", "Alfred Hitchcock", "John Ford", "Howard Hawks"],
+      "answer": "Alfred Hitchcock"
+    },
+    {
+      "question": "Which TV series features the character Tyrion Lannister?",
+      "options": ["Reign", "Game of Thrones", "The White Queen", "The White Princess"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Who sang 'Superstition'?",
+      "options": ["Marvin Gaye", "Stevie Wonder", "Al Green", "Curtis Mayfield"],
+      "answer": "Stevie Wonder"
+    },
+    {
+      "question": "Which movie features the character Tyler Durden?",
+      "options": ["American Psycho", "Fight Club", "Se7en", "The Machinist"],
+      "answer": "Fight Club"
+    },
+    {
+      "question": "Who played the title character in 'Lincoln'?",
+      "options": ["Kevin Costner", "Daniel Day-Lewis", "Tommy Lee Jones", "Jeff Bridges"],
+      "answer": "Daniel Day-Lewis"
+    },
+    {
+      "question": "Which artist released 'Waterfalls'?",
+      "options": ["En Vogue", "TLC", "SWV", "Xscape"],
+      "answer": "TLC"
+    },
+    {
+      "question": "Who starred in 'An Officer and a Gentleman'?",
+      "options": ["Tom Cruise", "Richard Gere", "Patrick Swayze", "Kevin Costner"],
+      "answer": "Richard Gere"
+    },
+    {
+      "question": "Which TV series features the character Tyrion Lannister?",
+      "options": ["Vikings", "Game of Thrones", "The Last Kingdom", "Outlander"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Who sang 'Good Vibrations'?",
+      "options": ["The Beatles", "The Beach Boys", "The Kinks", "The Byrds"],
+      "answer": "The Beach Boys"
+    }
+  ]
+}

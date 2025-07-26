@@ -1,0 +1,899 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+      "answer": "Canberra"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Platinum"],
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which is the smallest bone in the human body?",
+      "options": ["Stapes", "Malleus", "Incus", "Femur"],
+      "answer": "Stapes"
+    },
+    {
+      "question": "Who wrote the famous novel '1984'?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Jules Verne"],
+      "answer": "George Orwell"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the speed of light in vacuum?",
+      "options": ["300,000 km/s", "150,000 km/s", "299,792,458 m/s", "250,000 km/s"],
+      "answer": "299,792,458 m/s"
+    },
+    {
+      "question": "Which gas makes up the largest percentage of Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Argon", "Nitrogen"],
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": ["African Elephant", "Blue Whale", "Giraffe", "Sperm Whale"],
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "Which instrument is used to measure earthquakes?",
+      "options": ["Barometer", "Thermometer", "Seismograph", "Hygrometer"],
+      "answer": "Seismograph"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "answer": "Au"
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "options": ["1912", "1910", "1914", "1905"],
+      "answer": "1912"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "Which vitamin is produced when skin is exposed to sunlight?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "What is the main ingredient in traditional Japanese miso soup?",
+      "options": ["Soy sauce", "Miso paste", "Tofu", "Seaweed"],
+      "answer": "Miso paste"
+    },
+    {
+      "question": "Which blood type is known as the universal donor?",
+      "options": ["A+", "B+", "AB+", "O-"],
+      "answer": "O-"
+    },
+    {
+      "question": "What is the smallest unit of matter?",
+      "options": ["Molecule", "Atom", "Electron", "Proton"],
+      "answer": "Atom"
+    },
+    {
+      "question": "Who invented the telephone?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Benjamin Franklin"],
+      "answer": "Alexander Graham Bell"
+    },
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "options": ["Euro", "Dollar", "Pound Sterling", "Franc"],
+      "answer": "Pound Sterling"
+    },
+    {
+      "question": "Which organ in the human body produces insulin?",
+      "options": ["Liver", "Kidney", "Pancreas", "Heart"],
+      "answer": "Pancreas"
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "options": ["90°C", "95°C", "100°C", "105°C"],
+      "answer": "100°C"
+    },
+    {
+      "question": "Which is the longest river in the world?",
+      "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+      "answer": "Nile River"
+    },
+    {
+      "question": "What does 'www' stand for?",
+      "options": ["World Wide Web", "World War Web", "Wide World Web", "World Web Wide"],
+      "answer": "World Wide Web"
+    },
+    {
+      "question": "Which element has the chemical symbol 'Fe'?",
+      "options": ["Fluorine", "Iron", "Francium", "Fermium"],
+      "answer": "Iron"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+      "answer": "Mount Everest"
+    },
+    {
+      "question": "Which scientist proposed the theory of evolution?",
+      "options": ["Albert Einstein", "Isaac Newton", "Charles Darwin", "Galileo Galilei"],
+      "answer": "Charles Darwin"
+    },
+    {
+      "question": "What is the capital of France?",
+      "options": ["Lyon", "Marseille", "Nice", "Paris"],
+      "answer": "Paris"
+    },
+    {
+      "question": "How many chambers does a human heart have?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Venus", "Earth", "Mercury", "Mars"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the study of earthquakes called?",
+      "options": ["Geology", "Seismology", "Meteorology", "Astronomy"],
+      "answer": "Seismology"
+    },
+    {
+      "question": "Which is the most abundant gas in the Earth's atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "What is the largest country in the world by land area?",
+      "options": ["Canada", "China", "United States", "Russia"],
+      "answer": "Russia"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the formula for water?",
+      "options": ["H2O", "CO2", "NaCl", "CH4"],
+      "answer": "H2O"
+    },
+    {
+      "question": "Which mammal is known to have the most powerful bite?",
+      "options": ["Lion", "Shark", "Crocodile", "Hippopotamus"],
+      "answer": "Hippopotamus"
+    },
+    {
+      "question": "In which continent is the Sahara Desert located?",
+      "options": ["Asia", "Australia", "Africa", "South America"],
+      "answer": "Africa"
+    },
+    {
+      "question": "What is the freezing point of water?",
+      "options": ["0°C", "32°C", "-10°C", "10°C"],
+      "answer": "0°C"
+    },
+    {
+      "question": "Which is the fastest land animal?",
+      "options": ["Lion", "Cheetah", "Leopard", "Horse"],
+      "answer": "Cheetah"
+    },
+    {
+      "question": "What is the study of plants called?",
+      "options": ["Zoology", "Botany", "Geology", "Astronomy"],
+      "answer": "Botany"
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "options": ["Lead", "Mercury", "Silver", "Copper"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the largest bird in the world?",
+      "options": ["Eagle", "Ostrich", "Penguin", "Albatross"],
+      "answer": "Ostrich"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "options": ["Monaco", "Nauru", "Vatican City", "San Marino"],
+      "answer": "Vatican City"
+    },
+    {
+      "question": "Which organ filters blood in the human body?",
+      "options": ["Liver", "Heart", "Kidney", "Lungs"],
+      "answer": "Kidney"
+    },
+    {
+      "question": "What is the chemical symbol for oxygen?",
+      "options": ["O", "Ox", "O2", "Og"],
+      "answer": "O"
+    },
+    {
+      "question": "Which is the hottest planet in our solar system?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "answer": "Venus"
+    },
+    {
+      "question": "What is the largest fish in the world?",
+      "options": ["Great White Shark", "Whale Shark", "Blue Whale", "Manta Ray"],
+      "answer": "Whale Shark"
+    },
+    {
+      "question": "Which country is known for inventing paper?",
+      "options": ["Egypt", "Greece", "China", "India"],
+      "answer": "China"
+    },
+    {
+      "question": "What is the study of the weather called?",
+      "options": ["Geology", "Meteorology", "Astronomy", "Biology"],
+      "answer": "Meteorology"
+    },
+    {
+      "question": "Which is the longest bone in the human body?",
+      "options": ["Tibia", "Femur", "Humerus", "Radius"],
+      "answer": "Femur"
+    },
+    {
+      "question": "What is the most spoken language in the world?",
+      "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
+      "answer": "Mandarin Chinese"
+    },
+    {
+      "question": "Which invention is Alexander Fleming famous for?",
+      "options": ["Telephone", "Light bulb", "Penicillin", "Radio"],
+      "answer": "Penicillin"
+    },
+    {
+      "question": "What is the smallest planet in our solar system?",
+      "options": ["Mars", "Venus", "Mercury", "Pluto"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "Which animal is known as the 'Ship of the Desert'?",
+      "options": ["Horse", "Elephant", "Camel", "Donkey"],
+      "answer": "Camel"
+    },
+    {
+      "question": "What is the most abundant element in the universe?",
+      "options": ["Oxygen", "Carbon", "Hydrogen", "Helium"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "Which is the deepest part of the ocean?",
+      "options": ["Mariana Trench", "Puerto Rico Trench", "Java Trench", "Peru-Chile Trench"],
+      "answer": "Mariana Trench"
+    },
+    {
+      "question": "What does 'DNA' stand for?",
+      "options": ["Deoxyribonucleic Acid", "Dinitric Acid", "Dynamic Nuclear Acid", "Double Nucleus Acid"],
+      "answer": "Deoxyribonucleic Acid"
+    },
+    {
+      "question": "Which is the largest land predator?",
+      "options": ["Lion", "Tiger", "Polar Bear", "Grizzly Bear"],
+      "answer": "Polar Bear"
+    },
+    {
+      "question": "What is the main gas found in the air we breathe?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "Which country gifted the Statue of Liberty to the USA?",
+      "options": ["England", "France", "Italy", "Spain"],
+      "answer": "France"
+    },
+    {
+      "question": "What is the process by which plants make food?",
+      "options": ["Respiration", "Photosynthesis", "Digestion", "Fermentation"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "Which is the largest continent?",
+      "options": ["Africa", "North America", "Asia", "Europe"],
+      "answer": "Asia"
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+      "answer": "NaCl"
+    },
+    {
+      "question": "Which famous scientist developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "What is the largest type of bear?",
+      "options": ["Grizzly Bear", "Black Bear", "Polar Bear", "Brown Bear"],
+      "answer": "Polar Bear"
+    },
+    {
+      "question": "Which human organ uses 20% of the body's energy?",
+      "options": ["Heart", "Liver", "Brain", "Kidneys"],
+      "answer": "Brain"
+    },
+    {
+      "question": "What is the study of space called?",
+      "options": ["Geology", "Biology", "Astronomy", "Chemistry"],
+      "answer": "Astronomy"
+    },
+    {
+      "question": "Which is the most widely used search engine?",
+      "options": ["Bing", "Yahoo", "Google", "DuckDuckGo"],
+      "answer": "Google"
+    },
+    {
+      "question": "What is the largest internal organ in the human body?",
+      "options": ["Brain", "Heart", "Liver", "Lungs"],
+      "answer": "Liver"
+    },
+    {
+      "question": "Which natural disaster is measured with the Richter scale?",
+      "options": ["Tornado", "Hurricane", "Earthquake", "Flood"],
+      "answer": "Earthquake"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Yen", "Won", "Yuan", "Rupee"],
+      "answer": "Yen"
+    },
+    {
+      "question": "Which is the most abundant metal in the Earth's crust?",
+      "options": ["Iron", "Aluminum", "Copper", "Gold"],
+      "answer": "Aluminum"
+    },
+    {
+      "question": "What do you call a group of lions?",
+      "options": ["Pack", "Herd", "Pride", "Flock"],
+      "answer": "Pride"
+    },
+    {
+      "question": "Which vitamin deficiency causes scurvy?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "answer": "Vitamin C"
+    },
+    {
+      "question": "What is the largest desert in Asia?",
+      "options": ["Thar", "Gobi", "Arabian", "Karakum"],
+      "answer": "Gobi"
+    },
+    {
+      "question": "Which is the fastest bird in the world?",
+      "options": ["Eagle", "Falcon", "Peregrine Falcon", "Hawk"],
+      "answer": "Peregrine Falcon"
+    },
+    {
+      "question": "What is the study of fungi called?",
+      "options": ["Mycology", "Virology", "Bacteriology", "Parasitology"],
+      "answer": "Mycology"
+    },
+    {
+      "question": "Which blood group is known as the universal acceptor?",
+      "options": ["O+", "A+", "B+", "AB+"],
+      "answer": "AB+"
+    },
+    {
+      "question": "What is the hardest substance known to humans?",
+      "options": ["Steel", "Diamond", "Titanium", "Graphene"],
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which planet has the most moons?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "What is the largest whale species?",
+      "options": ["Sperm Whale", "Blue Whale", "Humpback Whale", "Gray Whale"],
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "Which element makes up most of the Sun?",
+      "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "What is the study of heredity called?",
+      "options": ["Genetics", "Anatomy", "Physiology", "Biochemistry"],
+      "answer": "Genetics"
+    },
+    {
+      "question": "Which is the largest freshwater lake in the world?",
+      "options": ["Lake Victoria", "Lake Superior", "Caspian Sea", "Lake Baikal"],
+      "answer": "Lake Superior"
+    },
+    {
+      "question": "What do you call animals that eat both plants and meat?",
+      "options": ["Herbivores", "Carnivores", "Omnivores", "Insectivores"],
+      "answer": "Omnivores"
+    },
+    {
+      "question": "Which gas is most responsible for global warming?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Methane"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the smallest unit of life?",
+      "options": ["Atom", "Molecule", "Cell", "Tissue"],
+      "answer": "Cell"
+    },
+    {
+      "question": "Which is the most electronegative element?",
+      "options": ["Oxygen", "Nitrogen", "Fluorine", "Chlorine"],
+      "answer": "Fluorine"
+    },
+    {
+      "question": "What is the largest artery in the human body?",
+      "options": ["Pulmonary artery", "Carotid artery", "Aorta", "Coronary artery"],
+      "answer": "Aorta"
+    },
+    {
+      "question": "Which invention revolutionized communication in the 19th century?",
+      "options": ["Radio", "Telegraph", "Telephone", "Television"],
+      "answer": "Telegraph"
+    },
+    {
+      "question": "What is the study of earthquakes called?",
+      "options": ["Seismology", "Vulcanology", "Meteorology", "Hydrology"],
+      "answer": "Seismology"
+    },
+    {
+      "question": "Which is the most reactive metal?",
+      "options": ["Sodium", "Potassium", "Cesium", "Lithium"],
+      "answer": "Cesium"
+    },
+    {
+      "question": "What percentage of the Earth's surface is covered by water?",
+      "options": ["65%", "71%", "75%", "80%"],
+      "answer": "71%"
+    },
+    {
+      "question": "Which mammal has no vocal cords?",
+      "options": ["Dolphin", "Whale", "Giraffe", "Elephant"],
+      "answer": "Giraffe"
+    },
+    {
+      "question": "What is the most common blood type?",
+      "options": ["A+", "B+", "AB+", "O+"],
+      "answer": "O+"
+    },
+    {
+      "question": "Which is the lightest element on the periodic table?",
+      "options": ["Helium", "Hydrogen", "Lithium", "Beryllium"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "What is the largest moon in our solar system?",
+      "options": ["Europa", "Titan", "Ganymede", "Callisto"],
+      "answer": "Ganymede"
+    },
+    {
+      "question": "Which animal has three hearts?",
+      "options": ["Octopus", "Squid", "Jellyfish", "Starfish"],
+      "answer": "Octopus"
+    },
+    {
+      "question": "What is the study of rocks called?",
+      "options": ["Geology", "Petrology", "Mineralogy", "Paleontology"],
+      "answer": "Petrology"
+    },
+    {
+      "question": "Which is the largest butterfly in the world?",
+      "options": ["Monarch", "Queen Alexandra's Birdwing", "Blue Morpho", "Swallowtail"],
+      "answer": "Queen Alexandra's Birdwing"
+    },
+    {
+      "question": "What is the most abundant protein in the human body?",
+      "options": ["Hemoglobin", "Insulin", "Collagen", "Albumin"],
+      "answer": "Collagen"
+    },
+    {
+      "question": "Which planet has a day longer than its year?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "answer": "Venus"
+    },
+    {
+      "question": "What is the study of viruses called?",
+      "options": ["Bacteriology", "Virology", "Microbiology", "Immunology"],
+      "answer": "Virology"
+    },
+    {
+      "question": "Which is the most poisonous animal in the world?",
+      "options": ["Blue-ringed octopus", "Box jellyfish", "Poison dart frog", "Inland taipan"],
+      "answer": "Box jellyfish"
+    },
+    {
+      "question": "What is the largest chamber of the heart?",
+      "options": ["Right atrium", "Left atrium", "Right ventricle", "Left ventricle"],
+      "answer": "Left ventricle"
+    },
+    {
+      "question": "Which element is essential for thyroid function?",
+      "options": ["Iron", "Iodine", "Calcium", "Zinc"],
+      "answer": "Iodine"
+    },
+    {
+      "question": "What is the fastest growing plant in the world?",
+      "options": ["Sunflower", "Bamboo", "Kelp", "Kudzu"],
+      "answer": "Bamboo"
+    },
+    {
+      "question": "Which is the most common element in the human body?",
+      "options": ["Carbon", "Hydrogen", "Oxygen", "Nitrogen"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What is the study of insects called?",
+      "options": ["Entomology", "Arachnology", "Herpetology", "Ornithology"],
+      "answer": "Entomology"
+    },
+    {
+      "question": "Which is the largest snake in the world?",
+      "options": ["Python", "Anaconda", "Boa constrictor", "King cobra"],
+      "answer": "Anaconda"
+    },
+    {
+      "question": "What is the most abundant gas in Jupiter's atmosphere?",
+      "options": ["Oxygen", "Hydrogen", "Helium", "Methane"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "Which vitamin is known as the sunshine vitamin?",
+      "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "What is the largest spider in the world?",
+      "options": ["Black widow", "Tarantula", "Goliath birdeater", "Wolf spider"],
+      "answer": "Goliath birdeater"
+    },
+    {
+      "question": "Which is the most electronegative element in the periodic table?",
+      "options": ["Oxygen", "Fluorine", "Nitrogen", "Chlorine"],
+      "answer": "Fluorine"
+    },
+    {
+      "question": "What is the study of the brain called?",
+      "options": ["Psychology", "Neurology", "Psychiatry", "Neuroscience"],
+      "answer": "Neuroscience"
+    },
+    {
+      "question": "Which animal can survive the longest without water?",
+      "options": ["Camel", "Kangaroo rat", "Desert tortoise", "Fennec fox"],
+      "answer": "Kangaroo rat"
+    },
+    {
+      "question": "What is the smallest bone in the human body?",
+      "options": ["Stirrup", "Anvil", "Hammer", "Cochlea"],
+      "answer": "Stirrup"
+    },
+    {
+      "question": "Which is the most abundant mineral in the human body?",
+      "options": ["Iron", "Calcium", "Potassium", "Sodium"],
+      "answer": "Calcium"
+    },
+    {
+      "question": "What is the study of ancient life called?",
+      "options": ["Archaeology", "Anthropology", "Paleontology", "Geology"],
+      "answer": "Paleontology"
+    },
+    {
+      "question": "Which planet rotates on its side?",
+      "options": ["Venus", "Mars", "Uranus", "Neptune"],
+      "answer": "Uranus"
+    },
+    {
+      "question": "What is the largest living structure on Earth?",
+      "options": ["Amazon rainforest", "Great Barrier Reef", "Siberian forest", "Sahara desert"],
+      "answer": "Great Barrier Reef"
+    },
+    {
+      "question": "Which element has the highest melting point?",
+      "options": ["Carbon", "Tungsten", "Rhenium", "Osmium"],
+      "answer": "Carbon"
+    },
+    {
+      "question": "What is the study of sleep called?",
+      "options": ["Neurology", "Psychology", "Somnology", "Chronobiology"],
+      "answer": "Somnology"
+    },
+    {
+      "question": "Which is the most venomous snake in the world?",
+      "options": ["King cobra", "Black mamba", "Inland taipan", "Death adder"],
+      "answer": "Inland taipan"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Liver", "Brain", "Skin", "Lungs"],
+      "answer": "Skin"
+    },
+    {
+      "question": "Which gas is produced during photosynthesis?",
+      "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What is the study of mushrooms called?",
+      "options": ["Botany", "Mycology", "Phycology", "Bryology"],
+      "answer": "Mycology"
+    },
+    {
+      "question": "Which is the fastest animal in water?",
+      "options": ["Dolphin", "Sailfish", "Marlin", "Tuna"],
+      "answer": "Sailfish"
+    },
+    {
+      "question": "What is the most common cause of food poisoning?",
+      "options": ["Salmonella", "E. coli", "Listeria", "Campylobacter"],
+      "answer": "Salmonella"
+    },
+    {
+      "question": "Which planet has the shortest day?",
+      "options": ["Mercury", "Venus", "Jupiter", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the study of algae called?",
+      "options": ["Phycology", "Mycology", "Bryology", "Lichenology"],
+      "answer": "Phycology"
+    },
+    {
+      "question": "Which animal has the longest lifespan?",
+      "options": ["Tortoise", "Elephant", "Whale", "Immortal jellyfish"],
+      "answer": "Immortal jellyfish"
+    },
+    {
+      "question": "What is the most reactive non-metal?",
+      "options": ["Chlorine", "Fluorine", "Bromine", "Iodine"],
+      "answer": "Fluorine"
+    },
+    {
+      "question": "Which is the largest bird of prey?",
+      "options": ["Golden eagle", "Bald eagle", "Andean condor", "Harpy eagle"],
+      "answer": "Andean condor"
+    },
+    {
+      "question": "What is the study of crystals called?",
+      "options": ["Mineralogy", "Crystallography", "Geology", "Petrology"],
+      "answer": "Crystallography"
+    },
+    {
+      "question": "Which mammal lays eggs?",
+      "options": ["Platypus", "Echidna", "Both A and B", "Neither"],
+      "answer": "Both A and B"
+    },
+    {
+      "question": "What is the most abundant element in seawater?",
+      "options": ["Sodium", "Chlorine", "Oxygen", "Hydrogen"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Which is the largest rodent in the world?",
+      "options": ["Beaver", "Porcupine", "Capybara", "Nutria"],
+      "answer": "Capybara"
+    },
+    {
+      "question": "What is the study of earthquakes called?",
+      "options": ["Seismology", "Vulcanology", "Geology", "Tectonics"],
+      "answer": "Seismology"
+    },
+    {
+      "question": "Which element is liquid at room temperature besides mercury?",
+      "options": ["Bromine", "Gallium", "Cesium", "Francium"],
+      "answer": "Bromine"
+    },
+    {
+      "question": "What is the largest cat species?",
+      "options": ["Lion", "Tiger", "Leopard", "Jaguar"],
+      "answer": "Tiger"
+    },
+    {
+      "question": "Which is the most abundant gas in volcanic emissions?",
+      "options": ["Carbon dioxide", "Sulfur dioxide", "Water vapor", "Hydrogen sulfide"],
+      "answer": "Water vapor"
+    },
+    {
+      "question": "What is the study of fish called?",
+      "options": ["Ichthyology", "Herpetology", "Ornithology", "Mammalogy"],
+      "answer": "Ichthyology"
+    },
+    {
+      "question": "Which animal has the most powerful jaw?",
+      "options": ["Shark", "Crocodile", "Hippopotamus", "Hyena"],
+      "answer": "Crocodile"
+    },
+    {
+      "question": "What is the most common isotope of uranium?",
+      "options": ["U-235", "U-238", "U-234", "U-236"],
+      "answer": "U-238"
+    },
+    {
+      "question": "Which is the smallest mammal in the world?",
+      "options": ["Shrew", "Bat", "Mouse", "Bumblebee bat"],
+      "answer": "Bumblebee bat"
+    },
+    {
+      "question": "What is the study of caves called?",
+      "options": ["Speleology", "Geology", "Hydrology", "Geomorphology"],
+      "answer": "Speleology"
+    },
+    {
+      "question": "Which planet has the most extreme temperature variations?",
+      "options": ["Mercury", "Venus", "Mars", "Pluto"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the largest type of penguin?",
+      "options": ["King penguin", "Emperor penguin", "Adelie penguin", "Gentoo penguin"],
+      "answer": "Emperor penguin"
+    },
+    {
+      "question": "Which element is essential for photosynthesis?",
+      "options": ["Nitrogen", "Phosphorus", "Magnesium", "Potassium"],
+      "answer": "Magnesium"
+    },
+    {
+      "question": "What is the study of the atmosphere called?",
+      "options": ["Meteorology", "Climatology", "Atmospheric science", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which animal has the best eyesight?",
+      "options": ["Eagle", "Hawk", "Falcon", "All have similar vision"],
+      "answer": "Eagle"
+    },
+    {
+      "question": "What is the most abundant element in the Earth's core?",
+      "options": ["Iron", "Nickel", "Silicon", "Oxygen"],
+      "answer": "Iron"
+    },
+    {
+      "question": "Which is the largest invertebrate?",
+      "options": ["Giant squid", "Colossal squid", "Giant Pacific octopus", "Japanese spider crab"],
+      "answer": "Colossal squid"
+    },
+    {
+      "question": "What is the study of birds called?",
+      "options": ["Ornithology", "Entomology", "Herpetology", "Mammalogy"],
+      "answer": "Ornithology"
+    },
+    {
+      "question": "Which gas is used in neon signs?",
+      "options": ["Neon", "Argon", "Helium", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the fastest fish in the ocean?",
+      "options": ["Marlin", "Sailfish", "Swordfish", "Tuna"],
+      "answer": "Sailfish"
+    },
+    {
+      "question": "Which element has the symbol 'Hg'?",
+      "options": ["Hydrogen", "Helium", "Mercury", "Hafnium"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the study of reptiles and amphibians called?",
+      "options": ["Herpetology", "Ichthyology", "Entomology", "Mammalogy"],
+      "answer": "Herpetology"
+    },
+    {
+      "question": "Which animal has the longest migration?",
+      "options": ["Whale", "Bird", "Arctic tern", "Salmon"],
+      "answer": "Arctic tern"
+    },
+    {
+      "question": "What is the most abundant metal in the universe?",
+      "options": ["Iron", "Hydrogen", "Helium", "Oxygen"],
+      "answer": "Iron"
+    },
+    {
+      "question": "Which is the largest freshwater fish?",
+      "options": ["Catfish", "Sturgeon", "Arapaima", "Beluga sturgeon"],
+      "answer": "Beluga sturgeon"
+    },
+    {
+      "question": "What is the study of mammals called?",
+      "options": ["Mammalogy", "Zoology", "Biology", "Vertebrate biology"],
+      "answer": "Mammalogy"
+    },
+    {
+      "question": "Which planet has the largest volcano in the solar system?",
+      "options": ["Earth", "Venus", "Mars", "Io"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the most common noble gas in the atmosphere?",
+      "options": ["Helium", "Neon", "Argon", "Krypton"],
+      "answer": "Argon"
+    },
+    {
+      "question": "Which animal has the thickest fur?",
+      "options": ["Polar bear", "Arctic fox", "Sea otter", "Chinchilla"],
+      "answer": "Sea otter"
+    },
+    {
+      "question": "What is the study of mountains called?",
+      "options": ["Orology", "Geology", "Geomorphology", "Topography"],
+      "answer": "Orology"
+    },
+    {
+      "question": "Which is the most venomous creature in the world?",
+      "options": ["Box jellyfish", "Blue-ringed octopus", "Sea wasp", "Irukandji jellyfish"],
+      "answer": "Box jellyfish"
+    },
+    {
+      "question": "What is the largest moon of Saturn?",
+      "options": ["Titan", "Enceladus", "Mimas", "Iapetus"],
+      "answer": "Titan"
+    },
+    {
+      "question": "Which element is used in computer chips?",
+      "options": ["Silicon", "Germanium", "Gallium", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the study of spiders called?",
+      "options": ["Arachnology", "Entomology", "Arthropodology", "Chelicerology"],
+      "answer": "Arachnology"
+    },
+    {
+      "question": "Which animal can change its color?",
+      "options": ["Chameleon", "Octopus", "Cuttlefish", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the most electronegative element?",
+      "options": ["Fluorine", "Oxygen", "Nitrogen", "Chlorine"],
+      "answer": "Fluorine"
+    },
+    {
+      "question": "Which is the largest type of owl?",
+      "options": ["Great horned owl", "Snowy owl", "Eagle owl", "Great grey owl"],
+      "answer": "Eagle owl"
+    },
+    {
+      "question": "What is the study of fossils called?",
+      "options": ["Paleontology", "Archaeology", "Geology", "Anthropology"],
+      "answer": "Paleontology"
+    },
+    {
+      "question": "Which planet has the fastest winds?",
+      "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+      "answer": "Neptune"
+    },
+    {
+      "question": "What is the most common element in meteorites?",
+      "options": ["Iron", "Nickel", "Silicon", "Oxygen"],
+      "answer": "Iron"
+    },
+    {
+      "question": "Which animal has the longest pregnancy?",
+      "options": ["Elephant", "Whale", "Rhinoceros", "Giraffe"],
+      "answer": "Elephant"
+    },
+    {
+      "question": "What is the study of soil called?",
+      "options": ["Pedology", "Edaphology", "Soil science", "All of the above"],
+      "answer": "All of the above"
+    }
+  ]
+}

@@ -1,0 +1,814 @@
+{
+  "questions": [
+    {
+      "question": "What does HTML stand for?",
+      "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlink and Text Markup Language"],
+      "answer": "Hyper Text Markup Language"
+    },
+    {
+      "question": "Who is the founder of Microsoft?",
+      "options": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Larry Page"],
+      "answer": "Bill Gates"
+    },
+    {
+      "question": "What does CPU stand for?",
+      "options": ["Computer Processing Unit", "Central Processing Unit", "Central Program Unit", "Computer Program Unit"],
+      "answer": "Central Processing Unit"
+    },
+    {
+      "question": "Which company developed the Android operating system?",
+      "options": ["Apple", "Microsoft", "Google", "Samsung"],
+      "answer": "Google"
+    },
+    {
+      "question": "What is the most popular programming language in 2023?",
+      "options": ["Python", "JavaScript", "Java", "C++"],
+      "answer": "JavaScript"
+    },
+    {
+      "question": "What does RAM stand for?",
+      "options": ["Random Access Memory", "Read Access Memory", "Rapid Access Memory", "Real Access Memory"],
+      "answer": "Random Access Memory"
+    },
+    {
+      "question": "Which company created the iPhone?",
+      "options": ["Samsung", "Google", "Apple", "Microsoft"],
+      "answer": "Apple"
+    },
+    {
+      "question": "What is the file extension for a Python script?",
+      "options": [".py", ".python", ".pyt", ".pt"],
+      "answer": ".py"
+    },
+    {
+      "question": "What does URL stand for?",
+      "options": ["Universal Resource Locator", "Uniform Resource Locator", "Universal Reference Link", "Uniform Reference Link"],
+      "answer": "Uniform Resource Locator"
+    },
+    {
+      "question": "Which programming language is known as the 'language of the web'?",
+      "options": ["Python", "Java", "JavaScript", "C++"],
+      "answer": "JavaScript"
+    },
+    {
+      "question": "What does SQL stand for?",
+      "options": ["Structured Query Language", "Simple Query Language", "Standard Query Language", "System Query Language"],
+      "answer": "Structured Query Language"
+    },
+    {
+      "question": "Who founded Apple Inc.?",
+      "options": ["Bill Gates", "Steve Jobs", "Mark Zuckerberg", "Larry Ellison"],
+      "answer": "Steve Jobs"
+    },
+    {
+      "question": "What is the binary equivalent of decimal 10?",
+      "options": ["1010", "1100", "1001", "1110"],
+      "answer": "1010"
+    },
+    {
+      "question": "Which company developed the Java programming language?",
+      "options": ["Microsoft", "Apple", "Sun Microsystems", "Google"],
+      "answer": "Sun Microsystems"
+    },
+    {
+      "question": "What does HTTP stand for?",
+      "options": ["HyperText Transfer Protocol", "HyperText Transmission Protocol", "HyperLink Transfer Protocol", "HyperLink Transmission Protocol"],
+      "answer": "HyperText Transfer Protocol"
+    },
+    {
+      "question": "Which is the first computer virus?",
+      "options": ["Creeper", "ILOVEYOU", "Melissa", "Code Red"],
+      "answer": "Creeper"
+    },
+    {
+      "question": "What does GPU stand for?",
+      "options": ["Graphics Processing Unit", "General Processing Unit", "Game Processing Unit", "Global Processing Unit"],
+      "answer": "Graphics Processing Unit"
+    },
+    {
+      "question": "Which company owns YouTube?",
+      "options": ["Facebook", "Microsoft", "Google", "Amazon"],
+      "answer": "Google"
+    },
+    {
+      "question": "What is the latest version of HTML?",
+      "options": ["HTML4", "HTML5", "HTML6", "XHTML"],
+      "answer": "HTML5"
+    },
+    {
+      "question": "Who created the Linux operating system?",
+      "options": ["Bill Gates", "Steve Jobs", "Linus Torvalds", "Mark Zuckerberg"],
+      "answer": "Linus Torvalds"
+    },
+    {
+      "question": "What does AI stand for?",
+      "options": ["Artificial Intelligence", "Automated Intelligence", "Advanced Intelligence", "Artificial Information"],
+      "answer": "Artificial Intelligence"
+    },
+    {
+      "question": "Which protocol is used for secure websites?",
+      "options": ["HTTP", "HTTPS", "FTP", "SMTP"],
+      "answer": "HTTPS"
+    },
+    {
+      "question": "What is the maximum number of characters in a tweet?",
+      "options": ["140", "240", "280", "320"],
+      "answer": "280"
+    },
+    {
+      "question": "Which company developed the C programming language?",
+      "options": ["Microsoft", "IBM", "Bell Labs", "Google"],
+      "answer": "Bell Labs"
+    },
+    {
+      "question": "What does CSS stand for?",
+      "options": ["Computer Style Sheets", "Creative Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets"],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "question": "Who is the founder of Facebook?",
+      "options": ["Bill Gates", "Steve Jobs", "Mark Zuckerberg", "Larry Page"],
+      "answer": "Mark Zuckerberg"
+    },
+    {
+      "question": "What is the smallest unit of data in a computer?",
+      "options": ["Byte", "Bit", "Kilobyte", "Nibble"],
+      "answer": "Bit"
+    },
+    {
+      "question": "Which company created the first commercially successful personal computer?",
+      "options": ["IBM", "Apple", "Microsoft", "Dell"],
+      "answer": "Apple"
+    },
+    {
+      "question": "What does VPN stand for?",
+      "options": ["Virtual Private Network", "Very Private Network", "Visual Private Network", "Virtual Public Network"],
+      "answer": "Virtual Private Network"
+    },
+    {
+      "question": "Which programming language is used for iOS app development?",
+      "options": ["Java", "Swift", "Python", "C++"],
+      "answer": "Swift"
+    },
+    {
+      "question": "What is the most widely used database management system?",
+      "options": ["Oracle", "MySQL", "PostgreSQL", "SQL Server"],
+      "answer": "MySQL"
+    },
+    {
+      "question": "Who founded Amazon?",
+      "options": ["Bill Gates", "Jeff Bezos", "Mark Zuckerberg", "Larry Page"],
+      "answer": "Jeff Bezos"
+    },
+    {
+      "question": "What does IoT stand for?",
+      "options": ["Internet of Things", "Internet of Technology", "Internal of Things", "Internet of Transmission"],
+      "answer": "Internet of Things"
+    },
+    {
+      "question": "Which company developed the Python programming language?",
+      "options": ["Google", "Microsoft", "Python Software Foundation", "IBM"],
+      "answer": "Python Software Foundation"
+    },
+    {
+      "question": "What is the full form of WiFi?",
+      "options": ["Wireless Fidelity", "Wireless Frequency", "Wide Fidelity", "Wire-Free Interface"],
+      "answer": "Wireless Fidelity"
+    },
+    {
+      "question": "Which is the first electronic computer?",
+      "options": ["ENIAC", "UNIVAC", "EDVAC", "MANIAC"],
+      "answer": "ENIAC"
+    },
+    {
+      "question": "What does API stand for?",
+      "options": ["Application Programming Interface", "Application Process Interface", "Automated Programming Interface", "Advanced Programming Interface"],
+      "answer": "Application Programming Interface"
+    },
+    {
+      "question": "Who created the World Wide Web?",
+      "options": ["Bill Gates", "Tim Berners-Lee", "Steve Jobs", "Larry Page"],
+      "answer": "Tim Berners-Lee"
+    },
+    {
+      "question": "What is the standard port number for HTTP?",
+      "options": ["21", "80", "443", "25"],
+      "answer": "80"
+    },
+    {
+      "question": "Which company developed the Git version control system?",
+      "options": ["Microsoft", "Google", "Linus Torvalds", "GitHub"],
+      "answer": "Linus Torvalds"
+    },
+    {
+      "question": "What does SSD stand for?",
+      "options": ["Solid State Drive", "Super Speed Drive", "Secure Storage Device", "System Storage Drive"],
+      "answer": "Solid State Drive"
+    },
+    {
+      "question": "Which programming language is known for its use in data science?",
+      "options": ["JavaScript", "Python", "C++", "Ruby"],
+      "answer": "Python"
+    },
+    {
+      "question": "What is the maximum storage capacity of a DVD?",
+      "options": ["4.7 GB", "8.5 GB", "17 GB", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Who is the current CEO of Google?",
+      "options": ["Larry Page", "Sergey Brin", "Sundar Pichai", "Eric Schmidt"],
+      "answer": "Sundar Pichai"
+    },
+    {
+      "question": "What does BIOS stand for?",
+      "options": ["Basic Input Output System", "Binary Input Output System", "Basic Internal Operating System", "Binary Internal Operating System"],
+      "answer": "Basic Input Output System"
+    },
+    {
+      "question": "Which company created the first web browser?",
+      "options": ["Microsoft", "Apple", "CERN", "Google"],
+      "answer": "CERN"
+    },
+    {
+      "question": "What is the latest version of JavaScript?",
+      "options": ["ES6", "ES2020", "ES2023", "ES2024"],
+      "answer": "ES2023"
+    },
+    {
+      "question": "Which company owns Instagram?",
+      "options": ["Google", "Twitter", "Meta (Facebook)", "Snapchat"],
+      "answer": "Meta (Facebook)"
+    },
+    {
+      "question": "What does XML stand for?",
+      "options": ["eXtensible Markup Language", "eXtra Markup Language", "eXtended Markup Language", "eXecutable Markup Language"],
+      "answer": "eXtensible Markup Language"
+    },
+    {
+      "question": "Who founded Tesla?",
+      "options": ["Jeff Bezos", "Elon Musk", "Bill Gates", "Larry Page"],
+      "answer": "Elon Musk"
+    },
+    {
+      "question": "What is the standard port number for HTTPS?",
+      "options": ["80", "443", "21", "25"],
+      "answer": "443"
+    },
+    {
+      "question": "Which programming language is used for Android app development?",
+      "options": ["Swift", "Java", "Python", "C#"],
+      "answer": "Java"
+    },
+    {
+      "question": "What does JSON stand for?",
+      "options": ["JavaScript Object Notation", "Java Standard Object Notation", "JavaScript Oriented Notation", "Java Script Object Network"],
+      "answer": "JavaScript Object Notation"
+    },
+    {
+      "question": "Who created the C++ programming language?",
+      "options": ["Dennis Ritchie", "Bjarne Stroustrup", "James Gosling", "Guido van Rossum"],
+      "answer": "Bjarne Stroustrup"
+    },
+    {
+      "question": "What is the full form of USB?",
+      "options": ["Universal Serial Bus", "Universal System Bus", "United Serial Bus", "Universal Storage Bus"],
+      "answer": "Universal Serial Bus"
+    },
+    {
+      "question": "Which company developed the Node.js runtime?",
+      "options": ["Google", "Microsoft", "Ryan Dahl", "Facebook"],
+      "answer": "Ryan Dahl"
+    },
+    {
+      "question": "What does IDE stand for?",
+      "options": ["Integrated Development Environment", "Internal Development Environment", "Interactive Development Environment", "Integrated Design Environment"],
+      "answer": "Integrated Development Environment"
+    },
+    {
+      "question": "Who founded Netflix?",
+      "options": ["Reed Hastings", "Jeff Bezos", "Mark Zuckerberg", "Elon Musk"],
+      "answer": "Reed Hastings"
+    },
+    {
+      "question": "What is the maximum value of an 8-bit unsigned integer?",
+      "options": ["127", "255", "256", "511"],
+      "answer": "255"
+    },
+    {
+      "question": "Which company created the React JavaScript library?",
+      "options": ["Google", "Microsoft", "Facebook", "Twitter"],
+      "answer": "Facebook"
+    },
+    {
+      "question": "What does DNS stand for?",
+      "options": ["Domain Name System", "Dynamic Name System", "Domain Network System", "Digital Name System"],
+      "answer": "Domain Name System"
+    },
+    {
+      "question": "Who created the Ruby programming language?",
+      "options": ["Yukihiro Matsumoto", "Guido van Rossum", "James Gosling", "Bjarne Stroustrup"],
+      "answer": "Yukihiro Matsumoto"
+    },
+    {
+      "question": "What is the speed of USB 3.0?",
+      "options": ["480 Mbps", "5 Gbps", "10 Gbps", "20 Gbps"],
+      "answer": "5 Gbps"
+    },
+    {
+      "question": "Which company owns WhatsApp?",
+      "options": ["Google", "Microsoft", "Meta (Facebook)", "Telegram"],
+      "answer": "Meta (Facebook)"
+    },
+    {
+      "question": "What does MAC address stand for?",
+      "options": ["Media Access Control", "Machine Access Code", "Memory Access Control", "Multiple Access Control"],
+      "answer": "Media Access Control"
+    },
+    {
+      "question": "Who founded PayPal?",
+      "options": ["Elon Musk", "Peter Thiel", "Max Levchin", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the latest version of CSS?",
+      "options": ["CSS2", "CSS3", "CSS4", "CSS5"],
+      "answer": "CSS3"
+    },
+    {
+      "question": "Which company created the Angular framework?",
+      "options": ["Facebook", "Google", "Microsoft", "Twitter"],
+      "answer": "Google"
+    },
+    {
+      "question": "What does SMTP stand for?",
+      "options": ["Simple Mail Transfer Protocol", "Secure Mail Transfer Protocol", "Standard Mail Transfer Protocol", "System Mail Transfer Protocol"],
+      "answer": "Simple Mail Transfer Protocol"
+    },
+    {
+      "question": "Who created the PHP programming language?",
+      "options": ["Rasmus Lerdorf", "Brendan Eich", "James Gosling", "Dennis Ritchie"],
+      "answer": "Rasmus Lerdorf"
+    },
+    {
+      "question": "What is the capacity of a standard Blu-ray disc?",
+      "options": ["25 GB", "50 GB", "100 GB", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which company owns LinkedIn?",
+      "options": ["Google", "Microsoft", "Facebook", "Twitter"],
+      "answer": "Microsoft"
+    },
+    {
+      "question": "What does FTP stand for?",
+      "options": ["File Transfer Protocol", "Fast Transfer Protocol", "Frequent Transfer Protocol", "Final Transfer Protocol"],
+      "answer": "File Transfer Protocol"
+    },
+    {
+      "question": "Who created the Rust programming language?",
+      "options": ["Mozilla", "Google", "Microsoft", "Apple"],
+      "answer": "Mozilla"
+    },
+    {
+      "question": "What is the maximum length of an IPv4 address?",
+      "options": ["32 bits", "64 bits", "128 bits", "256 bits"],
+      "answer": "32 bits"
+    },
+    {
+      "question": "Which company created the Vue.js framework?",
+      "options": ["Google", "Facebook", "Evan You", "Microsoft"],
+      "answer": "Evan You"
+    },
+    {
+      "question": "What does AJAX stand for?",
+      "options": ["Asynchronous JavaScript and XML", "Advanced JavaScript and XML", "Automated JavaScript and XML", "Active JavaScript and XML"],
+      "answer": "Asynchronous JavaScript and XML"
+    },
+    {
+      "question": "Who founded Adobe?",
+      "options": ["John Warnock", "Charles Geschke", "Both A and B", "Bill Gates"],
+      "answer": "Both A and B"
+    },
+    {
+      "question": "What is the size of an IPv6 address?",
+      "options": ["32 bits", "64 bits", "128 bits", "256 bits"],
+      "answer": "128 bits"
+    },
+    {
+      "question": "Which company created Docker?",
+      "options": ["Google", "Microsoft", "Docker Inc.", "Red Hat"],
+      "answer": "Docker Inc."
+    },
+    {
+      "question": "What does NoSQL stand for?",
+      "options": ["Not Only SQL", "No SQL", "New SQL", "Non SQL"],
+      "answer": "Not Only SQL"
+    },
+    {
+      "question": "Who created the Go programming language?",
+      "options": ["Microsoft", "Google", "Apple", "Facebook"],
+      "answer": "Google"
+    },
+    {
+      "question": "What is the maximum transfer rate of SATA III?",
+      "options": ["3 Gb/s", "6 Gb/s", "12 Gb/s", "16 Gb/s"],
+      "answer": "6 Gb/s"
+    },
+    {
+      "question": "Which company owns GitHub?",
+      "options": ["Google", "Microsoft", "Facebook", "Amazon"],
+      "answer": "Microsoft"
+    },
+    {
+      "question": "What does REST stand for?",
+      "options": ["Representational State Transfer", "Remote State Transfer", "Real State Transfer", "Reliable State Transfer"],
+      "answer": "Representational State Transfer"
+    },
+    {
+      "question": "Who created the Scala programming language?",
+      "options": ["Martin Odersky", "James Gosling", "Guido van Rossum", "Bjarne Stroustrup"],
+      "answer": "Martin Odersky"
+    },
+    {
+      "question": "What is the standard voltage of a computer power supply?",
+      "options": ["110V", "220V", "Both A and B", "12V, 5V, 3.3V"],
+      "answer": "Both A and B"
+    },
+    {
+      "question": "Which company created Kubernetes?",
+      "options": ["Microsoft", "Google", "Amazon", "Red Hat"],
+      "answer": "Google"
+    },
+    {
+      "question": "What does GraphQL stand for?",
+      "options": ["Graph Query Language", "General Query Language", "Global Query Language", "Great Query Language"],
+      "answer": "Graph Query Language"
+    },
+    {
+      "question": "Who created the Kotlin programming language?",
+      "options": ["Google", "JetBrains", "Oracle", "Microsoft"],
+      "answer": "JetBrains"
+    },
+    {
+      "question": "What is the latest version of Wi-Fi?",
+      "options": ["Wi-Fi 5", "Wi-Fi 6", "Wi-Fi 6E", "Wi-Fi 7"],
+      "answer": "Wi-Fi 7"
+    },
+    {
+      "question": "Which company owns Zoom?",
+      "options": ["Microsoft", "Google", "Zoom Video Communications", "Cisco"],
+      "answer": "Zoom Video Communications"
+    },
+    {
+      "question": "What does CDN stand for?",
+      "options": ["Content Delivery Network", "Central Data Network", "Cloud Distribution Network", "Central Delivery Network"],
+      "answer": "Content Delivery Network"
+    },
+    {
+      "question": "Who created the Swift programming language?",
+      "options": ["Google", "Microsoft", "Apple", "Facebook"],
+      "answer": "Apple"
+    },
+    {
+      "question": "What is the maximum capacity of a microSD card?",
+      "options": ["1 TB", "2 TB", "4 TB", "No theoretical limit"],
+      "answer": "No theoretical limit"
+    },
+    {
+      "question": "Which company created TensorFlow?",
+      "options": ["Microsoft", "Google", "Facebook", "Amazon"],
+      "answer": "Google"
+    },
+    {
+      "question": "What does CORS stand for?",
+      "options": ["Cross-Origin Resource Sharing", "Central Origin Resource Sharing", "Cross-Object Resource Sharing", "Central Object Resource Sharing"],
+      "answer": "Cross-Origin Resource Sharing"
+    },
+    {
+      "question": "Who founded Oracle?",
+      "options": ["Larry Ellison", "Bill Gates", "Steve Jobs", "Mark Zuckerberg"],
+      "answer": "Larry Ellison"
+    },
+    {
+      "question": "What is the latest version of Bluetooth?",
+      "options": ["5.0", "5.1", "5.2", "5.3"],
+      "answer": "5.3"
+    },
+    {
+      "question": "Which company owns Slack?",
+      "options": ["Microsoft", "Salesforce", "Google", "Facebook"],
+      "answer": "Salesforce"
+    },
+    {
+      "question": "What does JWT stand for?",
+      "options": ["JSON Web Token", "Java Web Token", "JavaScript Web Token", "JSON Web Technology"],
+      "answer": "JSON Web Token"
+    },
+    {
+      "question": "Who created the TypeScript programming language?",
+      "options": ["Google", "Microsoft", "Facebook", "Apple"],
+      "answer": "Microsoft"
+    },
+    {
+      "question": "What is the maximum speed of Thunderbolt 4?",
+      "options": ["20 Gbps", "40 Gbps", "80 Gbps", "100 Gbps"],
+      "answer": "40 Gbps"
+    },
+    {
+      "question": "Which company created PyTorch?",
+      "options": ["Google", "Microsoft", "Facebook", "NVIDIA"],
+      "answer": "Facebook"
+    },
+    {
+      "question": "What does PWA stand for?",
+      "options": ["Progressive Web Application", "Portable Web Application", "Public Web Application", "Private Web Application"],
+      "answer": "Progressive Web Application"
+    },
+    {
+      "question": "Who created the Dart programming language?",
+      "options": ["Microsoft", "Google", "Apple", "Facebook"],
+      "answer": "Google"
+    },
+    {
+      "question": "What is the latest version of USB?",
+      "options": ["USB 3.2", "USB 4", "USB 5", "USB-C"],
+      "answer": "USB 4"
+    },
+    {
+      "question": "Which company owns Spotify?",
+      "options": ["Apple", "Google", "Spotify AB", "Amazon"],
+      "answer": "Spotify AB"
+    },
+    {
+      "question": "What does ML stand for in technology?",
+      "options": ["Machine Learning", "Multiple Learning", "Modern Language", "Mobile Learning"],
+      "answer": "Machine Learning"
+    },
+    {
+      "question": "Who created the Erlang programming language?",
+      "options": ["Google", "Microsoft", "Ericsson", "Nokia"],
+      "answer": "Ericsson"
+    },
+    {
+      "question": "What is the maximum frequency of DDR5 RAM?",
+      "options": ["3200 MHz", "4800 MHz", "6400 MHz", "8400 MHz"],
+      "answer": "8400 MHz"
+    },
+    {
+      "question": "Which company created Jenkins?",
+      "options": ["Oracle", "Hudson", "Kohsuke Kawaguchi", "Red Hat"],
+      "answer": "Kohsuke Kawaguchi"
+    },
+    {
+      "question": "What does WebRTC stand for?",
+      "options": ["Web Real-Time Communication", "Web Rapid Transfer Communication", "Web Remote Transfer Communication", "Web Real Transfer Communication"],
+      "answer": "Web Real-Time Communication"
+    },
+    {
+      "question": "Who created the Clojure programming language?",
+      "options": ["Rich Hickey", "James Gosling", "Martin Odersky", "John McCarthy"],
+      "answer": "Rich Hickey"
+    },
+    {
+      "question": "What is the latest version of PCIe?",
+      "options": ["PCIe 4.0", "PCIe 5.0", "PCIe 6.0", "PCIe 7.0"],
+      "answer": "PCIe 6.0"
+    },
+    {
+      "question": "Which company owns TikTok?",
+      "options": ["Facebook", "Google", "ByteDance", "Tencent"],
+      "answer": "ByteDance"
+    },
+    {
+      "question": "What does AR stand for in technology?",
+      "options": ["Augmented Reality", "Artificial Reality", "Advanced Reality", "Automated Reality"],
+      "answer": "Augmented Reality"
+    },
+    {
+      "question": "Who created the F# programming language?",
+      "options": ["Google", "Microsoft", "Apple", "Facebook"],
+      "answer": "Microsoft"
+    },
+    {
+      "question": "What is the maximum capacity of UHS-II SD cards?",
+      "options": ["2 TB", "4 TB", "8 TB", "128 TB"],
+      "answer": "128 TB"
+    },
+    {
+      "question": "Which company created Ansible?",
+      "options": ["Red Hat", "Microsoft", "Google", "IBM"],
+      "answer": "Red Hat"
+    },
+    {
+      "question": "What does VR stand for in technology?",
+      "options": ["Virtual Reality", "Visual Reality", "Video Reality", "Variable Reality"],
+      "answer": "Virtual Reality"
+    },
+    {
+      "question": "Who created the Haskell programming language?",
+      "options": ["Microsoft", "A committee", "Google", "University"],
+      "answer": "A committee"
+    },
+    {
+      "question": "What is the latest version of HDMI?",
+      "options": ["HDMI 2.0", "HDMI 2.1", "HDMI 2.2", "HDMI 3.0"],
+      "answer": "HDMI 2.1"
+    },
+    {
+      "question": "Which company owns Discord?",
+      "options": ["Microsoft", "Google", "Discord Inc.", "Facebook"],
+      "answer": "Discord Inc."
+    },
+    {
+      "question": "What does NLP stand for in AI?",
+      "options": ["Natural Language Processing", "New Language Programming", "Neural Language Processing", "Network Language Protocol"],
+      "answer": "Natural Language Processing"
+    },
+    {
+      "question": "Who created the Elixir programming language?",
+      "options": ["José Valim", "Rich Hickey", "Martin Odersky", "Yukihiro Matsumoto"],
+      "answer": "José Valim"
+    },
+    {
+      "question": "What is the maximum transfer rate of NVMe SSD?",
+      "options": ["3.5 GB/s", "7 GB/s", "14 GB/s", "No theoretical limit"],
+      "answer": "No theoretical limit"
+    },
+    {
+      "question": "Which company created Terraform?",
+      "options": ["Amazon", "HashiCorp", "Google", "Microsoft"],
+      "answer": "HashiCorp"
+    },
+    {
+      "question": "What does MEAN stack stand for?",
+      "options": ["MongoDB, Express, Angular, Node", "MySQL, Express, Angular, Node", "MongoDB, Ember, Angular, Node", "MySQL, Ember, Angular, Node"],
+      "answer": "MongoDB, Express, Angular, Node"
+    },
+    {
+      "question": "Who created the Julia programming language?",
+      "options": ["MIT", "Google", "Microsoft", "Facebook"],
+      "answer": "MIT"
+    },
+    {
+      "question": "What is the latest Wi-Fi security protocol?",
+      "options": ["WPA2", "WPA3", "WPA4", "WEP"],
+      "answer": "WPA3"
+    },
+    {
+      "question": "Which company owns Twitch?",
+      "options": ["Google", "Microsoft", "Amazon", "Facebook"],
+      "answer": "Amazon"
+    },
+    {
+      "question": "What does DApp stand for?",
+      "options": ["Decentralized Application", "Dynamic Application", "Digital Application", "Distributed Application"],
+      "answer": "Decentralized Application"
+    },
+    {
+      "question": "Who created the Nim programming language?",
+      "options": ["Andreas Rumpf", "Guido van Rossum", "Yukihiro Matsumoto", "Rich Hickey"],
+      "answer": "Andreas Rumpf"
+    },
+    {
+      "question": "What is the maximum refresh rate of modern monitors?",
+      "options": ["240 Hz", "360 Hz", "500 Hz", "1000 Hz"],
+      "answer": "500 Hz"
+    },
+    {
+      "question": "Which company created Figma?",
+      "options": ["Adobe", "Figma Inc.", "Google", "Microsoft"],
+      "answer": "Figma Inc."
+    },
+    {
+      "question": "What does NFT stand for?",
+      "options": ["Non-Fungible Token", "New File Transfer", "Network File Transfer", "Non-Financial Token"],
+      "answer": "Non-Fungible Token"
+    },
+    {
+      "question": "Who created the Crystal programming language?",
+      "options": ["Ary Borenszweig", "Rich Hickey", "José Valim", "Andreas Rumpf"],
+      "answer": "Ary Borenszweig"
+    },
+    {
+      "question": "What is the latest version of HTTP?",
+      "options": ["HTTP/1.1", "HTTP/2", "HTTP/3", "HTTP/4"],
+      "answer": "HTTP/3"
+    },
+    {
+      "question": "Which company owns Notion?",
+      "options": ["Microsoft", "Google", "Notion Labs", "Facebook"],
+      "answer": "Notion Labs"
+    },
+    {
+      "question": "What does DAO stand for in blockchain?",
+      "options": ["Decentralized Autonomous Organization", "Digital Asset Organization", "Data Access Object", "Distributed Application Object"],
+      "answer": "Decentralized Autonomous Organization"
+    },
+    {
+      "question": "Who created the Zig programming language?",
+      "options": ["Andrew Kelley", "Rich Hickey", "José Valim", "Andreas Rumpf"],
+      "answer": "Andrew Kelley"
+    },
+    {
+      "question": "What is the latest Ethernet standard?",
+      "options": ["1 Gigabit", "10 Gigabit", "100 Gigabit", "400 Gigabit"],
+      "answer": "400 Gigabit"
+    },
+    {
+      "question": "Which company created Shopify?",
+      "options": ["Amazon", "Shopify Inc.", "Google", "Microsoft"],
+      "answer": "Shopify Inc."
+    },
+    {
+      "question": "What does DeFi stand for?",
+      "options": ["Decentralized Finance", "Digital Finance", "Distributed Finance", "Dynamic Finance"],
+      "answer": "Decentralized Finance"
+    },
+    {
+      "question": "Who created the V programming language?",
+      "options": ["Alexander Medvednikov", "Rich Hickey", "José Valim", "Andreas Rumpf"],
+      "answer": "Alexander Medvednikov"
+    },
+    {
+      "question": "What is the maximum capacity of current hard drives?",
+      "options": ["10 TB", "20 TB", "30 TB", "50 TB"],
+      "answer": "30 TB"
+    },
+    {
+      "question": "Which company created Canva?",
+      "options": ["Adobe", "Canva Pty Ltd", "Google", "Microsoft"],
+      "answer": "Canva Pty Ltd"
+    },
+    {
+      "question": "What does Web3 represent?",
+      "options": ["Third version of the web", "Decentralized web", "Web 3.0", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Who created the Odin programming language?",
+      "options": ["Ginger Bill", "Rich Hickey", "José Valim", "Andreas Rumpf"],
+      "answer": "Ginger Bill"
+    },
+    {
+      "question": "What is the latest standard for memory cards?",
+      "options": ["SD Express", "CF Express", "XQD", "All are current"],
+      "answer": "All are current"
+    },
+    {
+      "question": "Which company owns Stripe?",
+      "options": ["PayPal", "Stripe Inc.", "Square", "Visa"],
+      "answer": "Stripe Inc."
+    },
+    {
+      "question": "What does AGI stand for in AI?",
+      "options": ["Artificial General Intelligence", "Advanced General Intelligence", "Automated General Intelligence", "Artificial Global Intelligence"],
+      "answer": "Artificial General Intelligence"
+    },
+    {
+      "question": "Who is considered the father of computer science?",
+      "options": ["Alan Turing", "John von Neumann", "Charles Babbage", "Ada Lovelace"],
+      "answer": "Alan Turing"
+    },
+    {
+      "question": "What is the fastest supercomputer as of 2023?",
+      "options": ["Summit", "Fugaku", "Frontier", "Aurora"],
+      "answer": "Frontier"
+    },
+    {
+      "question": "Which company created Zoom?",
+      "options": ["Microsoft", "Google", "Zoom Video Communications", "Cisco"],
+      "answer": "Zoom Video Communications"
+    },
+    {
+      "question": "What does WASM stand for?",
+      "options": ["Web Assembly", "Web Application Security Model", "Web Asset Management", "Web Application Service Manager"],
+      "answer": "Web Assembly"
+    },
+    {
+      "question": "Who created the Pony programming language?",
+      "options": ["Sylvan Clebsch", "Rich Hickey", "José Valim", "Andreas Rumpf"],
+      "answer": "Sylvan Clebsch"
+    },
+    {
+      "question": "What is the latest version of OpenGL?",
+      "options": ["4.5", "4.6", "5.0", "5.1"],
+      "answer": "4.6"
+    },
+    {
+      "question": "Which company owns Epic Games?",
+      "options": ["Microsoft", "Sony", "Tencent (partially)", "Epic Games Inc."],
+      "answer": "Epic Games Inc."
+    },
+    {
+      "question": "What does LLM stand for in AI?",
+      "options": ["Large Language Model", "Linear Learning Model", "Logical Language Model", "Local Learning Model"],
+      "answer": "Large Language Model"
+    },
+    {
+      "question": "Who created the Red programming language?",
+      "options": ["Nenad Rakocevic", "Rich Hickey", "José Valim", "Andreas Rumpf"],
+      "answer": "Nenad Rakocevic"
+    }
+  ]
+}

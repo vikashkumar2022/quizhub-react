@@ -1,0 +1,889 @@
+{
+  "questions": [
+    {
+      "question": "What is the value of π (pi) to two decimal places?",
+      "options": ["3.14", "3.15", "3.16", "3.13"],
+      "answer": "3.14"
+    },
+    {
+      "question": "What is 2 + 2 × 3?",
+      "options": ["8", "12", "10", "14"],
+      "answer": "8"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8"
+    },
+    {
+      "question": "What is 15% of 200?",
+      "options": ["25", "30", "35", "40"],
+      "answer": "30"
+    },
+    {
+      "question": "What is the area of a circle with radius 5?",
+      "options": ["25π", "10π", "5π", "15π"],
+      "answer": "25π"
+    },
+    {
+      "question": "What is the derivative of x²?",
+      "options": ["x", "2x", "x²", "2x²"],
+      "answer": "2x"
+    },
+    {
+      "question": "What is 7! (7 factorial)?",
+      "options": ["5040", "720", "42", "49"],
+      "answer": "5040"
+    },
+    {
+      "question": "What is the sum of angles in a triangle?",
+      "options": ["90°", "180°", "360°", "270°"],
+      "answer": "180°"
+    },
+    {
+      "question": "What is 3³?",
+      "options": ["9", "27", "81", "6"],
+      "answer": "27"
+    },
+    {
+      "question": "What is the perimeter of a rectangle with length 8 and width 5?",
+      "options": ["26", "40", "13", "24"],
+      "answer": "26"
+    },
+    {
+      "question": "What is log₁₀(100)?",
+      "options": ["1", "2", "10", "100"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the slope of the line y = 3x + 2?",
+      "options": ["2", "3", "5", "1"],
+      "answer": "3"
+    },
+    {
+      "question": "What is sin(90°)?",
+      "options": ["0", "1", "-1", "1/2"],
+      "answer": "1"
+    },
+    {
+      "question": "What is the quadratic formula?",
+      "options": ["x = (-b ± √(b²-4ac))/2a", "x = -b/2a", "x = b²-4ac", "x = a² + b²"],
+      "answer": "x = (-b ± √(b²-4ac))/2a"
+    },
+    {
+      "question": "What is the volume of a cube with side length 4?",
+      "options": ["16", "64", "12", "48"],
+      "answer": "64"
+    },
+    {
+      "question": "What is cos(0°)?",
+      "options": ["0", "1", "-1", "1/2"],
+      "answer": "1"
+    },
+    {
+      "question": "What is the greatest common divisor (GCD) of 12 and 18?",
+      "options": ["3", "6", "9", "12"],
+      "answer": "6"
+    },
+    {
+      "question": "What is the integral of 2x?",
+      "options": ["x²", "x² + C", "2", "2x²"],
+      "answer": "x² + C"
+    },
+    {
+      "question": "What is the value of e (Euler's number) to two decimal places?",
+      "options": ["2.71", "2.72", "2.73", "2.70"],
+      "answer": "2.72"
+    },
+    {
+      "question": "What is the median of the set {3, 7, 2, 9, 5}?",
+      "options": ["5", "6", "7", "4"],
+      "answer": "5"
+    },
+    {
+      "question": "What is tan(45°)?",
+      "options": ["0", "1", "√3", "1/2"],
+      "answer": "1"
+    },
+    {
+      "question": "What is the distance between points (0,0) and (3,4)?",
+      "options": ["5", "7", "12", "25"],
+      "answer": "5"
+    },
+    {
+      "question": "What is the sum of the first 10 positive integers?",
+      "options": ["45", "55", "50", "60"],
+      "answer": "55"
+    },
+    {
+      "question": "What is the discriminant of x² - 4x + 4?",
+      "options": ["0", "4", "8", "16"],
+      "answer": "0"
+    },
+    {
+      "question": "What is the circumference of a circle with radius 7?",
+      "options": ["14π", "7π", "49π", "21π"],
+      "answer": "14π"
+    },
+    {
+      "question": "What is 2⁵?",
+      "options": ["10", "25", "32", "16"],
+      "answer": "32"
+    },
+    {
+      "question": "What is the mode of the set {2, 3, 3, 4, 5}?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the surface area of a sphere with radius 3?",
+      "options": ["36π", "9π", "18π", "12π"],
+      "answer": "36π"
+    },
+    {
+      "question": "What is the least common multiple (LCM) of 4 and 6?",
+      "options": ["10", "12", "24", "8"],
+      "answer": "12"
+    },
+    {
+      "question": "What is the solution to 2x + 5 = 13?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the range of the function y = x²?",
+      "options": ["All real numbers", "y ≥ 0", "y ≤ 0", "y > 0"],
+      "answer": "y ≥ 0"
+    },
+    {
+      "question": "What is sin(30°)?",
+      "options": ["1/2", "√3/2", "√2/2", "1"],
+      "answer": "1/2"
+    },
+    {
+      "question": "What is the standard deviation formula?",
+      "options": ["√(Σ(x-μ)²/n)", "Σ(x-μ)²/n", "(Σx)/n", "√(Σx²/n)"],
+      "answer": "√(Σ(x-μ)²/n)"
+    },
+    {
+      "question": "What is the vertex of the parabola y = x² - 4x + 3?",
+      "options": ["(2, -1)", "(2, 1)", "(-2, -1)", "(-2, 1)"],
+      "answer": "(2, -1)"
+    },
+    {
+      "question": "What is 5! - 3!?",
+      "options": ["114", "120", "18", "12"],
+      "answer": "114"
+    },
+    {
+      "question": "What is the inverse of the function f(x) = 2x + 3?",
+      "options": ["(x-3)/2", "(x+3)/2", "2x-3", "x/2-3"],
+      "answer": "(x-3)/2"
+    },
+    {
+      "question": "What is the probability of rolling a 6 on a fair die?",
+      "options": ["1/6", "1/5", "1/4", "1/3"],
+      "answer": "1/6"
+    },
+    {
+      "question": "What is the limit of (sin x)/x as x approaches 0?",
+      "options": ["0", "1", "∞", "undefined"],
+      "answer": "1"
+    },
+    {
+      "question": "What is the area of a triangle with base 6 and height 8?",
+      "options": ["24", "48", "14", "12"],
+      "answer": "24"
+    },
+    {
+      "question": "What is the coefficient of x² in the expansion of (x + 2)³?",
+      "options": ["3", "6", "12", "8"],
+      "answer": "12"
+    },
+    {
+      "question": "What is the domain of f(x) = 1/(x-2)?",
+      "options": ["All real numbers", "x ≠ 2", "x > 2", "x < 2"],
+      "answer": "x ≠ 2"
+    },
+    {
+      "question": "What is cos(60°)?",
+      "options": ["1/2", "√3/2", "√2/2", "1"],
+      "answer": "1/2"
+    },
+    {
+      "question": "What is the determinant of the matrix [[2, 1], [4, 3]]?",
+      "options": ["2", "5", "6", "10"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the nth term of the arithmetic sequence 3, 7, 11, 15, ...?",
+      "options": ["4n - 1", "4n + 3", "3n + 4", "n + 3"],
+      "answer": "4n - 1"
+    },
+    {
+      "question": "What is the second derivative of x³?",
+      "options": ["3x²", "6x", "x²", "3x"],
+      "answer": "6x"
+    },
+    {
+      "question": "What is the geometric mean of 4 and 9?",
+      "options": ["6", "6.5", "5", "7"],
+      "answer": "6"
+    },
+    {
+      "question": "What is the equation of a circle with center (2,3) and radius 5?",
+      "options": ["(x-2)² + (y-3)² = 25", "(x+2)² + (y+3)² = 25", "(x-2)² + (y-3)² = 5", "(x+2)² + (y+3)² = 5"],
+      "answer": "(x-2)² + (y-3)² = 25"
+    },
+    {
+      "question": "What is log₂(8)?",
+      "options": ["2", "3", "4", "8"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the sum of the interior angles of a pentagon?",
+      "options": ["540°", "720°", "900°", "450°"],
+      "answer": "540°"
+    },
+    {
+      "question": "What is the value of x if 3^x = 27?",
+      "options": ["2", "3", "9", "27"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the absolute value of -7?",
+      "options": ["7", "-7", "0", "14"],
+      "answer": "7"
+    },
+    {
+      "question": "What is the hypotenuse of a right triangle with legs 3 and 4?",
+      "options": ["5", "7", "12", "25"],
+      "answer": "5"
+    },
+    {
+      "question": "What is the derivative of sin(x)?",
+      "options": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
+      "answer": "cos(x)"
+    },
+    {
+      "question": "What is the mean of the set {2, 4, 6, 8, 10}?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "6"
+    },
+    {
+      "question": "What is the slope of a line perpendicular to y = 2x + 1?",
+      "options": ["-1/2", "1/2", "-2", "2"],
+      "answer": "-1/2"
+    },
+    {
+      "question": "What is the volume of a cylinder with radius 2 and height 5?",
+      "options": ["20π", "10π", "40π", "15π"],
+      "answer": "20π"
+    },
+    {
+      "question": "What is the next term in the sequence 1, 1, 2, 3, 5, 8, ...?",
+      "options": ["11", "12", "13", "15"],
+      "answer": "13"
+    },
+    {
+      "question": "What is tan(60°)?",
+      "options": ["1", "√3", "1/√3", "2"],
+      "answer": "√3"
+    },
+    {
+      "question": "What is the sum of an infinite geometric series with first term 1 and common ratio 1/2?",
+      "options": ["1", "2", "3", "∞"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the y-intercept of the line 3x + 2y = 6?",
+      "options": ["2", "3", "6", "-3"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the factorial of 0?",
+      "options": ["0", "1", "undefined", "∞"],
+      "answer": "1"
+    },
+    {
+      "question": "What is the area of a parallelogram with base 5 and height 3?",
+      "options": ["8", "15", "30", "10"],
+      "answer": "15"
+    },
+    {
+      "question": "What is the common ratio of the geometric sequence 2, 6, 18, 54, ...?",
+      "options": ["2", "3", "4", "6"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the integral of 1/x?",
+      "options": ["x", "ln|x| + C", "1/x² + C", "-1/x² + C"],
+      "answer": "ln|x| + C"
+    },
+    {
+      "question": "What is the period of the function y = sin(x)?",
+      "options": ["π", "2π", "π/2", "4π"],
+      "answer": "2π"
+    },
+    {
+      "question": "What is the discriminant of 2x² + 3x + 1?",
+      "options": ["1", "5", "9", "17"],
+      "answer": "1"
+    },
+    {
+      "question": "What is the amplitude of y = 3sin(x)?",
+      "options": ["1", "2", "3", "π"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the complex conjugate of 3 + 4i?",
+      "options": ["3 - 4i", "-3 + 4i", "-3 - 4i", "4 + 3i"],
+      "answer": "3 - 4i"
+    },
+    {
+      "question": "What is the radius of a circle with area 36π?",
+      "options": ["3", "6", "9", "12"],
+      "answer": "6"
+    },
+    {
+      "question": "What is the binomial coefficient C(5,2)?",
+      "options": ["5", "10", "15", "20"],
+      "answer": "10"
+    },
+    {
+      "question": "What is the x-intercept of the line y = 2x - 6?",
+      "options": ["2", "3", "6", "-3"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the derivative of e^x?",
+      "options": ["e^x", "xe^(x-1)", "ln(x)", "x"],
+      "answer": "e^x"
+    },
+    {
+      "question": "What is the standard form of the equation of a parabola with vertex at origin opening upward?",
+      "options": ["y = ax²", "x = ay²", "y² = ax", "x² = ay"],
+      "answer": "y = ax²"
+    },
+    {
+      "question": "What is the sum of the first n positive integers?",
+      "options": ["n(n+1)/2", "n²", "n(n-1)/2", "2n"],
+      "answer": "n(n+1)/2"
+    },
+    {
+      "question": "What is sin²(x) + cos²(x)?",
+      "options": ["0", "1", "2", "sin(2x)"],
+      "answer": "1"
+    },
+    {
+      "question": "What is the directrix of the parabola y² = 4px?",
+      "options": ["x = -p", "x = p", "y = -p", "y = p"],
+      "answer": "x = -p"
+    },
+    {
+      "question": "What is the degree of the polynomial 3x⁴ + 2x² - 5?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the eccentricity of a circle?",
+      "options": ["0", "1", "between 0 and 1", "greater than 1"],
+      "answer": "0"
+    },
+    {
+      "question": "What is the area under the curve y = x from 0 to 2?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the number of diagonals in a hexagon?",
+      "options": ["6", "9", "12", "15"],
+      "answer": "9"
+    },
+    {
+      "question": "What is the derivative of ln(x)?",
+      "options": ["1/x", "x", "ln(x)", "e^x"],
+      "answer": "1/x"
+    },
+    {
+      "question": "What is the magnitude of the vector (3, 4)?",
+      "options": ["5", "7", "12", "25"],
+      "answer": "5"
+    },
+    {
+      "question": "What is the formula for the nth term of a geometric sequence?",
+      "options": ["a + (n-1)d", "ar^(n-1)", "a + nd", "ar^n"],
+      "answer": "ar^(n-1)"
+    },
+    {
+      "question": "What is the inverse of the matrix [[1, 0], [0, 1]]?",
+      "options": ["[[1, 0], [0, 1]]", "[[0, 1], [1, 0]]", "[[1, 1], [1, 1]]", "No inverse"],
+      "answer": "[[1, 0], [0, 1]]"
+    },
+    {
+      "question": "What is the focus of the parabola y² = 8x?",
+      "options": ["(2, 0)", "(0, 2)", "(4, 0)", "(0, 4)"],
+      "answer": "(2, 0)"
+    },
+    {
+      "question": "What is the remainder when x³ - 2x² + x - 2 is divided by (x - 2)?",
+      "options": ["0", "2", "4", "6"],
+      "answer": "0"
+    },
+    {
+      "question": "What is the area of an equilateral triangle with side length 6?",
+      "options": ["9√3", "18√3", "36√3", "6√3"],
+      "answer": "9√3"
+    },
+    {
+      "question": "What is the limit of (1 + 1/n)^n as n approaches infinity?",
+      "options": ["1", "e", "π", "∞"],
+      "answer": "e"
+    },
+    {
+      "question": "What is the product of the roots of x² - 5x + 6 = 0?",
+      "options": ["5", "6", "-5", "-6"],
+      "answer": "6"
+    },
+    {
+      "question": "What is the length of the arc of a circle with radius 5 and central angle π/3?",
+      "options": ["5π/3", "5π/6", "10π/3", "25π/3"],
+      "answer": "5π/3"
+    },
+    {
+      "question": "What is the asymptote of y = 1/x?",
+      "options": ["x = 0 and y = 0", "x = 1 and y = 1", "x = 0 only", "y = 0 only"],
+      "answer": "x = 0 and y = 0"
+    },
+    {
+      "question": "What is the standard deviation of the set {1, 2, 3, 4, 5}?",
+      "options": ["√2", "√3", "2", "√10/2"],
+      "answer": "√2"
+    },
+    {
+      "question": "What is the coefficient of x³ in the binomial expansion of (x + 1)⁵?",
+      "options": ["5", "10", "15", "20"],
+      "answer": "10"
+    },
+    {
+      "question": "What is the cross product of vectors (1, 0, 0) and (0, 1, 0)?",
+      "options": ["(0, 0, 1)", "(1, 1, 0)", "(0, 0, 0)", "(1, 0, 1)"],
+      "answer": "(0, 0, 1)"
+    },
+    {
+      "question": "What is the half-life formula for exponential decay?",
+      "options": ["A = A₀e^(-kt)", "A = A₀(1/2)^(t/h)", "A = A₀ + kt", "A = A₀2^t"],
+      "answer": "A = A₀(1/2)^(t/h)"
+    },
+    {
+      "question": "What is the dot product of vectors (2, 3) and (4, 1)?",
+      "options": ["8", "11", "14", "17"],
+      "answer": "11"
+    },
+    {
+      "question": "What is the centroid of a triangle with vertices at (0,0), (6,0), and (0,8)?",
+      "options": ["(2, 8/3)", "(3, 4)", "(2, 3)", "(3, 8/3)"],
+      "answer": "(2, 8/3)"
+    },
+    {
+      "question": "What is the equation of the line passing through (1,2) with slope 3?",
+      "options": ["y = 3x - 1", "y = 3x + 2", "y = x + 3", "y = 3x - 5"],
+      "answer": "y = 3x - 1"
+    },
+    {
+      "question": "What is the variance of the set {2, 4, 6}?",
+      "options": ["2", "4", "8/3", "4/3"],
+      "answer": "8/3"
+    },
+    {
+      "question": "What is the Laplace transform of f(t) = 1?",
+      "options": ["1/s", "s", "1", "s²"],
+      "answer": "1/s"
+    },
+    {
+      "question": "What is the general solution to dy/dx = y?",
+      "options": ["y = Ce^x", "y = Cx", "y = Ce^(-x)", "y = C + x"],
+      "answer": "y = Ce^x"
+    },
+    {
+      "question": "What is the modulus of the complex number 3 + 4i?",
+      "options": ["3", "4", "5", "7"],
+      "answer": "5"
+    },
+    {
+      "question": "What is the Taylor series expansion of e^x around x = 0?",
+      "options": ["Σ(x^n/n!)", "Σ(x^n)", "Σ(n!x^n)", "Σ(x^n/n)"],
+      "answer": "Σ(x^n/n!)"
+    },
+    {
+      "question": "What is the eigenvalue of the matrix [[2, 0], [0, 3]] for the eigenvector [1, 0]?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the Fourier transform of a constant function?",
+      "options": ["Delta function", "Zero", "Constant", "Sine wave"],
+      "answer": "Delta function"
+    },
+    {
+      "question": "What is the curl of the vector field F = (y, -x, 0)?",
+      "options": ["(0, 0, -2)", "(0, 0, 2)", "(2, 0, 0)", "(0, 2, 0)"],
+      "answer": "(0, 0, -2)"
+    },
+    {
+      "question": "What is the divergence of the vector field F = (x, y, z)?",
+      "options": ["1", "2", "3", "0"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the Wronskian of y₁ = e^x and y₂ = e^(2x)?",
+      "options": ["e^(3x)", "e^x", "2e^(3x)", "e^(2x)"],
+      "answer": "e^(3x)"
+    },
+    {
+      "question": "What is the residue of f(z) = 1/(z-1)² at z = 1?",
+      "options": ["0", "1", "-1", "2"],
+      "answer": "1"
+    },
+    {
+      "question": "What is the characteristic polynomial of the matrix [[1, 2], [3, 4]]?",
+      "options": ["λ² - 5λ - 2", "λ² - 5λ + 2", "λ² + 5λ - 2", "λ² - 5λ + 6"],
+      "answer": "λ² - 5λ - 2"
+    },
+    {
+      "question": "What is the Green's function for the operator d²/dx²?",
+      "options": ["|x-ξ|/2", "δ(x-ξ)", "H(x-ξ)", "x-ξ"],
+      "answer": "|x-ξ|/2"
+    },
+    {
+      "question": "What is the rank of the matrix [[1, 2], [2, 4]]?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "1"
+    },
+    {
+      "question": "What is the Jordan normal form of a 2×2 matrix with eigenvalue 3 (multiplicity 2) and one eigenvector?",
+      "options": ["[[3, 1], [0, 3]]", "[[3, 0], [0, 3]]", "[[3, 3], [3, 3]]", "[[1, 3], [0, 1]]"],
+      "answer": "[[3, 1], [0, 3]]"
+    },
+    {
+      "question": "What is the Gershgorin circle theorem used for?",
+      "options": ["Finding eigenvalues", "Matrix multiplication", "Determinant calculation", "Vector spaces"],
+      "answer": "Finding eigenvalues"
+    },
+    {
+      "question": "What is the spectral radius of a matrix?",
+      "options": ["Largest eigenvalue magnitude", "Trace", "Determinant", "Norm"],
+      "answer": "Largest eigenvalue magnitude"
+    },
+    {
+      "question": "What is the dimension of the vector space of 2×2 real matrices?",
+      "options": ["2", "3", "4", "8"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the kernel of the linear transformation T(x,y) = (x+y, x-y)?",
+      "options": ["{(0,0)}", "{(t,-t)}", "{(t,t)}", "R²"],
+      "answer": "{(0,0)}"
+    },
+    {
+      "question": "What is the order of the group Z₁₂ under addition modulo 12?",
+      "options": ["6", "12", "24", "144"],
+      "answer": "12"
+    },
+    {
+      "question": "What is the Galois group of x² - 2 over Q?",
+      "options": ["Z₂", "S₂", "Trivial", "Z₄"],
+      "answer": "Z₂"
+    },
+    {
+      "question": "What is the Euler characteristic of a torus?",
+      "options": ["-1", "0", "1", "2"],
+      "answer": "0"
+    },
+    {
+      "question": "What is the fundamental group of the circle S¹?",
+      "options": ["Z", "Z₂", "Trivial", "R"],
+      "answer": "Z"
+    },
+    {
+      "question": "What is the genus of a surface with Euler characteristic -4?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the homology group H₁(S²)?",
+      "options": ["Z", "Z₂", "0", "R"],
+      "answer": "0"
+    },
+    {
+      "question": "What is the Betti number b₁ of the Klein bottle?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "1"
+    },
+    {
+      "question": "What is the covering space of the projective plane RP²?",
+      "options": ["S²", "S¹", "R²", "T²"],
+      "answer": "S²"
+    },
+    {
+      "question": "What is the dimension of the tangent space at any point on a smooth n-manifold?",
+      "options": ["n-1", "n", "n+1", "2n"],
+      "answer": "n"
+    },
+    {
+      "question": "What is the Riemann curvature tensor's symmetry property?",
+      "options": ["Antisymmetric in first two indices", "Symmetric in all indices", "Cyclic symmetry", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the Gaussian curvature of a sphere of radius R?",
+      "options": ["1/R", "1/R²", "R", "R²"],
+      "answer": "1/R²"
+    },
+    {
+      "question": "What is the Christoffel symbol Γᵢⱼᵏ in terms of the metric tensor?",
+      "options": ["½gᵏˡ(∂gᵢˡ/∂xʲ + ∂gⱼˡ/∂xᵢ - ∂gᵢⱼ/∂xˡ)", "gᵢⱼ,ₖ", "∂gᵢⱼ/∂xᵏ", "gᵢⱼgᵏˡ"],
+      "answer": "½gᵏˡ(∂gᵢˡ/∂xʲ + ∂gⱼˡ/∂xᵢ - ∂gᵢⱼ/∂xˡ)"
+    },
+    {
+      "question": "What is the maximum value of |sin(x)|?",
+      "options": ["0", "1", "π", "∞"],
+      "answer": "1"
+    },
+    {
+      "question": "What is the golden ratio φ approximately equal to?",
+      "options": ["1.414", "1.618", "1.732", "2.718"],
+      "answer": "1.618"
+    },
+    {
+      "question": "What is the sum of the angles in a regular octagon?",
+      "options": ["1080°", "1260°", "1440°", "1800°"],
+      "answer": "1080°"
+    },
+    {
+      "question": "What is the 10th prime number?",
+      "options": ["23", "29", "31", "37"],
+      "answer": "29"
+    },
+    {
+      "question": "What is the value of the Riemann zeta function ζ(2)?",
+      "options": ["π²/6", "π²/4", "π²/8", "π²/12"],
+      "answer": "π²/6"
+    },
+    {
+      "question": "What is the Catalan number C₃?",
+      "options": ["5", "14", "42", "132"],
+      "answer": "5"
+    },
+    {
+      "question": "What is the number of partitions of 5?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "question": "What is Stirling's approximation for n!?",
+      "options": ["√(2πn)(n/e)ⁿ", "nⁿ", "eⁿ", "2ⁿ"],
+      "answer": "√(2πn)(n/e)ⁿ"
+    },
+    {
+      "question": "What is the Bell number B₃?",
+      "options": ["5", "15", "52", "203"],
+      "answer": "5"
+    },
+    {
+      "question": "What is the chromatic number of the complete graph K₄?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the Euler's totient function φ(12)?",
+      "options": ["2", "4", "6", "8"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the Fibonacci number F₁₀?",
+      "options": ["34", "55", "89", "144"],
+      "answer": "55"
+    },
+    {
+      "question": "What is the tribonacci number T₆?",
+      "options": ["13", "24", "44", "81"],
+      "answer": "24"
+    },
+    {
+      "question": "What is the Lucas number L₅?",
+      "options": ["7", "11", "18", "29"],
+      "answer": "11"
+    },
+    {
+      "question": "What is the Pell number P₄?",
+      "options": ["12", "29", "70", "169"],
+      "answer": "29"
+    },
+    {
+      "question": "What is the continued fraction representation of √2?",
+      "options": ["[1; 2, 2, 2, ...]", "[1; 1, 2, 1, 2, ...]", "[2; 1, 1, 1, ...]", "[1; 1, 1, 1, ...]"],
+      "answer": "[1; 2, 2, 2, ...]"
+    },
+    {
+      "question": "What is the multiplicative order of 2 modulo 7?",
+      "options": ["2", "3", "6", "7"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the quadratic residue symbol (5/7)?",
+      "options": ["-1", "0", "1", "5"],
+      "answer": "-1"
+    },
+    {
+      "question": "What is the sum of divisors function σ(12)?",
+      "options": ["16", "18", "24", "28"],
+      "answer": "28"
+    },
+    {
+      "question": "What is the Möbius function μ(30)?",
+      "options": ["-1", "0", "1", "2"],
+      "answer": "-1"
+    },
+    {
+      "question": "What is the number of divisors function τ(60)?",
+      "options": ["10", "12", "14", "16"],
+      "answer": "12"
+    },
+    {
+      "question": "What is the greatest integer function ⌊3.7⌋?",
+      "options": ["3", "4", "3.7", "0"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the ceiling function ⌈2.1⌉?",
+      "options": ["2", "3", "2.1", "1"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the fractional part {5.3}?",
+      "options": ["0.3", "5", "5.3", "0.7"],
+      "answer": "0.3"
+    },
+    {
+      "question": "What is the base-2 representation of 13?",
+      "options": ["1011", "1101", "1110", "1001"],
+      "answer": "1101"
+    },
+    {
+      "question": "What is the hexadecimal representation of 255?",
+      "options": ["FE", "FF", "F0", "EF"],
+      "answer": "FF"
+    },
+    {
+      "question": "What is the octal representation of 64?",
+      "options": ["77", "100", "101", "110"],
+      "answer": "100"
+    },
+    {
+      "question": "What is the binary representation of 1/3 in decimal?",
+      "options": ["0.010101...", "0.101010...", "0.001001...", "0.110110..."],
+      "answer": "0.010101..."
+    },
+    {
+      "question": "What is the double factorial 5!! ?",
+      "options": ["15", "120", "3840", "5"],
+      "answer": "15"
+    },
+    {
+      "question": "What is the subfactorial !4?",
+      "options": ["9", "44", "265", "1854"],
+      "answer": "9"
+    },
+    {
+      "question": "What is the superfactorial sf(4)?",
+      "options": ["288", "13824", "24", "1"],
+      "answer": "288"
+    },
+    {
+      "question": "What is the primorial 5#?",
+      "options": ["30", "60", "120", "210"],
+      "answer": "30"
+    },
+    {
+      "question": "What is the tetration ²2 (2 tetrated to 2)?",
+      "options": ["2", "4", "16", "256"],
+      "answer": "4"
+    },
+    {
+      "question": "What is Ackermann's function A(2,2)?",
+      "options": ["5", "7", "9", "11"],
+      "answer": "7"
+    },
+    {
+      "question": "What is the busy beaver function BB(3)?",
+      "options": ["6", "13", "21", "107"],
+      "answer": "21"
+    },
+    {
+      "question": "What is Graham's number's last digit?",
+      "options": ["3", "7", "1", "9"],
+      "answer": "7"
+    },
+    {
+      "question": "What is the sum of reciprocals of all positive integers (harmonic series)?",
+      "options": ["π²/6", "e", "Diverges", "1"],
+      "answer": "Diverges"
+    },
+    {
+      "question": "What is the Basel problem solution (sum of 1/n²)?",
+      "options": ["π²/6", "π²/4", "π²/8", "π²/12"],
+      "answer": "π²/6"
+    },
+    {
+      "question": "What is Euler's constant γ approximately?",
+      "options": ["0.577", "1.414", "1.618", "2.718"],
+      "answer": "0.577"
+    },
+    {
+      "question": "What is Apéry's constant ζ(3) approximately?",
+      "options": ["1.202", "1.645", "2.404", "3.142"],
+      "answer": "1.202"
+    },
+    {
+      "question": "What is the Feigenbaum constant δ approximately?",
+      "options": ["2.502", "4.669", "1.618", "3.142"],
+      "answer": "4.669"
+    },
+    {
+      "question": "What is the Khinchin constant approximately?",
+      "options": ["2.685", "3.142", "2.718", "1.414"],
+      "answer": "2.685"
+    },
+    {
+      "question": "What is the plastic number ρ approximately?",
+      "options": ["1.324", "1.414", "1.618", "1.732"],
+      "answer": "1.324"
+    },
+    {
+      "question": "What is the Champernowne constant C₁₀?",
+      "options": ["0.123456789...", "0.101001000...", "0.110011000...", "0.111222333..."],
+      "answer": "0.123456789..."
+    },
+    {
+      "question": "What is the Liouville constant approximately?",
+      "options": ["0.110001", "0.123456", "0.101010", "0.111111"],
+      "answer": "0.110001"
+    },
+    {
+      "question": "What is the twin prime constant approximately?",
+      "options": ["0.660", "1.320", "1.902", "2.584"],
+      "answer": "0.660"
+    },
+    {
+      "question": "What is the Meissel-Mertens constant approximately?",
+      "options": ["0.261", "0.577", "1.645", "2.685"],
+      "answer": "0.261"
+    },
+    {
+      "question": "What is the value of the continued fraction [3; 7, 15, 1, 292, ...]?",
+      "options": ["π", "e", "φ", "√2"],
+      "answer": "π"
+    }
+  ]
+}

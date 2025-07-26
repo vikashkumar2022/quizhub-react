@@ -1,0 +1,919 @@
+{
+  "questions": [
+    {
+      "question": "Who was the first President of the United States?",
+      "options": ["George Washington", "Thomas Jefferson", "John Adams", "Benjamin Franklin"],
+      "answer": "George Washington"
+    },
+    {
+      "question": "In which year did World War II end?",
+      "options": ["1944", "1945", "1946", "1947"],
+      "answer": "1945"
+    },
+    {
+      "question": "Which ancient wonder of the world was located in Alexandria?",
+      "options": ["Hanging Gardens", "Lighthouse of Alexandria", "Colossus of Rhodes", "Statue of Zeus"],
+      "answer": "Lighthouse of Alexandria"
+    },
+    {
+      "question": "Who was known as the 'Iron Lady'?",
+      "options": ["Queen Elizabeth II", "Margaret Thatcher", "Indira Gandhi", "Golda Meir"],
+      "answer": "Margaret Thatcher"
+    },
+    {
+      "question": "In which year did the Berlin Wall fall?",
+      "options": ["1987", "1988", "1989", "1990"],
+      "answer": "1989"
+    },
+    {
+      "question": "Who was the famous queen of ancient Egypt?",
+      "options": ["Nefertiti", "Hatshepsut", "Cleopatra", "Ankhesenamun"],
+      "answer": "Cleopatra"
+    },
+    {
+      "question": "Which empire was ruled by Julius Caesar?",
+      "options": ["Greek Empire", "Roman Empire", "Byzantine Empire", "Ottoman Empire"],
+      "answer": "Roman Empire"
+    },
+    {
+      "question": "The French Revolution began in which year?",
+      "options": ["1789", "1790", "1791", "1792"],
+      "answer": "1789"
+    },
+    {
+      "question": "Who discovered America in 1492?",
+      "options": ["Vasco da Gama", "Christopher Columbus", "Ferdinand Magellan", "Amerigo Vespucci"],
+      "answer": "Christopher Columbus"
+    },
+    {
+      "question": "Which war was fought between the North and South in America?",
+      "options": ["World War I", "Revolutionary War", "Civil War", "War of 1812"],
+      "answer": "Civil War"
+    },
+    {
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Donatello"],
+      "answer": "Michelangelo"
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "options": ["1910", "1911", "1912", "1913"],
+      "answer": "1912"
+    },
+    {
+      "question": "Who was the last Tsar of Russia?",
+      "options": ["Nicholas I", "Alexander III", "Nicholas II", "Alexander II"],
+      "answer": "Nicholas II"
+    },
+    {
+      "question": "Which ancient civilization built Machu Picchu?",
+      "options": ["Aztec", "Maya", "Inca", "Olmec"],
+      "answer": "Inca"
+    },
+    {
+      "question": "Who led India to independence from British rule?",
+      "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhas Chandra Bose", "Sardar Patel"],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question": "The Great Wall of China was built to protect against which people?",
+      "options": ["Mongols", "Tibetans", "Japanese", "Koreans"],
+      "answer": "Mongols"
+    },
+    {
+      "question": "Who was the first man to walk on the moon?",
+      "options": ["Buzz Aldrin", "Neil Armstrong", "John Glenn", "Alan Shepard"],
+      "answer": "Neil Armstrong"
+    },
+    {
+      "question": "Which city was the capital of the Byzantine Empire?",
+      "options": ["Rome", "Athens", "Constantinople", "Alexandria"],
+      "answer": "Constantinople"
+    },
+    {
+      "question": "Who wrote 'The Communist Manifesto'?",
+      "options": ["Karl Marx", "Friedrich Engels", "Both A and B", "Vladimir Lenin"],
+      "answer": "Both A and B"
+    },
+    {
+      "question": "In which year did World War I begin?",
+      "options": ["1912", "1913", "1914", "1915"],
+      "answer": "1914"
+    },
+    {
+      "question": "Which pharaoh built the Great Pyramid of Giza?",
+      "options": ["Khufu", "Khafre", "Menkaure", "Tutankhamun"],
+      "answer": "Khufu"
+    },
+    {
+      "question": "Who was the first Holy Roman Emperor?",
+      "options": ["Otto I", "Charlemagne", "Frederick I", "Henry IV"],
+      "answer": "Charlemagne"
+    },
+    {
+      "question": "The Renaissance began in which country?",
+      "options": ["France", "Germany", "Italy", "England"],
+      "answer": "Italy"
+    },
+    {
+      "question": "Who was known as the 'Sun King'?",
+      "options": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+      "answer": "Louis XIV"
+    },
+    {
+      "question": "Which explorer first circumnavigated the globe?",
+      "options": ["Christopher Columbus", "Vasco da Gama", "Ferdinand Magellan", "James Cook"],
+      "answer": "Ferdinand Magellan"
+    },
+    {
+      "question": "The Industrial Revolution began in which country?",
+      "options": ["France", "Germany", "United States", "England"],
+      "answer": "England"
+    },
+    {
+      "question": "Who was the last active pharaoh of Ancient Egypt?",
+      "options": ["Cleopatra VII", "Ptolemy XIV", "Caesarion", "Arsinoe IV"],
+      "answer": "Cleopatra VII"
+    },
+    {
+      "question": "Which battle marked the end of Napoleon's rule?",
+      "options": ["Battle of Leipzig", "Battle of Waterloo", "Battle of Austerlitz", "Battle of Borodino"],
+      "answer": "Battle of Waterloo"
+    },
+    {
+      "question": "Who founded the Mongol Empire?",
+      "options": ["Kublai Khan", "Genghis Khan", "Ogedei Khan", "Batu Khan"],
+      "answer": "Genghis Khan"
+    },
+    {
+      "question": "In which year did the United States declare independence?",
+      "options": ["1775", "1776", "1777", "1778"],
+      "answer": "1776"
+    },
+    {
+      "question": "Which ancient Greek philosopher taught Alexander the Great?",
+      "options": ["Socrates", "Plato", "Aristotle", "Pythagoras"],
+      "answer": "Aristotle"
+    },
+    {
+      "question": "The Black Death occurred in which century?",
+      "options": ["13th century", "14th century", "15th century", "16th century"],
+      "answer": "14th century"
+    },
+    {
+      "question": "Who was the first Emperor of Rome?",
+      "options": ["Julius Caesar", "Augustus", "Nero", "Caligula"],
+      "answer": "Augustus"
+    },
+    {
+      "question": "Which ship brought the Pilgrims to America?",
+      "options": ["Mayflower", "Santa Maria", "Pinta", "Nina"],
+      "answer": "Mayflower"
+    },
+    {
+      "question": "Who wrote '95 Theses' starting the Protestant Reformation?",
+      "options": ["John Calvin", "Martin Luther", "Huldrych Zwingli", "John Knox"],
+      "answer": "Martin Luther"
+    },
+    {
+      "question": "The Hundred Years' War was fought between which two countries?",
+      "options": ["England and France", "Spain and Portugal", "Germany and Italy", "Russia and Poland"],
+      "answer": "England and France"
+    },
+    {
+      "question": "Who was the first female Prime Minister of the United Kingdom?",
+      "options": ["Margaret Thatcher", "Theresa May", "Elizabeth I", "Victoria"],
+      "answer": "Margaret Thatcher"
+    },
+    {
+      "question": "Which empire was known as the 'Land of the Rising Sun'?",
+      "options": ["Chinese Empire", "Korean Empire", "Japanese Empire", "Mongol Empire"],
+      "answer": "Japanese Empire"
+    },
+    {
+      "question": "In which year did the Soviet Union collapse?",
+      "options": ["1989", "1990", "1991", "1992"],
+      "answer": "1991"
+    },
+    {
+      "question": "Who was the leader of Nazi Germany?",
+      "options": ["Heinrich Himmler", "Adolf Hitler", "Joseph Goebbels", "Hermann Göring"],
+      "answer": "Adolf Hitler"
+    },
+    {
+      "question": "Which ancient city was destroyed by Mount Vesuvius?",
+      "options": ["Rome", "Athens", "Pompeii", "Sparta"],
+      "answer": "Pompeii"
+    },
+    {
+      "question": "Who was the first person to fly solo across the Atlantic?",
+      "options": ["Amelia Earhart", "Charles Lindbergh", "Orville Wright", "Wilbur Wright"],
+      "answer": "Charles Lindbergh"
+    },
+    {
+      "question": "The Cuban Missile Crisis occurred in which year?",
+      "options": ["1960", "1961", "1962", "1963"],
+      "answer": "1962"
+    },
+    {
+      "question": "Who was the ancient Greek god of war?",
+      "options": ["Zeus", "Apollo", "Ares", "Hermes"],
+      "answer": "Ares"
+    },
+    {
+      "question": "Which treaty ended World War I?",
+      "options": ["Treaty of Versailles", "Treaty of Paris", "Treaty of Vienna", "Treaty of Berlin"],
+      "answer": "Treaty of Versailles"
+    },
+    {
+      "question": "Who was the founder of Buddhism?",
+      "options": ["Confucius", "Lao Tzu", "Siddhartha Gautama", "Mahavira"],
+      "answer": "Siddhartha Gautama"
+    },
+    {
+      "question": "In which year did the American Civil War end?",
+      "options": ["1863", "1864", "1865", "1866"],
+      "answer": "1865"
+    },
+    {
+      "question": "Who was the famous Carthaginian general who crossed the Alps?",
+      "options": ["Hamilcar", "Hannibal", "Hasdrubal", "Mago"],
+      "answer": "Hannibal"
+    },
+    {
+      "question": "Which Russian leader introduced glasnost and perestroika?",
+      "options": ["Leonid Brezhnev", "Mikhail Gorbachev", "Boris Yeltsin", "Vladimir Putin"],
+      "answer": "Mikhail Gorbachev"
+    },
+    {
+      "question": "The Magna Carta was signed in which year?",
+      "options": ["1213", "1214", "1215", "1216"],
+      "answer": "1215"
+    },
+    {
+      "question": "Who was the Egyptian queen who ruled alongside her son Ptolemy XIII?",
+      "options": ["Nefertiti", "Hatshepsut", "Cleopatra VII", "Arsinoe II"],
+      "answer": "Cleopatra VII"
+    },
+    {
+      "question": "Which event started World War I?",
+      "options": ["Invasion of Belgium", "Assassination of Archduke Franz Ferdinand", "Sinking of Lusitania", "Battle of Tannenberg"],
+      "answer": "Assassination of Archduke Franz Ferdinand"
+    },
+    {
+      "question": "Who was the first person to use moveable type printing?",
+      "options": ["Johannes Gutenberg", "William Caxton", "Aldus Manutius", "Bi Sheng"],
+      "answer": "Bi Sheng"
+    },
+    {
+      "question": "The Peloponnesian War was fought between which two city-states?",
+      "options": ["Athens and Sparta", "Rome and Carthage", "Troy and Sparta", "Athens and Thebes"],
+      "answer": "Athens and Sparta"
+    },
+    {
+      "question": "Who was the last emperor of China?",
+      "options": ["Guangxu", "Puyi", "Xuantong", "Kangxi"],
+      "answer": "Puyi"
+    },
+    {
+      "question": "In which year did India gain independence?",
+      "options": ["1946", "1947", "1948", "1949"],
+      "answer": "1947"
+    },
+    {
+      "question": "Who was the Roman general who conquered Gaul?",
+      "options": ["Pompey", "Crassus", "Julius Caesar", "Mark Antony"],
+      "answer": "Julius Caesar"
+    },
+    {
+      "question": "The War of Roses was fought in which country?",
+      "options": ["France", "Spain", "England", "Italy"],
+      "answer": "England"
+    },
+    {
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "options": ["Marie Curie", "Rosalind Franklin", "Dorothy Hodgkin", "Lise Meitner"],
+      "answer": "Marie Curie"
+    },
+    {
+      "question": "Which ancient wonder was located in Babylon?",
+      "options": ["Lighthouse", "Colossus", "Hanging Gardens", "Mausoleum"],
+      "answer": "Hanging Gardens"
+    },
+    {
+      "question": "The Boston Tea Party occurred in which year?",
+      "options": ["1771", "1772", "1773", "1774"],
+      "answer": "1773"
+    },
+    {
+      "question": "Who was the founder of the Ottoman Empire?",
+      "options": ["Osman I", "Orhan", "Murad I", "Bayezid I"],
+      "answer": "Osman I"
+    },
+    {
+      "question": "In which year did the Korean War end?",
+      "options": ["1951", "1952", "1953", "1954"],
+      "answer": "1953"
+    },
+    {
+      "question": "Who was the ancient Greek historian known as the 'Father of History'?",
+      "options": ["Thucydides", "Xenophon", "Herodotus", "Plutarch"],
+      "answer": "Herodotus"
+    },
+    {
+      "question": "The Suez Canal was completed in which year?",
+      "options": ["1867", "1868", "1869", "1870"],
+      "answer": "1869"
+    },
+    {
+      "question": "Who was the first female pharaoh of Egypt?",
+      "options": ["Hatshepsut", "Nefertiti", "Cleopatra", "Neithhotep"],
+      "answer": "Neithhotep"
+    },
+    {
+      "question": "The D-Day landings occurred in which year?",
+      "options": ["1942", "1943", "1944", "1945"],
+      "answer": "1944"
+    },
+    {
+      "question": "Who was the leader of the Soviet Union during World War II?",
+      "options": ["Vladimir Lenin", "Leon Trotsky", "Joseph Stalin", "Nikita Khrushchev"],
+      "answer": "Joseph Stalin"
+    },
+    {
+      "question": "Which ancient civilization created the first known system of writing?",
+      "options": ["Egyptian", "Sumerian", "Chinese", "Indus Valley"],
+      "answer": "Sumerian"
+    },
+    {
+      "question": "The Panama Canal was completed in which year?",
+      "options": ["1912", "1913", "1914", "1915"],
+      "answer": "1914"
+    },
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "Subhas Chandra Bose"],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question": "The Battle of Hastings took place in which year?",
+      "options": ["1064", "1065", "1066", "1067"],
+      "answer": "1066"
+    },
+    {
+      "question": "Who was the famous Viking explorer who reached North America?",
+      "options": ["Erik the Red", "Leif Erikson", "Ragnar Lothbrok", "Olaf Tryggvason"],
+      "answer": "Leif Erikson"
+    },
+    {
+      "question": "The Spanish Armada was defeated in which year?",
+      "options": ["1586", "1587", "1588", "1589"],
+      "answer": "1588"
+    },
+    {
+      "question": "Who was the first Secretary-General of the United Nations?",
+      "options": ["Dag Hammarskjöld", "U Thant", "Trygve Lie", "Kurt Waldheim"],
+      "answer": "Trygve Lie"
+    },
+    {
+      "question": "The Great Fire of London occurred in which year?",
+      "options": ["1664", "1665", "1666", "1667"],
+      "answer": "1666"
+    },
+    {
+      "question": "Who was the ancient Greek philosopher who taught Plato?",
+      "options": ["Aristotle", "Socrates", "Pythagoras", "Heraclitus"],
+      "answer": "Socrates"
+    },
+    {
+      "question": "The Treaty of Westphalia ended which war?",
+      "options": ["Hundred Years' War", "Thirty Years' War", "Seven Years' War", "War of Spanish Succession"],
+      "answer": "Thirty Years' War"
+    },
+    {
+      "question": "Who was the first person to reach the South Pole?",
+      "options": ["Robert Falcon Scott", "Roald Amundsen", "Ernest Shackleton", "Richard Byrd"],
+      "answer": "Roald Amundsen"
+    },
+    {
+      "question": "The Boxer Rebellion occurred in which country?",
+      "options": ["Japan", "Korea", "China", "Vietnam"],
+      "answer": "China"
+    },
+    {
+      "question": "Who was the Roman emperor when Jesus was crucified?",
+      "options": ["Augustus", "Tiberius", "Caligula", "Claudius"],
+      "answer": "Tiberius"
+    },
+    {
+      "question": "The Watergate scandal led to the resignation of which US President?",
+      "options": ["Lyndon Johnson", "Richard Nixon", "Gerald Ford", "Jimmy Carter"],
+      "answer": "Richard Nixon"
+    },
+    {
+      "question": "Who was the first person to climb Mount Everest?",
+      "options": ["George Mallory", "Edmund Hillary", "Tenzing Norgay", "Both B and C"],
+      "answer": "Both B and C"
+    },
+    {
+      "question": "The Opium Wars were fought between China and which country?",
+      "options": ["France", "Britain", "Russia", "Japan"],
+      "answer": "Britain"
+    },
+    {
+      "question": "Who was the founder of the Mauryan Empire?",
+      "options": ["Chandragupta Maurya", "Ashoka", "Bindusara", "Dasharatha"],
+      "answer": "Chandragupta Maurya"
+    },
+    {
+      "question": "The Salem Witch Trials took place in which century?",
+      "options": ["16th century", "17th century", "18th century", "19th century"],
+      "answer": "17th century"
+    },
+    {
+      "question": "Who was the last Byzantine Emperor?",
+      "options": ["John VIII", "Constantine XI", "John VII", "Manuel II"],
+      "answer": "Constantine XI"
+    },
+    {
+      "question": "The Battle of Marathon was fought between Greeks and which empire?",
+      "options": ["Roman Empire", "Persian Empire", "Macedonian Empire", "Ottoman Empire"],
+      "answer": "Persian Empire"
+    },
+    {
+      "question": "Who was the first person to sail around Cape Horn?",
+      "options": ["Francis Drake", "Willem Schouten", "Ferdinand Magellan", "James Cook"],
+      "answer": "Willem Schouten"
+    },
+    {
+      "question": "The Crimean War was fought in which century?",
+      "options": ["18th century", "19th century", "20th century", "17th century"],
+      "answer": "19th century"
+    },
+    {
+      "question": "Who was the ancient Egyptian god of the underworld?",
+      "options": ["Ra", "Horus", "Osiris", "Anubis"],
+      "answer": "Osiris"
+    },
+    {
+      "question": "The Lewis and Clark Expedition took place during which presidency?",
+      "options": ["George Washington", "John Adams", "Thomas Jefferson", "James Madison"],
+      "answer": "Thomas Jefferson"
+    },
+    {
+      "question": "Who was the first female ruler of Russia?",
+      "options": ["Catherine the Great", "Catherine I", "Elizabeth", "Anna"],
+      "answer": "Catherine I"
+    },
+    {
+      "question": "The Glorious Revolution took place in which year?",
+      "options": ["1686", "1687", "1688", "1689"],
+      "answer": "1688"
+    },
+    {
+      "question": "Who was the famous Macedonian king who conquered much of the ancient world?",
+      "options": ["Philip II", "Alexander the Great", "Darius III", "Cyrus the Great"],
+      "answer": "Alexander the Great"
+    },
+    {
+      "question": "The Scramble for Africa primarily took place in which century?",
+      "options": ["18th century", "19th century", "20th century", "17th century"],
+      "answer": "19th century"
+    },
+    {
+      "question": "Who was the first person to use the term 'Iron Curtain'?",
+      "options": ["Harry Truman", "Winston Churchill", "Joseph Stalin", "Franklin Roosevelt"],
+      "answer": "Winston Churchill"
+    },
+    {
+      "question": "The Peasants' Revolt occurred in which country?",
+      "options": ["France", "Germany", "England", "Russia"],
+      "answer": "England"
+    },
+    {
+      "question": "Who was the founder of the Sikh religion?",
+      "options": ["Guru Nanak", "Guru Gobind Singh", "Guru Arjan", "Guru Tegh Bahadur"],
+      "answer": "Guru Nanak"
+    },
+    {
+      "question": "The Congress of Vienna took place in which year?",
+      "options": ["1813", "1814", "1815", "1816"],
+      "answer": "1815"
+    },
+    {
+      "question": "Who was the last Inca emperor?",
+      "options": ["Atahualpa", "Huascar", "Manco Inca", "Tupac Amaru"],
+      "answer": "Atahualpa"
+    },
+    {
+      "question": "The Six-Day War was fought in which year?",
+      "options": ["1965", "1966", "1967", "1968"],
+      "answer": "1967"
+    },
+    {
+      "question": "Who was the ancient Roman goddess of wisdom?",
+      "options": ["Venus", "Diana", "Minerva", "Juno"],
+      "answer": "Minerva"
+    },
+    {
+      "question": "The First Crusade began in which year?",
+      "options": ["1095", "1096", "1097", "1098"],
+      "answer": "1096"
+    },
+    {
+      "question": "Who was the first person to receive two Nobel Prizes?",
+      "options": ["Marie Curie", "Linus Pauling", "John Bardeen", "Frederick Sanger"],
+      "answer": "Marie Curie"
+    },
+    {
+      "question": "The Meiji Restoration occurred in which country?",
+      "options": ["China", "Korea", "Japan", "Vietnam"],
+      "answer": "Japan"
+    },
+    {
+      "question": "Who was the leader of the Bolsheviks during the Russian Revolution?",
+      "options": ["Leon Trotsky", "Vladimir Lenin", "Joseph Stalin", "Nikolai Bukharin"],
+      "answer": "Vladimir Lenin"
+    },
+    {
+      "question": "The Treaty of Tordesillas divided the New World between which two countries?",
+      "options": ["Spain and Portugal", "Spain and France", "Portugal and England", "Spain and England"],
+      "answer": "Spain and Portugal"
+    },
+    {
+      "question": "Who was the first person to break the sound barrier?",
+      "options": ["Chuck Yeager", "John Glenn", "Neil Armstrong", "Buzz Aldrin"],
+      "answer": "Chuck Yeager"
+    },
+    {
+      "question": "The Jacobite Risings occurred in which country?",
+      "options": ["Ireland", "Scotland", "Wales", "England"],
+      "answer": "Scotland"
+    },
+    {
+      "question": "Who was the ancient Greek god of the sea?",
+      "options": ["Zeus", "Hades", "Poseidon", "Apollo"],
+      "answer": "Poseidon"
+    },
+    {
+      "question": "The Siege of Stalingrad lasted for approximately how many months?",
+      "options": ["4 months", "5 months", "6 months", "7 months"],
+      "answer": "5 months"
+    },
+    {
+      "question": "Who was the first woman to serve as a head of government?",
+      "options": ["Golda Meir", "Indira Gandhi", "Margaret Thatcher", "Sirimavo Bandaranaike"],
+      "answer": "Sirimavo Bandaranaike"
+    },
+    {
+      "question": "The Thirty Years' War ended in which year?",
+      "options": ["1646", "1647", "1648", "1649"],
+      "answer": "1648"
+    },
+    {
+      "question": "Who was the founder of the Achaemenid Empire?",
+      "options": ["Cyrus the Great", "Darius I", "Xerxes I", "Cambyses II"],
+      "answer": "Cyrus the Great"
+    },
+    {
+      "question": "The Battle of Gettysburg was fought in which year?",
+      "options": ["1861", "1862", "1863", "1864"],
+      "answer": "1863"
+    },
+    {
+      "question": "Who was the ancient Mesopotamian king who created the first known law code?",
+      "options": ["Hammurabi", "Sargon", "Nebuchadnezzar", "Gilgamesh"],
+      "answer": "Hammurabi"
+    },
+    {
+      "question": "The Cultural Revolution took place in which country?",
+      "options": ["Soviet Union", "China", "Cuba", "Vietnam"],
+      "answer": "China"
+    },
+    {
+      "question": "Who was the first person to reach the North Pole?",
+      "options": ["Robert Peary", "Frederick Cook", "Roald Amundsen", "Ernest Shackleton"],
+      "answer": "Robert Peary"
+    },
+    {
+      "question": "The Reconquista ended in which year?",
+      "options": ["1490", "1491", "1492", "1493"],
+      "answer": "1492"
+    },
+    {
+      "question": "Who was the Roman emperor who legalized Christianity?",
+      "options": ["Constantine I", "Theodosius I", "Diocletian", "Marcus Aurelius"],
+      "answer": "Constantine I"
+    },
+    {
+      "question": "The Long March took place in which country?",
+      "options": ["India", "China", "Vietnam", "Korea"],
+      "answer": "China"
+    },
+    {
+      "question": "Who was the first person to fly across the English Channel?",
+      "options": ["Orville Wright", "Wilbur Wright", "Louis Blériot", "Alberto Santos-Dumont"],
+      "answer": "Louis Blériot"
+    },
+    {
+      "question": "The Taiping Rebellion occurred in which century?",
+      "options": ["18th century", "19th century", "20th century", "17th century"],
+      "answer": "19th century"
+    },
+    {
+      "question": "Who was the ancient Egyptian queen who ruled for 22 years?",
+      "options": ["Cleopatra", "Nefertiti", "Hatshepsut", "Ankhesenamun"],
+      "answer": "Hatshepsut"
+    },
+    {
+      "question": "The Battle of Tours took place in which year?",
+      "options": ["730", "731", "732", "733"],
+      "answer": "732"
+    },
+    {
+      "question": "Who was the first European to reach India by sea?",
+      "options": ["Christopher Columbus", "Vasco da Gama", "Ferdinand Magellan", "Bartolomeu Dias"],
+      "answer": "Vasco da Gama"
+    },
+    {
+      "question": "The Reign of Terror occurred during which revolution?",
+      "options": ["American Revolution", "French Revolution", "Russian Revolution", "Chinese Revolution"],
+      "answer": "French Revolution"
+    },
+    {
+      "question": "Who was the last emperor of the Western Roman Empire?",
+      "options": ["Romulus Augustulus", "Julius Nepos", "Glycerius", "Olybrius"],
+      "answer": "Romulus Augustulus"
+    },
+    {
+      "question": "The Berlin Conference divided which continent?",
+      "options": ["Asia", "Africa", "South America", "Australia"],
+      "answer": "Africa"
+    },
+    {
+      "question": "Who was the ancient Greek physician known as the 'Father of Medicine'?",
+      "options": ["Galen", "Hippocrates", "Asclepius", "Dioscorides"],
+      "answer": "Hippocrates"
+    },
+    {
+      "question": "The Easter Rising took place in which city?",
+      "options": ["Belfast", "Cork", "Dublin", "Galway"],
+      "answer": "Dublin"
+    },
+    {
+      "question": "Who was the first person to orbit the Earth?",
+      "options": ["John Glenn", "Alan Shepard", "Yuri Gagarin", "Valentina Tereshkova"],
+      "answer": "Yuri Gagarin"
+    },
+    {
+      "question": "The War of Jenkins' Ear was fought between which two countries?",
+      "options": ["England and Spain", "France and England", "Spain and Portugal", "France and Spain"],
+      "answer": "England and Spain"
+    },
+    {
+      "question": "Who was the founder of the Kingdom of Saudi Arabia?",
+      "options": ["Abdul Aziz Ibn Saud", "Faisal I", "Hussein bin Ali", "Ibn Rashid"],
+      "answer": "Abdul Aziz Ibn Saud"
+    },
+    {
+      "question": "The Defenestration of Prague triggered which war?",
+      "options": ["Thirty Years' War", "Seven Years' War", "War of Austrian Succession", "Hussite Wars"],
+      "answer": "Thirty Years' War"
+    },
+    {
+      "question": "Who was the ancient Roman general who crossed the Rubicon?",
+      "options": ["Pompey", "Crassus", "Julius Caesar", "Mark Antony"],
+      "answer": "Julius Caesar"
+    },
+    {
+      "question": "The Balfour Declaration was issued in which year?",
+      "options": ["1915", "1916", "1917", "1918"],
+      "answer": "1917"
+    },
+    {
+      "question": "Who was the first person to use anesthesia in surgery?",
+      "options": ["William Morton", "Crawford Long", "Horace Wells", "James Simpson"],
+      "answer": "Crawford Long"
+    },
+    {
+      "question": "The Battle of Thermopylae was fought in which year BC?",
+      "options": ["478", "479", "480", "481"],
+      "answer": "480"
+    },
+    {
+      "question": "Who was the ancient Chinese philosopher who founded Taoism?",
+      "options": ["Confucius", "Mencius", "Lao Tzu", "Xunzi"],
+      "answer": "Lao Tzu"
+    },
+    {
+      "question": "The Velvet Revolution took place in which country?",
+      "options": ["Poland", "Hungary", "Czechoslovakia", "East Germany"],
+      "answer": "Czechoslovakia"
+    },
+    {
+      "question": "Who was the first person to perform a successful heart transplant?",
+      "options": ["Michael DeBakey", "Christiaan Barnard", "Norman Shumway", "Richard Lower"],
+      "answer": "Christiaan Barnard"
+    },
+    {
+      "question": "The War of the Roses was fought between which two houses?",
+      "options": ["York and Lancaster", "Tudor and Stuart", "Plantagenet and Hanover", "Windsor and Saxe-Coburg"],
+      "answer": "York and Lancaster"
+    },
+    {
+      "question": "Who was the ancient Greek mathematician known for his theorem about right triangles?",
+      "options": ["Euclid", "Archimedes", "Pythagoras", "Thales"],
+      "answer": "Pythagoras"
+    },
+    {
+      "question": "The Fashoda Incident nearly caused war between which two countries?",
+      "options": ["Britain and France", "Britain and Germany", "France and Germany", "Britain and Russia"],
+      "answer": "Britain and France"
+    },
+    {
+      "question": "Who was the first woman to win the Nobel Prize in Literature?",
+      "options": ["Selma Lagerlöf", "Grazia Deledda", "Sigrid Undset", "Pearl S. Buck"],
+      "answer": "Selma Lagerlöf"
+    },
+    {
+      "question": "The Tennis Court Oath was made during which revolution?",
+      "options": ["American Revolution", "French Revolution", "Haitian Revolution", "Russian Revolution"],
+      "answer": "French Revolution"
+    },
+    {
+      "question": "Who was the ancient Egyptian pharaoh who built Abu Simbel?",
+      "options": ["Ramesses II", "Seti I", "Thutmose III", "Amenhotep II"],
+      "answer": "Ramesses II"
+    },
+    {
+      "question": "The Zimmermann Telegram helped bring which country into World War I?",
+      "options": ["United States", "Italy", "Japan", "Brazil"],
+      "answer": "United States"
+    },
+    {
+      "question": "Who was the first person to discover the structure of DNA?",
+      "options": ["Watson and Crick", "Rosalind Franklin", "Maurice Wilkins", "Linus Pauling"],
+      "answer": "Watson and Crick"
+    },
+    {
+      "question": "The Siege of Vienna was lifted in which year?",
+      "options": ["1681", "1682", "1683", "1684"],
+      "answer": "1683"
+    },
+    {
+      "question": "Who was the ancient Roman poet who wrote the Aeneid?",
+      "options": ["Ovid", "Horace", "Virgil", "Catullus"],
+      "answer": "Virgil"
+    },
+    {
+      "question": "The Munich Agreement was signed in which year?",
+      "options": ["1936", "1937", "1938", "1939"],
+      "answer": "1938"
+    },
+    {
+      "question": "Who was the first person to complete a solo flight around the world?",
+      "options": ["Charles Lindbergh", "Amelia Earhart", "Wiley Post", "Howard Hughes"],
+      "answer": "Wiley Post"
+    },
+    {
+      "question": "The Popish Plot occurred during the reign of which English king?",
+      "options": ["Charles I", "Charles II", "James I", "James II"],
+      "answer": "Charles II"
+    },
+    {
+      "question": "Who was the ancient Greek playwright known for his tragedies?",
+      "options": ["Aristophanes", "Sophocles", "Menander", "Euripides"],
+      "answer": "Sophocles"
+    },
+    {
+      "question": "The Molotov-Ribbentrop Pact was signed between which two countries?",
+      "options": ["Germany and Italy", "Germany and Soviet Union", "Soviet Union and Japan", "Germany and Japan"],
+      "answer": "Germany and Soviet Union"
+    },
+    {
+      "question": "Who was the first person to receive a Nobel Prize in Physics?",
+      "options": ["Marie Curie", "Wilhelm Röntgen", "Henri Becquerel", "Pierre Curie"],
+      "answer": "Wilhelm Röntgen"
+    },
+    {
+      "question": "The Battle of Culloden ended which uprising?",
+      "options": ["Irish Rebellion", "Jacobite Rising", "Welsh Revolt", "English Civil War"],
+      "answer": "Jacobite Rising"
+    },
+    {
+      "question": "Who was the ancient Chinese emperor who unified China?",
+      "options": ["Qin Shi Huang", "Emperor Wu", "Emperor Gao", "Emperor Wen"],
+      "answer": "Qin Shi Huang"
+    },
+    {
+      "question": "The Camp David Accords were signed in which year?",
+      "options": ["1976", "1977", "1978", "1979"],
+      "answer": "1978"
+    },
+    {
+      "question": "Who was the first person to reach both the North and South Poles?",
+      "options": ["Roald Amundsen", "Robert Peary", "Ernest Shackleton", "Richard Byrd"],
+      "answer": "Roald Amundsen"
+    },
+    {
+      "question": "The Gunpowder Plot was attempted in which year?",
+      "options": ["1603", "1604", "1605", "1606"],
+      "answer": "1605"
+    },
+    {
+      "question": "Who was the ancient Greek physician who wrote the Hippocratic Oath?",
+      "options": ["Galen", "Hippocrates", "Asclepius", "Erasistratus"],
+      "answer": "Hippocrates"
+    },
+    {
+      "question": "The Yalta Conference took place in which year?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "answer": "1945"
+    },
+    {
+      "question": "Who was the first person to successfully climb all seven summits?",
+      "options": ["Edmund Hillary", "Reinhold Messner", "Dick Bass", "Frank Wells"],
+      "answer": "Dick Bass"
+    },
+    {
+      "question": "The Partition of Bengal occurred in which year?",
+      "options": ["1903", "1904", "1905", "1906"],
+      "answer": "1905"
+    },
+    {
+      "question": "Who was the ancient Roman emperor who built Hadrian's Wall?",
+      "options": ["Trajan", "Hadrian", "Marcus Aurelius", "Antoninus Pius"],
+      "answer": "Hadrian"
+    },
+    {
+      "question": "The Non-Aligned Movement was founded in which year?",
+      "options": ["1954", "1955", "1961", "1962"],
+      "answer": "1961"
+    },
+    {
+      "question": "Who was the first person to successfully perform in vitro fertilization?",
+      "options": ["Robert Edwards", "Patrick Steptoe", "Both A and B", "Louise Brown"],
+      "answer": "Both A and B"
+    },
+    {
+      "question": "The Investiture Controversy was a conflict between the Pope and which empire?",
+      "options": ["Byzantine Empire", "Holy Roman Empire", "Ottoman Empire", "Carolingian Empire"],
+      "answer": "Holy Roman Empire"
+    },
+    {
+      "question": "Who was the ancient Greek mathematician known as the 'Father of Geometry'?",
+      "options": ["Pythagoras", "Euclid", "Archimedes", "Apollonius"],
+      "answer": "Euclid"
+    },
+    {
+      "question": "The Potsdam Conference took place in which year?",
+      "options": ["1944", "1945", "1946", "1947"],
+      "answer": "1945"
+    },
+    {
+      "question": "Who was the first person to successfully transplant a kidney?",
+      "options": ["Joseph Murray", "David Hume", "Richard Lawler", "Thomas Starzl"],
+      "answer": "Richard Lawler"
+    },
+    {
+      "question": "The Anschluss occurred in which year?",
+      "options": ["1936", "1937", "1938", "1939"],
+      "answer": "1938"
+    },
+    {
+      "question": "Who was the ancient Roman historian who wrote 'The Annals'?",
+      "options": ["Livy", "Tacitus", "Suetonius", "Plutarch"],
+      "answer": "Tacitus"
+    },
+    {
+      "question": "The Marshall Plan was announced in which year?",
+      "options": ["1945", "1946", "1947", "1948"],
+      "answer": "1947"
+    },
+    {
+      "question": "Who was the first person to successfully perform open-heart surgery?",
+      "options": ["John Gibbon", "Michael DeBakey", "Christiaan Barnard", "Norman Shumway"],
+      "answer": "John Gibbon"
+    },
+    {
+      "question": "The Congress of Berlin took place in which year?",
+      "options": ["1876", "1877", "1878", "1879"],
+      "answer": "1878"
+    },
+    {
+      "question": "Who was the ancient Greek philosopher who founded the Academy?",
+      "options": ["Socrates", "Plato", "Aristotle", "Diogenes"],
+      "answer": "Plato"
+    },
+    {
+      "question": "The Bretton Woods Conference took place in which year?",
+      "options": ["1942", "1943", "1944", "1945"],
+      "answer": "1944"
+    },
+    {
+      "question": "Who was the first person to successfully perform a lung transplant?",
+      "options": ["James Hardy", "Bruce Reitz", "Joel Cooper", "Norman Shumway"],
+      "answer": "James Hardy"
+    }
+  ]
+}
