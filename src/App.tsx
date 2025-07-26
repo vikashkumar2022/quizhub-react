@@ -180,7 +180,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Router>
+      <Router basename="/quizhub-react">
         <AnimatedBackground />
         <Box sx={{ minHeight: '100vh', position: 'relative' }}>
           <Header />
